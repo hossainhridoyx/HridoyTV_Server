@@ -18,5 +18,10 @@
     "Laliga",
     "Ten Sports"
   ],
-  "customChannels": []
+  "customChannels": [
+    {
+      "name": "Sun bangla",
+      "url": "http://27.124.71.27/Sun_Bangla/index.m3u8"
+    }
+  ]
 }
