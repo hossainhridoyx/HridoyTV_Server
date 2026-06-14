@@ -1,27 +1,115 @@
 {
   "wantedChannels": [
-    "Sky Sports Premier League",
-    "A sports",
-    "Sky sports cricket",
-    "Sky sport nz 1",
-    "Premier Sports 1",
-    "Ptv sports",
-    "Willow HD 2",
-    "Star sports",
-    "T sports 1 Hindi",
-    "Willow",
-    "Sky sport nz 2",
-    "Premier Sports 2",
-    "ESPN 2",
-    "Tnt 2",
-    "Tnt 1",
-    "Laliga",
-    "Ten Sports"
+    {
+      "name": "Sky Sports Premier League",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "A sports",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Sky sports cricket",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Sky sport nz 1",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Premier Sports 1",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Ptv sports",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Willow HD 2",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Star sports",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "T sports 1 Hindi",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Willow",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Sky sport nz 2",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Premier Sports 2",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "ESPN 2",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Tnt 2",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Tnt 1",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Laliga",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    },
+    {
+      "name": "Ten Sports",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true
+    }
   ],
   "customChannels": [
     {
       "name": "Sun bangla",
-      "url": "http://27.124.71.27/Sun_Bangla/index.m3u8"
+      "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
+      "category": "Entertainment",
+      "logo": "",
+      "enabled": true
     }
   ]
 }
