@@ -4,103 +4,120 @@
       "name": "Sky Sports Premier League",
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
-      "enabled": true
-    },
-    {
-      "name": "A sports",
-      "category": "Sports",
-      "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
-      "enabled": true
+      "enabled": true,
+      "order": 1
     },
     {
       "name": "Sky sports cricket",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 2
     },
     {
       "name": "Sky sport nz 1",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 3
     },
     {
       "name": "Premier Sports 1",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 4
     },
     {
       "name": "Ptv sports",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 6
     },
     {
       "name": "Willow HD 2",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 7
     },
     {
       "name": "Star sports",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 8
     },
     {
       "name": "T sports 1 Hindi",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 9
     },
     {
       "name": "Willow",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 10
     },
     {
       "name": "Sky sport nz 2",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 11
+    },
+    {
+      "name": "A sports",
+      "category": "Sports",
+      "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
+      "enabled": true,
+      "order": 12
     },
     {
       "name": "Premier Sports 2",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 13
     },
     {
       "name": "ESPN 2",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 14
     },
     {
       "name": "Tnt 2",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 15
     },
     {
       "name": "Tnt 1",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 16
     },
     {
       "name": "Laliga",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 17
     },
     {
       "name": "Ten Sports",
       "category": "Sports",
       "logo": "",
-      "enabled": true
+      "enabled": true,
+      "order": 18
     }
   ],
   "customChannels": [
@@ -109,7 +126,8 @@
       "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
-      "enabled": true
+      "enabled": true,
+      "order": 5
     }
   ]
 }
