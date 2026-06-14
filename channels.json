@@ -5,28 +5,28 @@
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
       "enabled": true,
-      "order": 1
+      "order": 2
     },
     {
       "name": "Sky sports cricket",
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 2
+      "order": 3
     },
     {
       "name": "Sky sport nz 1",
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 3
+      "order": 4
     },
     {
       "name": "Premier Sports 1",
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 4
+      "order": 5
     },
     {
       "name": "Ptv sports",
@@ -127,7 +127,7 @@
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
       "enabled": true,
-      "order": 5
+      "order": 1
     }
   ]
 }
