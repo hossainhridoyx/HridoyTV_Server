@@ -1,6 +1,13 @@
 {
   "wantedChannels": [
     {
+      "name": "Ptv sports",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 1
+    },
+    {
       "name": "Sky Sports Premier League",
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
@@ -23,13 +30,6 @@
     },
     {
       "name": "Premier Sports 1",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
-      "order": 5
-    },
-    {
-      "name": "Ptv sports",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -127,7 +127,7 @@
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
       "enabled": true,
-      "order": 1
+      "order": 5
     }
   ]
 }
