@@ -2,6 +2,8 @@
   "wantedChannels": [
     {
       "name": "Ptv sports",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -9,27 +11,35 @@
     },
     {
       "name": "Sky Sports Premier League",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
-      "enabled": true,
-      "order": 2
-    },
-    {
-      "name": "Sky sports cricket",
-      "category": "Sports",
-      "logo": "",
       "enabled": true,
       "order": 3
     },
     {
-      "name": "Sky sport nz 1",
+      "name": "Sky sports cricket",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
       "order": 4
     },
     {
+      "name": "Sky sport nz 1",
+      "type": "wanted",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 5
+    },
+    {
       "name": "Premier Sports 1",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -37,6 +47,8 @@
     },
     {
       "name": "Willow HD 2",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -44,6 +56,8 @@
     },
     {
       "name": "Star sports",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -51,6 +65,8 @@
     },
     {
       "name": "T sports 1 Hindi",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -58,6 +74,8 @@
     },
     {
       "name": "Willow",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -65,6 +83,8 @@
     },
     {
       "name": "Sky sport nz 2",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -72,6 +92,8 @@
     },
     {
       "name": "A sports",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
       "enabled": true,
@@ -79,6 +101,8 @@
     },
     {
       "name": "Premier Sports 2",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -86,6 +110,8 @@
     },
     {
       "name": "ESPN 2",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -93,6 +119,8 @@
     },
     {
       "name": "Tnt 2",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -100,6 +128,8 @@
     },
     {
       "name": "Tnt 1",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -107,6 +137,8 @@
     },
     {
       "name": "Laliga",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -114,6 +146,8 @@
     },
     {
       "name": "Ten Sports",
+      "type": "wanted",
+      "url": "",
       "category": "Sports",
       "logo": "",
       "enabled": true,
@@ -123,11 +157,12 @@
   "customChannels": [
     {
       "name": "Sun bangla",
+      "type": "custom",
       "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
       "enabled": true,
-      "order": 5
+      "order": 2
     }
   ]
 }
