@@ -7,7 +7,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 1
+      "order": 2
     },
     {
       "name": "Sky Sports Premier League",
@@ -162,7 +162,7 @@
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
       "enabled": true,
-      "order": 2
+      "order": 1
     }
   ]
 }
