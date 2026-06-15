@@ -3,6 +3,7 @@
     {
       "name": "Ptv sports",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -15,6 +16,7 @@
     {
       "name": "Sky Sports Premier League",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -27,6 +29,7 @@
     {
       "name": "Sky sports cricket",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -39,6 +42,7 @@
     {
       "name": "Sky sport nz 1",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -51,6 +55,7 @@
     {
       "name": "Premier Sports 1",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -63,6 +68,7 @@
     {
       "name": "Willow HD 2",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -75,6 +81,7 @@
     {
       "name": "Star sports",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -87,6 +94,7 @@
     {
       "name": "T sports 1 Hindi",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -99,6 +107,7 @@
     {
       "name": "Willow",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -111,6 +120,7 @@
     {
       "name": "Sky sport nz 2",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -123,6 +133,7 @@
     {
       "name": "A sports",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -135,6 +146,7 @@
     {
       "name": "Premier Sports 2",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -147,6 +159,7 @@
     {
       "name": "ESPN 2",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -159,6 +172,7 @@
     {
       "name": "Tnt 2",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -171,6 +185,7 @@
     {
       "name": "Tnt 1",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -183,6 +198,7 @@
     {
       "name": "Laliga",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -195,6 +211,7 @@
     {
       "name": "Ten Sports",
       "type": "wanted",
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -209,6 +226,9 @@
     {
       "name": "Sun bangla",
       "type": "custom",
+      "wantedSources": [
+        "Laliga"
+      ],
       "streams": [
         "http://27.124.71.27/Sun_Bangla/index.m3u8",
         "http://27.124.71.27/Su9n_Bangla/index.m3u8"
