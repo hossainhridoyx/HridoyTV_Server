@@ -73,6 +73,15 @@
       "order": 9
     },
     {
+      "name": "Willow",
+      "type": "wanted",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 10
+    },
+    {
       "name": "Sky sport nz 2",
       "type": "wanted",
       "url": "",
