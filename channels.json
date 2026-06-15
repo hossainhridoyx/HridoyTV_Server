@@ -3,10 +3,12 @@
     {
       "name": "Ptv sports",
       "type": "wanted",
-      "wantedSources": [],
+      "wantedSources": [
+        "A sports"
+      ],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "",
+      "wantedSource": "A sports",
       "url": "",
       "category": "Sports",
       "logo": "",
