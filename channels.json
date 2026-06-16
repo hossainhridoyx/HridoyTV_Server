@@ -1,4 +1,261 @@
 {
-  "wantedChannels": [],
-  "customChannels": []
+  "wantedChannels": [
+    {
+      "name": "FIFA World Cup 2026",
+      "type": "wanted",
+      "wantedSources": [
+        "Laliga"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "Laliga",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/TqtVdWMT/562e55efe29f.jpg",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "name": "Ptv sports",
+      "type": "wanted",
+      "wantedSources": [
+        "Ptv sports"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "Ptv sports",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "name": "Dzn (FIFA)",
+      "type": "wanted",
+      "wantedSources": [
+        "Disney +Sp"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "Disney +Sp",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "name": "Sky sports cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "name": "Sky sport nz 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 6
+    },
+    {
+      "name": "Premier Sports 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 7
+    },
+    {
+      "name": "Willow HD 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 8
+    },
+    {
+      "name": "Star sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 9
+    },
+    {
+      "name": "T sports 1 Hindi",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 10
+    },
+    {
+      "name": "Willow",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 11
+    },
+    {
+      "name": "Sky sport nz 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 12
+    },
+    {
+      "name": "A sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
+      "enabled": true,
+      "order": 13
+    },
+    {
+      "name": "Premier Sports 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 14
+    },
+    {
+      "name": "ESPN 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 15
+    },
+    {
+      "name": "Tnt 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 16
+    },
+    {
+      "name": "Tnt 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 17
+    },
+    {
+      "name": "Ten Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 18
+    }
+  ],
+  "customChannels": [
+    {
+      "name": "Sun bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "streams": [
+        "http://27.124.71.27/Sun_Bangla/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
+      "enabled": true,
+      "order": 19
+    }
+  ]
 }
