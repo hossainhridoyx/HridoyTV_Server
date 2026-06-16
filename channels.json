@@ -265,6 +265,19 @@
       "logo": "",
       "enabled": true,
       "order": 23
+    },
+    {
+      "name": "Bein Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 24
     }
   ],
   "customChannels": [
