@@ -267,6 +267,19 @@
       "logo": "",
       "enabled": true,
       "order": 22
+    },
+    {
+      "name": "Nbc",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 23
     }
   ],
   "customChannels": [
