@@ -17,22 +17,6 @@
       "order": 1
     },
     {
-      "name": "Ptv sports",
-      "type": "wanted",
-      "wantedSources": [
-        "Ptv sports"
-      ],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "Ptv sports",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
-      "enabled": true,
-      "order": 2
-    },
-    {
       "name": "Dzn (FIFA)",
       "type": "wanted",
       "wantedSources": [
@@ -46,7 +30,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg",
       "enabled": true,
-      "order": 3
+      "order": 2
     },
     {
       "name": "Bein Sports port HD",
@@ -62,7 +46,65 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
       "enabled": true,
+      "order": 4
+    },
+    {
+      "name": "Ptv sports",
+      "type": "wanted",
+      "wantedSources": [
+        "Ptv sports"
+      ],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "Ptv sports",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
+      "enabled": true,
       "order": 5
+    },
+    {
+      "name": "A sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/ds7LmWJt/2ad4121d58b6.jpg",
+      "enabled": true,
+      "order": 6
+    },
+    {
+      "name": "Willow",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg",
+      "enabled": true,
+      "order": 7
+    },
+    {
+      "name": "Willow HD 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg",
+      "enabled": true,
+      "order": 8
     },
     {
       "name": "Sky Sports Premier League",
@@ -76,7 +118,7 @@
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
       "enabled": true,
-      "order": 6
+      "order": 9
     },
     {
       "name": "Sky sports cricket",
@@ -90,7 +132,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 7
+      "order": 10
     },
     {
       "name": "Sky sport nz 1",
@@ -104,7 +146,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 8
+      "order": 11
     },
     {
       "name": "Premier Sports 1",
@@ -118,21 +160,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 9
-    },
-    {
-      "name": "Willow HD 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
-      "order": 10
+      "order": 12
     },
     {
       "name": "Star sports",
@@ -146,7 +174,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 11
+      "order": 13
     },
     {
       "name": "T sports 1 Hindi",
@@ -160,21 +188,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 12
-    },
-    {
-      "name": "Willow",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
-      "order": 13
+      "order": 14
     },
     {
       "name": "Sky sport nz 2",
@@ -187,20 +201,6 @@
       "url": "",
       "category": "Sports",
       "logo": "",
-      "enabled": true,
-      "order": 14
-    },
-    {
-      "name": "A sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
       "enabled": true,
       "order": 15
     },
@@ -304,7 +304,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
       "enabled": true,
-      "order": 4
+      "order": 3
     },
     {
       "name": "Sun bangla",
