@@ -265,6 +265,19 @@
       "logo": "",
       "enabled": true,
       "order": 21
+    },
+    {
+      "name": "BBC Two",
+      "type": "wanted",
+      "wantedSources": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "",
+      "enabled": true,
+      "order": 22
     }
   ],
   "customChannels": [
