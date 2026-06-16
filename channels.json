@@ -243,12 +243,10 @@
     {
       "name": "Beln Sports HD 1 France",
       "type": "wanted",
-      "wantedSources": [
-        "Beln Sports HD 1 France"
-      ],
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "Beln Sports HD 1 France",
+      "wantedSource": "",
       "url": "",
       "category": "Sports",
       "logo": "",
