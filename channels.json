@@ -291,6 +291,22 @@
   ],
   "customChannels": [
     {
+      "name": "Somoy TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
+      "enabled": true,
+      "order": 4
+    },
+    {
       "name": "Sun bangla",
       "type": "custom",
       "wantedSources": [],
