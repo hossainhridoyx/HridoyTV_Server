@@ -19,14 +19,14 @@
       "name": "Ptv sports",
       "type": "wanted",
       "wantedSources": [
-        "A sports"
+        "Ptv sports"
       ],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "A sports",
+      "wantedSource": "Ptv sports",
       "url": "",
       "category": "Sports",
-      "logo": "",
+      "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
       "enabled": true,
       "order": 2
     },
