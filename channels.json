@@ -228,15 +228,13 @@
     {
       "name": "Sun bangla",
       "type": "custom",
-      "wantedSources": [
-        "Laliga"
-      ],
+      "wantedSources": [],
       "streams": [
         "http://27.124.71.27/Sun_Bangla/index.m3u8",
         "http://27.124.71.27/Su9n_Bangla/index.m3u8"
       ],
       "backupStreams": [],
-      "wantedSource": "Laliga",
+      "wantedSource": "",
       "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
