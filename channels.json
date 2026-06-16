@@ -285,22 +285,6 @@
       "logo": "",
       "enabled": true,
       "order": 20
-    },
-    {
-      "name": "Bein Sports HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "Beln Sports HD 1 France"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
-      "order": 22
     }
   ],
   "customChannels": [
