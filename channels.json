@@ -290,9 +290,7 @@
       "name": "Beln Sports HD 1 France",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [
-        "Beln Sports HD 1 France"
-      ],
+      "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
