@@ -31,14 +31,12 @@
       "order": 2
     },
     {
-      "name": "Dzn (FIFA)",
+      "name": "Disney+ SP",
       "type": "wanted",
-      "wantedSources": [
-        "Disney+ Sp"
-      ],
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "Disney+ Sp",
+      "wantedSource": "",
       "url": "",
       "category": "Sports",
       "logo": "https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg",
