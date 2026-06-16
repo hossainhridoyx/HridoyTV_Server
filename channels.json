@@ -79,10 +79,12 @@
       "order": 6
     },
     {
-      "name": "Willow",
+      "name": "Willow Sports",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "willow"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -96,7 +98,9 @@
       "name": "Willow HD 2",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "willow hd 2"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
