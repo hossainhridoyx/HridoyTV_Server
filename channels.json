@@ -290,7 +290,9 @@
       "name": "Bein Sports",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "Beln Sports HD 1 France"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
