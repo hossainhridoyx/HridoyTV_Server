@@ -241,20 +241,7 @@
       "order": 18
     },
     {
-      "name": "Beln Sports HD 1 France",
-      "type": "wanted",
-      "wantedSources": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
-      "order": 20
-    },
-    {
-      "name": "Beln Sports HD 1 France",
+      "name": "Beln Sports",
       "type": "wanted",
       "wantedSources": [],
       "streams": [],
