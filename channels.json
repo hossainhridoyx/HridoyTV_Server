@@ -251,7 +251,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 22
+      "order": 19
     },
     {
       "name": "Nbc",
@@ -264,7 +264,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 23
+      "order": 20
     },
     {
       "name": "Bein Sports",
@@ -277,7 +277,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 24
+      "order": 22
     }
   ],
   "customChannels": [
@@ -294,7 +294,7 @@
       "category": "Entertainment",
       "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
       "enabled": true,
-      "order": 19
+      "order": 21
     }
   ]
 }
