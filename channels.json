@@ -241,14 +241,12 @@
       "order": 18
     },
     {
-      "name": "Beln Sports",
+      "name": "Beln",
       "type": "wanted",
-      "wantedSources": [
-        "Beln Sports"
-      ],
+      "wantedSources": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "Beln Sports",
+      "wantedSource": "",
       "url": "",
       "category": "Sports",
       "logo": "",
