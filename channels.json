@@ -111,6 +111,20 @@
       "order": 8
     },
     {
+      "name": "Star sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/mVtMNNtb/14273fe47b6c.jpg",
+      "enabled": true,
+      "order": 9
+    },
+    {
       "name": "Sky Sports Premier League",
       "type": "wanted",
       "wantedSources": [],
@@ -122,7 +136,7 @@
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
       "enabled": true,
-      "order": 9
+      "order": 10
     },
     {
       "name": "Sky sports cricket",
@@ -136,7 +150,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 10
+      "order": 11
     },
     {
       "name": "Sky sport nz 1",
@@ -150,24 +164,10 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 11
-    },
-    {
-      "name": "Premier Sports 1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
       "order": 12
     },
     {
-      "name": "Star sports",
+      "name": "Premier Sports 1",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [],
