@@ -287,10 +287,12 @@
       "order": 20
     },
     {
-      "name": "Beln Sports HD 1 France",
+      "name": "Test",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "Beln Sports HD 1 France"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
