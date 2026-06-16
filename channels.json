@@ -40,10 +40,7 @@
       ],
       "customMatchNames": [],
       "streams": [],
-      "backupStreams": [
-        "https://dfr80qz435crc.cloudfront.net/MN55OP/Amagi/Caze/Caze_TV_BR/en-vtt/index.m3u8",
-        "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8"
-      ],
+      "backupStreams": [],
       "wantedSource": "Disney+ SP",
       "url": "",
       "category": "Sports",
