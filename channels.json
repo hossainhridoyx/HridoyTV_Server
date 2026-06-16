@@ -243,10 +243,12 @@
     {
       "name": "Beln Sports",
       "type": "wanted",
-      "wantedSources": [],
+      "wantedSources": [
+        "Beln Sports"
+      ],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "",
+      "wantedSource": "Beln Sports",
       "url": "",
       "category": "Sports",
       "logo": "",
