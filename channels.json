@@ -136,7 +136,7 @@
       "category": "Sports",
       "logo": "https://etv-gspn-bangla.fandom.com/wiki/Sun_Bangla_HD?file=Sun_Bangla_HD_logo.png",
       "enabled": true,
-      "order": 10
+      "order": 11
     },
     {
       "name": "Sky sports cricket",
@@ -150,7 +150,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 11
+      "order": 12
     },
     {
       "name": "Sky sport nz 1",
@@ -164,7 +164,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 12
+      "order": 13
     },
     {
       "name": "Premier Sports 1",
@@ -178,7 +178,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 13
+      "order": 14
     },
     {
       "name": "T sports 1 Hindi",
@@ -192,7 +192,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 14
+      "order": 15
     },
     {
       "name": "Sky sport nz 2",
@@ -206,7 +206,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 15
+      "order": 16
     },
     {
       "name": "Premier Sports 2",
@@ -220,7 +220,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 16
+      "order": 17
     },
     {
       "name": "ESPN 2",
@@ -234,7 +234,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 17
+      "order": 18
     },
     {
       "name": "Tnt 2",
@@ -248,7 +248,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 18
+      "order": 19
     },
     {
       "name": "Tnt 1",
@@ -262,7 +262,7 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 19
+      "order": 20
     },
     {
       "name": "Ten Sports",
@@ -276,24 +276,10 @@
       "category": "Sports",
       "logo": "",
       "enabled": true,
-      "order": 20
-    },
-    {
-      "name": "BBC Two",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "",
-      "enabled": true,
       "order": 21
     },
     {
-      "name": "Nbc",
+      "name": "BBC Two",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [],
@@ -323,6 +309,22 @@
       "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
       "enabled": true,
       "order": 3
+    },
+    {
+      "name": "Star News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/starnews.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/starnews.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
+      "enabled": true,
+      "order": 10
     },
     {
       "name": "Sun bangla",
