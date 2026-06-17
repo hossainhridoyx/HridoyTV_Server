@@ -271,20 +271,20 @@
       "order": 17
     },
     {
-      "name": "Sun bangla",
+      "name": "Independent TV",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://27.124.71.27/Sun_Bangla/index.m3u8"
+        "https://jbd.hossainhridoy.workers.dev/independenttv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.ibb.co/zHf8LTNz/ded00e31886d.jpg",
+      "url": "https://jbd.hossainhridoy.workers.dev/independenttv.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
       "enabled": true,
-      "order": 18
+      "order": 19
     }
   ]
 }
