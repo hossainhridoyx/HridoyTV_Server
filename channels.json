@@ -332,12 +332,12 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/jamuna_tv/playlist.m3u8",
-        "https://proxy.hridoytv.workers.dev/jamunatv.m3u8"
+        "https://proxy.hridoytv.workers.dev/jamunatv.m3u8",
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/jamuna_tv/playlist.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/jamuna_tv/playlist.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/jamunatv.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
       "enabled": true,
