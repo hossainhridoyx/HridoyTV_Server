@@ -259,11 +259,12 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
+        "https://jbd.hossainhridoy.workers.dev/ekattortv.m3u8",
         "https://proxy.hridoytv.workers.dev/ekattortv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ekattortv.m3u8",
+      "url": "https://jbd.hossainhridoy.workers.dev/ekattortv.m3u8",
       "category": "News",
       "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
       "enabled": true,
