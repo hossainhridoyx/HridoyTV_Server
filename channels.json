@@ -385,6 +385,22 @@
       "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
       "enabled": true,
       "order": 25
+    },
+    {
+      "name": "Channel 24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/channel24.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/channel24.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
+      "enabled": true,
+      "order": 26
     }
   ]
 }
