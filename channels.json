@@ -518,6 +518,70 @@
       "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
       "enabled": true,
       "order": 32
+    },
+    {
+      "name": "Boishakhi TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/boishakhitv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/boishakhitv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/b59NqBFG/2938e75dce23.jpg",
+      "enabled": true,
+      "order": 33
+    },
+    {
+      "name": "NTV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ntv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ntv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg",
+      "enabled": true,
+      "order": 34
+    },
+    {
+      "name": "Movie Bangla TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/moviebanglatv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/moviebanglatv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/LzR4jSNT/1a05a5b0caa0.jpg",
+      "enabled": true,
+      "order": 35
+    },
+    {
+      "name": "SRK TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/srktv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/srktv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/QjrPw1s1/7a733e74ad4c.jpg",
+      "enabled": true,
+      "order": 36
     }
   ]
 }
