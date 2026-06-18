@@ -287,6 +287,23 @@
       "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
       "enabled": true,
       "order": 19
+    },
+    {
+      "name": "Ekhon TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/ekhontv.m3u8",
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/ekhon_tv/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/ekhontv.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
+      "enabled": true,
+      "order": 20
     }
   ]
 }
