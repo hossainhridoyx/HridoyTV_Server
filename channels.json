@@ -114,7 +114,10 @@
       "name": "Star sports 1",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "star sports 1",
+        "star sports 1 hindi"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
