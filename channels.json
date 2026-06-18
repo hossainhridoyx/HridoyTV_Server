@@ -320,6 +320,22 @@
       "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
       "enabled": true,
       "order": 21
+    },
+    {
+      "name": "JagoNews24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/jagonews24.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/jagonews24.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/tPh8mrH2/633b90e781f7.jpg",
+      "enabled": true,
+      "order": 22
     }
   ]
 }
