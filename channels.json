@@ -424,12 +424,12 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/gtv.m3u8"
+        "https://jbd.hossainhridoy.workers.dev/gtv.m3u8",
+        "http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8",
+      "url": "https://jbd.hossainhridoy.workers.dev/gtv.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/Df31qr13/a81357f8ba2d.jpg",
       "enabled": true,
