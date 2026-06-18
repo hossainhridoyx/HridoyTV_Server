@@ -369,6 +369,22 @@
       "logo": "https://i.ibb.co/b8ywL7x/bcc903b58b02.jpg",
       "enabled": true,
       "order": 24
+    },
+    {
+      "name": "DBC News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/dbcnews.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/dbcnews.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
+      "enabled": true,
+      "order": 25
     }
   ]
 }
