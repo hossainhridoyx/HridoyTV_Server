@@ -71,11 +71,13 @@
     {
       "name": "A sports",
       "type": "wanted",
-      "wantedSources": [],
+      "wantedSources": [
+        "A sports"
+      ],
       "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "",
+      "wantedSource": "A sports",
       "url": "",
       "category": "Sports",
       "logo": "https://i.ibb.co/ds7LmWJt/2ad4121d58b6.jpg",
@@ -139,7 +141,9 @@
       "name": "Ten Sports",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "ten sports"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
