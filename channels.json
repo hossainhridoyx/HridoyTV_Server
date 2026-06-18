@@ -450,6 +450,70 @@
       "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
       "enabled": true,
       "order": 28
+    },
+    {
+      "name": "Maasranga TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/maasrangatv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/maasrangatv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
+      "enabled": true,
+      "order": 29
+    },
+    {
+      "name": "Deepto TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/deeptotv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/deeptotv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/BHV4kWFx/ffe2fcb27c15.jpg",
+      "enabled": true,
+      "order": 30
+    },
+    {
+      "name": "Asian TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/asiantv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/asiantv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/QFZRjVkC/cb928a1f3b49.jpg",
+      "enabled": true,
+      "order": 31
+    },
+    {
+      "name": "Banglavission",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/banglavision.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/banglavision.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
+      "enabled": true,
+      "order": 32
     }
   ]
 }
