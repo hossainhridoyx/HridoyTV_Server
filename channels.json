@@ -46,7 +46,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
       "enabled": true,
-      "order": 6
+      "order": 7
     },
     {
       "name": "Ptv sports",
@@ -62,7 +62,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
       "enabled": true,
-      "order": 7
+      "order": 8
     },
     {
       "name": "A sports",
@@ -76,7 +76,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/ds7LmWJt/2ad4121d58b6.jpg",
       "enabled": true,
-      "order": 8
+      "order": 9
     },
     {
       "name": "Willow Sports",
@@ -92,7 +92,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg",
       "enabled": true,
-      "order": 9
+      "order": 10
     },
     {
       "name": "Willow HD 2",
@@ -108,7 +108,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co.com/WvyvVB76/a43a31fbadd3.jpg",
       "enabled": true,
-      "order": 10
+      "order": 11
     },
     {
       "name": "Star sports",
@@ -122,7 +122,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/mVtMNNtb/14273fe47b6c.jpg",
       "enabled": true,
-      "order": 11
+      "order": 12
     },
     {
       "name": "Ten Sports",
@@ -136,7 +136,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/yCTW1Fy/9995204a3410.jpg",
       "enabled": true,
-      "order": 12
+      "order": 13
     },
     {
       "name": "TNT 1",
@@ -152,7 +152,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
       "enabled": true,
-      "order": 13
+      "order": 14
     },
     {
       "name": "TNT 2",
@@ -168,10 +168,26 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/NvJXM9f/58364e31205e.jpg",
       "enabled": true,
-      "order": 14
+      "order": 15
     }
   ],
   "customChannels": [
+    {
+      "name": "United8 Sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg",
+      "enabled": true,
+      "order": 3
+    },
     {
       "name": "T sports",
       "type": "custom",
@@ -186,7 +202,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg",
       "enabled": true,
-      "order": 3
+      "order": 4
     },
     {
       "name": "Somoy TV",
@@ -202,7 +218,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
       "enabled": true,
-      "order": 4
+      "order": 5
     },
     {
       "name": "Zee Bangla Sonar",
@@ -218,7 +234,7 @@
       "category": "Entertainment",
       "logo": "https://i.ibb.co/jvG18wq7/92cbee442aa5.jpg",
       "enabled": true,
-      "order": 5
+      "order": 6
     },
     {
       "name": "Star News",
@@ -234,7 +250,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
       "enabled": true,
-      "order": 15
+      "order": 16
     },
     {
       "name": "Jamuna TV",
@@ -251,7 +267,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
       "enabled": true,
-      "order": 16
+      "order": 17
     },
     {
       "name": "Ekattor TV",
@@ -269,7 +285,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
       "enabled": true,
-      "order": 17
+      "order": 18
     },
     {
       "name": "Independent TV",
