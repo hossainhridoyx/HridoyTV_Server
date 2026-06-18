@@ -401,6 +401,38 @@
       "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
       "enabled": true,
       "order": 26
+    },
+    {
+      "name": "GTV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/gtv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/gtv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Df31qr13/a81357f8ba2d.jpg",
+      "enabled": true,
+      "order": 27
+    },
+    {
+      "name": "Nagorik TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
+      "enabled": true,
+      "order": 28
     }
   ]
 }
