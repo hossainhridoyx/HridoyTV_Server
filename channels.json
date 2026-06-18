@@ -492,7 +492,8 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/asiantv.m3u8"
+        "https://proxy.hridoytv.workers.dev/asiantv.m3u8",
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/asian_tv/playlist.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
