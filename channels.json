@@ -336,6 +336,23 @@
       "logo": "https://i.ibb.co/tPh8mrH2/633b90e781f7.jpg",
       "enabled": true,
       "order": 22
+    },
+    {
+      "name": "Channel 1",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/channel1.m3u8",
+        "https://jbd.hossainhridoy.workers.dev/channel1.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/channel1.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/V0nDHSjL/16715780bf44.jpg",
+      "enabled": true,
+      "order": 23
     }
   ]
 }
