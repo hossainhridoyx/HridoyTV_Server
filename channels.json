@@ -425,7 +425,7 @@
       "customMatchNames": [],
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/gtv.m3u8",
-        "http://c6dn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8"
+        "http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
