@@ -311,12 +311,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/atnnews.m3u8",
         "https://proxy.hridoytv.workers.dev/atnnews.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/atnnews.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/atnnews.m3u8",
       "category": "News",
       "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
       "enabled": true,
