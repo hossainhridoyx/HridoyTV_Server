@@ -304,6 +304,23 @@
       "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
       "enabled": true,
       "order": 20
+    },
+    {
+      "name": "ATN News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/atnnews.m3u8",
+        "https://proxy.hridoytv.workers.dev/atnnews.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/atnnews.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
+      "enabled": true,
+      "order": 21
     }
   ]
 }
