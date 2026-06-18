@@ -341,7 +341,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 20
     },
     {
@@ -531,7 +531,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/QFZRjVkC/cb928a1f3b49.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 31
     },
     {
@@ -599,7 +599,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/LzR4jSNT/1a05a5b0caa0.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 35
     },
     {
