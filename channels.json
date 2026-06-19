@@ -741,6 +741,176 @@
       "enabled": true,
       "pinned": true,
       "order": 44
+    },
+    {
+      "name": "Sony Max HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_max_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_max_hd/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 45
+    },
+    {
+      "name": "Sony Max 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonymax_2/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonymax_2/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 46
+    },
+    {
+      "name": "Sony Movies",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sonymovies.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sonymovies.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/7ZV4tRqY/Hridoy-TV-channel-(2).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 47
+    },
+    {
+      "name": "Sony Pix",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonypix_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonypix_hd/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/523JKrft/Hridoy-TV-channel-(1).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 48
+    },
+    {
+      "name": "Zee Cinema",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_cinema_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_cinema_hd/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/2SwY9tCL/Hridoy-TV-channel-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 49
+    },
+    {
+      "name": "Zee Bollywood",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bollywood/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bollywood/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/6p0KbPBR/Hridoy-TV-channel-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 50
+    },
+    {
+      "name": "ZEE Action",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_action/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_action/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/g2Dpt7G6/Hridoy-TV-channel-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 51
+    },
+    {
+      "name": "Zee One",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/zeeone.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/zeeone.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cLmWkzdr/Hridoy-TV-channel-(3).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 52
+    },
+    {
+      "name": "Zee Cafe",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/3xBhfq3v/Hridoy-TV-channel-(9).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 53
+    },
+    {
+      "name": "And pictures",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/andpicture_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/andpicture_hd/playlist.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/x1RQpZ9K/Hridoy-TV-channel-(10).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 54
     }
   ]
 }
