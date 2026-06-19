@@ -187,6 +187,25 @@
       "enabled": true,
       "pinned": true,
       "order": 15
+    },
+    {
+      "name": "Kartoon Channel",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "No"
+      ],
+      "streams": [],
+      "backupStreams": [
+        "https://proxy.hridoytv.workers.dev/kartoonchannel.m3u8"
+      ],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/V6hPb7tj/Hridoy-TV-cartoon-(13).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 64
     }
   ],
   "customChannels": [
@@ -911,6 +930,220 @@
       "enabled": true,
       "pinned": true,
       "order": 54
+    },
+    {
+      "name": "Sony Yay",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyyay/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyyay/playlist.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/KzWhg9TZ/Hridoy-TV-cartoon-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 56
+    },
+    {
+      "name": "Cartoon Network",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "No"
+      ],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 57
+    },
+    {
+      "name": "Discovery Kids",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "No"
+      ],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_kids/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_kids/playlist.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/76RrTBzZ/Hridoy-TV-cartoon-(9).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 58
+    },
+    {
+      "name": "Pogo",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "No"
+      ],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/pogo_sd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/pogo_sd/playlist.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/dtkrdDbQ/pogo-hridoytv.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 59
+    },
+    {
+      "name": "ZB Cartoon",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "No"
+      ],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/zbcartoon.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/zbcartoon.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/qRqdqfNB/Hridoy-TV-cartoon-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 60
+    },
+    {
+      "name": "Gopal Bhar",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/gopalbhar.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/gopalbhar.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/9MkHqx9R/Hridoy-TV-cartoon-(12).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 61
+    },
+    {
+      "name": "PBS Kids",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/pbskids.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/pbskids.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/RFhzhrWv/Hridoy-TV-cartoon-(1).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 62
+    },
+    {
+      "name": "Zoo Moo",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "No"
+      ],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/zoomoo.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/zoomoo.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/4d0Rh8cV/Hridoy-TV-cartoon-(11).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 63
+    },
+    {
+      "name": "Nikky",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/nikki.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/nikki.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/3RqQDLG3/Hridoy-TV-cartoon-(6).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 65
+    },
+    {
+      "name": "Rongeen TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/rongeentv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/rongeentv.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/26tNBHWD/Hridoy-TV-cartoon-(5).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 66
+    },
+    {
+      "name": "Minimax",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/minimax.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/minimax.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/26yfyp1z/Hridoy-TV-cartoon-(3).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 67
+    },
+    {
+      "name": "Buddy Star",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/buddystar.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/buddystar.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/FRzQztYH/Hridoy-TV-cartoon-(2).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 68
     }
   ]
 }
