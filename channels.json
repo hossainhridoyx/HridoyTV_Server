@@ -14,7 +14,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/LXJbChGF/5a6481c40b61.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 1
     },
     {
@@ -31,7 +31,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 2
     },
     {
@@ -48,7 +48,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 7
     },
     {
@@ -65,7 +65,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 8
     },
     {
@@ -82,7 +82,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/T35zN6bL/A-sports-Hridoy-TV.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 9
     },
     {
@@ -99,7 +99,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 10
     },
     {
@@ -116,7 +116,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co.com/WvyvVB76/a43a31fbadd3.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 11
     },
     {
@@ -134,7 +134,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/mVtMNNtb/14273fe47b6c.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 12
     },
     {
@@ -151,7 +151,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 13
     },
     {
@@ -168,7 +168,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 14
     },
     {
@@ -185,7 +185,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/NvJXM9f/58364e31205e.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 15
     }
   ],
@@ -204,7 +204,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 3
     },
     {
@@ -221,7 +221,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 4
     },
     {
@@ -238,7 +238,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 5
     },
     {
@@ -255,7 +255,7 @@
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/jvG18wq7/92cbee442aa5.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 6
     },
     {
@@ -272,7 +272,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 16
     },
     {
@@ -290,7 +290,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 17
     },
     {
@@ -309,7 +309,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 18
     },
     {
@@ -327,7 +327,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 19
     },
     {
@@ -362,7 +362,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 21
     },
     {
@@ -379,7 +379,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/tPh8mrH2/633b90e781f7.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 22
     },
     {
@@ -397,7 +397,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/V0nDHSjL/16715780bf44.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 23
     },
     {
@@ -414,7 +414,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/b8ywL7x/bcc903b58b02.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 24
     },
     {
@@ -431,7 +431,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 25
     },
     {
@@ -448,7 +448,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 26
     },
     {
@@ -466,7 +466,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/Df31qr13/a81357f8ba2d.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 27
     },
     {
@@ -483,7 +483,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 28
     },
     {
@@ -500,7 +500,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 29
     },
     {
@@ -517,7 +517,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/BHV4kWFx/ffe2fcb27c15.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 30
     },
     {
@@ -552,7 +552,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 32
     },
     {
@@ -569,7 +569,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/b59NqBFG/2938e75dce23.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 33
     },
     {
@@ -586,7 +586,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 34
     },
     {
@@ -620,7 +620,7 @@
       "category": "Bangla",
       "logo": "https://i.ibb.co/QjrPw1s1/7a733e74ad4c.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 36
     }
   ]
