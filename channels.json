@@ -1144,6 +1144,244 @@
       "enabled": true,
       "pinned": false,
       "order": 68
+    },
+    {
+      "name": "Sony entertainment",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/9fgftpdS/Hridoy-TV-entertainment-channel-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 69
+    },
+    {
+      "name": "Sony Sab",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonysab_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonysab_hd/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/wB4BcVXG/Hridoy-TV-entertainment-channel-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 70
+    },
+    {
+      "name": "Zee TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_tv_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_tv_hd/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/pdcdYZfc/Hridoy-TV-entertainment-channel-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 71
+    },
+    {
+      "name": "Zee Anmol",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_anmol/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_anmol/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/8PLjQLGz/Hridoy-TV-entertainment-channel-(1).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 72
+    },
+    {
+      "name": "AAN HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/aanhd.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/aanhd.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/DzpzdgQh/Hridoy-TV-entertainment-channel-(12).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 73
+    },
+    {
+      "name": "Geo Entertainment",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/geoen.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/geoen.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/FKCKgZb5/Hridoy-TV-entertainment-channel-(13).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 74
+    },
+    {
+      "name": "Colors Infinity",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.175.73.12:8080/live/29/29_0.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/9fgftpds/Hridoy-TV-entertainment-channel-(14).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 75
+    },
+    {
+      "name": "Hum TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_tv/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_tv/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/vmZBVjVK/Hridoy-TV-entertainment-channel-(2).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 76
+    },
+    {
+      "name": "Hum Sitary",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_sitaray/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_sitaray/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/hGZGbrLM/Hridoy-TV-entertainment-channel-(3).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 77
+    },
+    {
+      "name": "Hum Masala",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_masala/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_masala/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 78
+    },
+    {
+      "name": "And TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/and_tv_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/and_tv_hd/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/hGZGbrL2/Hridoy-TV-entertainment-channel-(5).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 79
+    },
+    {
+      "name": "Zing",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/zing_sd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zing_sd/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/KYpYrNPW/Hridoy-TV-entertainment-channel-(9).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 80
+    },
+    {
+      "name": "TLC",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 81
+    },
+    {
+      "name": "FailArmy",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/failarmy.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/failarmy.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/ZqsqFcPT/Hridoy-TV-entertainment-channel-(11).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 82
     }
   ]
 }
