@@ -1013,7 +1013,7 @@
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/jvG18wq7/92cbee442aa5.jpg",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "order": 58
     },
     {
@@ -1132,7 +1132,7 @@
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/Kckb55g4/6b5faf74bc3e.jpg",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "order": 66
     },
     {
