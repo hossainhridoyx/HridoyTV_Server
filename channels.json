@@ -278,18 +278,18 @@
       "order": 6
     },
     {
-      "name": "Caze TV",
+      "name": "Koora City",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/cazetv.m3u8"
+        "https://proxy.hridoytv.workers.dev/kooracity.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/cazetv.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/kooracity.m3u8",
       "category": "Sports",
-      "logo": "https://i.postimg.cc/tgGGj29L/Resized-Image-2026-06-23-23-22-37-4073-1.webp",
+      "logo": "https://i.postimg.cc/JzSqG2gt/Resized-Image-2026-06-24-00-31-08-6119-1.webp",
       "enabled": true,
       "pinned": true,
       "order": 7
