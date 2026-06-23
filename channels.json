@@ -1000,23 +1000,6 @@
       "order": 57
     },
     {
-      "name": "Zee Bangla Sonar",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/zeebangalsonar.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/zeebangalsonar.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/jvG18wq7/92cbee442aa5.jpg",
-      "enabled": true,
-      "pinned": false,
-      "order": 58
-    },
-    {
       "name": "Star Jalsa",
       "type": "custom",
       "wantedSources": [],
@@ -1031,7 +1014,7 @@
       "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
       "enabled": true,
       "pinned": true,
-      "order": 59
+      "order": 58
     },
     {
       "name": "Zee Bangla",
@@ -1048,6 +1031,23 @@
       "logo": "https://i.ibb.co/2394XyZ9/354520fbc77a.jpg",
       "enabled": true,
       "pinned": true,
+      "order": 59
+    },
+    {
+      "name": "Zee Bangla Sonar",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/zeebangalsonar.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/zeebangalsonar.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/MKrPBSp1/Resized-Image-2026-06-24-04-15-46-6347-1.webp",
+      "enabled": true,
+      "pinned": false,
       "order": 60
     },
     {
