@@ -205,7 +205,7 @@
       "logo": "https://i.postimg.cc/V6hPb7tj/Hridoy-TV-cartoon-(13).webp",
       "enabled": true,
       "pinned": false,
-      "order": 89
+      "order": 90
     }
   ],
   "customChannels": [
@@ -1467,6 +1467,23 @@
       "order": 86
     },
     {
+      "name": "Roya Kids",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/royakids.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/royakids.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/Z5DN2C3G/Hridoy-TV-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 87
+    },
+    {
       "name": "PBS Kids",
       "type": "custom",
       "wantedSources": [],
@@ -1481,7 +1498,7 @@
       "logo": "https://i.postimg.cc/RFhzhrWv/Hridoy-TV-cartoon-(1).webp",
       "enabled": true,
       "pinned": false,
-      "order": 87
+      "order": 88
     },
     {
       "name": "Zoo Moo",
@@ -1500,7 +1517,7 @@
       "logo": "https://i.postimg.cc/4d0Rh8cV/Hridoy-TV-cartoon-(11).webp",
       "enabled": true,
       "pinned": false,
-      "order": 88
+      "order": 89
     },
     {
       "name": "Nikky",
@@ -1517,7 +1534,7 @@
       "logo": "https://i.postimg.cc/3RqQDLG3/Hridoy-TV-cartoon-(6).webp",
       "enabled": true,
       "pinned": false,
-      "order": 90
+      "order": 91
     },
     {
       "name": "Rongeen TV",
@@ -1534,7 +1551,7 @@
       "logo": "https://i.postimg.cc/26tNBHWD/Hridoy-TV-cartoon-(5).webp",
       "enabled": true,
       "pinned": false,
-      "order": 91
+      "order": 92
     },
     {
       "name": "Minimax",
@@ -1551,7 +1568,7 @@
       "logo": "https://i.postimg.cc/26yfyp1z/Hridoy-TV-cartoon-(3).webp",
       "enabled": true,
       "pinned": false,
-      "order": 92
+      "order": 93
     },
     {
       "name": "Buddy Star",
@@ -1568,7 +1585,7 @@
       "logo": "https://i.postimg.cc/FRzQztYH/Hridoy-TV-cartoon-(2).webp",
       "enabled": true,
       "pinned": false,
-      "order": 93
+      "order": 94
     },
     {
       "name": "Sony entertainment",
@@ -1585,7 +1602,7 @@
       "logo": "https://i.postimg.cc/9fgftpdS/Hridoy-TV-entertainment-channel-(8).webp",
       "enabled": true,
       "pinned": true,
-      "order": 94
+      "order": 95
     },
     {
       "name": "Sony Sab",
@@ -1602,7 +1619,7 @@
       "logo": "https://i.postimg.cc/wB4BcVXG/Hridoy-TV-entertainment-channel-(7).webp",
       "enabled": true,
       "pinned": true,
-      "order": 95
+      "order": 96
     },
     {
       "name": "Zee TV",
@@ -1619,7 +1636,7 @@
       "logo": "https://i.postimg.cc/pdcdYZfc/Hridoy-TV-entertainment-channel-(6).webp",
       "enabled": true,
       "pinned": true,
-      "order": 96
+      "order": 97
     },
     {
       "name": "Zee Anmol",
@@ -1636,7 +1653,7 @@
       "logo": "https://i.postimg.cc/8PLjQLGz/Hridoy-TV-entertainment-channel-(1).webp",
       "enabled": true,
       "pinned": false,
-      "order": 97
+      "order": 98
     },
     {
       "name": "AAN HD",
@@ -1653,7 +1670,7 @@
       "logo": "https://i.postimg.cc/DzpzdgQh/Hridoy-TV-entertainment-channel-(12).webp",
       "enabled": true,
       "pinned": true,
-      "order": 98
+      "order": 99
     },
     {
       "name": "Geo Entertainment",
@@ -1670,7 +1687,7 @@
       "logo": "https://i.postimg.cc/FKCKgZb5/Hridoy-TV-entertainment-channel-(13).webp",
       "enabled": true,
       "pinned": true,
-      "order": 99
+      "order": 100
     },
     {
       "name": "Colors Infinity",
@@ -1687,7 +1704,7 @@
       "logo": "https://i.postimg.cc/9fgftpds/Hridoy-TV-entertainment-channel-(14).webp",
       "enabled": true,
       "pinned": true,
-      "order": 100
+      "order": 101
     },
     {
       "name": "Hum TV",
@@ -1704,7 +1721,7 @@
       "logo": "https://i.postimg.cc/vmZBVjVK/Hridoy-TV-entertainment-channel-(2).webp",
       "enabled": true,
       "pinned": false,
-      "order": 101
+      "order": 102
     },
     {
       "name": "Hum Sitary",
@@ -1721,7 +1738,7 @@
       "logo": "https://i.postimg.cc/hGZGbrLM/Hridoy-TV-entertainment-channel-(3).webp",
       "enabled": true,
       "pinned": false,
-      "order": 102
+      "order": 103
     },
     {
       "name": "Hum Masala",
@@ -1738,7 +1755,7 @@
       "logo": "https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp",
       "enabled": true,
       "pinned": true,
-      "order": 103
+      "order": 104
     },
     {
       "name": "And TV",
@@ -1755,7 +1772,7 @@
       "logo": "https://i.postimg.cc/hGZGbrL2/Hridoy-TV-entertainment-channel-(5).webp",
       "enabled": true,
       "pinned": true,
-      "order": 104
+      "order": 105
     },
     {
       "name": "Zing",
@@ -1772,7 +1789,7 @@
       "logo": "https://i.postimg.cc/KYpYrNPW/Hridoy-TV-entertainment-channel-(9).webp",
       "enabled": true,
       "pinned": false,
-      "order": 105
+      "order": 106
     },
     {
       "name": "TLC",
@@ -1789,7 +1806,7 @@
       "logo": "https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp",
       "enabled": true,
       "pinned": false,
-      "order": 106
+      "order": 107
     },
     {
       "name": "FailArmy",
@@ -1806,7 +1823,7 @@
       "logo": "https://i.postimg.cc/ZqsqFcPT/Hridoy-TV-entertainment-channel-(11).webp",
       "enabled": true,
       "pinned": false,
-      "order": 107
+      "order": 108
     },
     {
       "name": "Animal Planet",
@@ -1823,7 +1840,7 @@
       "logo": "https://i.postimg.cc/rpKwFP3S/Hridoy-TV-channel-(17).webp",
       "enabled": true,
       "pinned": true,
-      "order": 108
+      "order": 109
     },
     {
       "name": "Discovery",
@@ -1840,7 +1857,7 @@
       "logo": "https://i.postimg.cc/q7zvM5Sx/Hridoy-TV-channel-(15).webp",
       "enabled": true,
       "pinned": true,
-      "order": 109
+      "order": 110
     },
     {
       "name": "Discovery Bangla",
@@ -1857,7 +1874,7 @@
       "logo": "https://i.postimg.cc/ZqC5KM25/Hridoy-TV-channel-(3).webp",
       "enabled": true,
       "pinned": true,
-      "order": 110
+      "order": 111
     },
     {
       "name": "Discovery Asia",
@@ -1874,7 +1891,7 @@
       "logo": "https://i.postimg.cc/VNdkLVp5/Hridoy-TV-channel-(7).webp",
       "enabled": true,
       "pinned": true,
-      "order": 111
+      "order": 112
     },
     {
       "name": "Discovery Science",
@@ -1891,7 +1908,7 @@
       "logo": "https://i.postimg.cc/pdpLX648/Hridoy-TV-channel-(14).webp",
       "enabled": true,
       "pinned": true,
-      "order": 112
+      "order": 113
     },
     {
       "name": "Discovery Investigation",
@@ -1908,7 +1925,7 @@
       "logo": "https://i.postimg.cc/9frQFnK9/Hridoy-TV-channel-(13).webp",
       "enabled": true,
       "pinned": true,
-      "order": 113
+      "order": 114
     },
     {
       "name": "Discovery Turbo",
@@ -1925,7 +1942,7 @@
       "logo": "https://i.postimg.cc/Lsn86bwZ/Hridoy-TV-channel-(12).webp",
       "enabled": true,
       "pinned": true,
-      "order": 114
+      "order": 115
     },
     {
       "name": "Discover China",
@@ -1942,7 +1959,7 @@
       "logo": "https://i.postimg.cc/0Nby2BFw/Hridoy-TV-channel-(11).webp",
       "enabled": true,
       "pinned": true,
-      "order": 115
+      "order": 116
     },
     {
       "name": "Discover Pakistan",
@@ -1959,7 +1976,7 @@
       "logo": "https://i.postimg.cc/Dz8wyMH4/Hridoy-TV-channel-(10).webp",
       "enabled": true,
       "pinned": true,
-      "order": 116
+      "order": 117
     },
     {
       "name": "National Geographic",
@@ -1976,7 +1993,7 @@
       "logo": "https://i.postimg.cc/9frQFnKF/Hridoy-TV-channel-(2).webp",
       "enabled": true,
       "pinned": true,
-      "order": 117
+      "order": 118
     },
     {
       "name": "Sony BBC Earth",
@@ -1993,7 +2010,7 @@
       "logo": "https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp",
       "enabled": true,
       "pinned": true,
-      "order": 118
+      "order": 119
     },
     {
       "name": "Travel Xp",
@@ -2010,7 +2027,7 @@
       "logo": "https://i.postimg.cc/5t62NRTy/Hridoy-TV-channel-(8).webp",
       "enabled": true,
       "pinned": true,
-      "order": 119
+      "order": 120
     },
     {
       "name": "Wild Earth",
@@ -2027,7 +2044,7 @@
       "logo": "https://i.postimg.cc/fbJRTrpV/Hridoy-TV-channel-(9).webp",
       "enabled": true,
       "pinned": true,
-      "order": 120
+      "order": 121
     },
     {
       "name": "WildFlix",
@@ -2044,7 +2061,7 @@
       "logo": "https://i.postimg.cc/KYR8vHwz/Hridoy-TV-channel-(5).webp",
       "enabled": true,
       "pinned": false,
-      "order": 121
+      "order": 122
     },
     {
       "name": "Terra Master Wild",
@@ -2061,7 +2078,7 @@
       "logo": "https://i.postimg.cc/TPp3Y4FR/Hridoy-TV-channel-(1).webp",
       "enabled": true,
       "pinned": false,
-      "order": 122
+      "order": 123
     },
     {
       "name": "Nature Time",
@@ -2078,7 +2095,7 @@
       "logo": "https://i.postimg.cc/1zf35j2s/Hridoy-TV-channel-(4).webp",
       "enabled": true,
       "pinned": false,
-      "order": 123
+      "order": 124
     },
     {
       "name": "4k Travel TV",
@@ -2095,7 +2112,75 @@
       "logo": "https://i.postimg.cc/wB7jTGZ7/Hridoy-TV-channel-(6).webp",
       "enabled": true,
       "pinned": false,
-      "order": 124
+      "order": 125
+    },
+    {
+      "name": "Islamic TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/islamic_tv/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/islamic_tv/playlist.m3u8",
+      "category": "Religious",
+      "logo": "https://i.postimg.cc/d1z8gzKy/Resized-Image-2026-06-24-18-39-18-6733-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 126
+    },
+    {
+      "name": "Madani Channel",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/madanichannel.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/madanichannel.m3u8",
+      "category": "Religious",
+      "logo": "https://i.postimg.cc/zGPh6VKY/Hridoy-TV-(3).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 127
+    },
+    {
+      "name": "Peace TV Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/peacetvbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/peacetvbangla.m3u8",
+      "category": "Religious",
+      "logo": "https://i.postimg.cc/DwYGH8LV/Hridoy-TV-(2).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 128
+    },
+    {
+      "name": "Peace TV English",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/peacetvenglish.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/peacetvenglish.m3u8",
+      "category": "Religious",
+      "logo": "https://i.postimg.cc/YCyFZhYK/Hridoy-TV-(1).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 129
     }
   ]
 }
