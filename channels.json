@@ -1650,7 +1650,7 @@
       "category": "Kids",
       "logo": "https://i.postimg.cc/QdYqrjvF/Resized-Image-2026-06-24-22-21-51-5636-1.webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 96
     },
     {
@@ -1667,7 +1667,7 @@
       "category": "Kids",
       "logo": "https://i.postimg.cc/Cxr4Vw95/Resized-Image-2026-06-24-22-21-53-5067-2.webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 97
     },
     {
