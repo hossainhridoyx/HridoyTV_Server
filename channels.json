@@ -2538,6 +2538,91 @@
       "enabled": true,
       "pinned": false,
       "order": 150
+    },
+    {
+      "name": "ATN Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/atnmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/atnmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/5NgbMT0W/Resized-Image-2026-06-25-11-01-24-2768-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 152
+    },
+    {
+      "name": "Music Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/musicbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/musicbangla.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/pVDPspM8/Resized-Image-2026-06-25-11-01-27-2901-5.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 153
+    },
+    {
+      "name": "Sangeet Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/jdctrmjG/Resized-Image-2026-06-25-11-01-25-8950-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 154
+    },
+    {
+      "name": "Balle Balle TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/balleballetv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/balleballetv.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/hPscq6jW/Resized-Image-2026-06-25-11-01-26-5488-4.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 155
+    },
+    {
+      "name": "Village Cooking Channel",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/villagecooking.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/villagecooking.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/KvfxywY6/Resized-Image-2026-06-25-11-01-23-1010-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 156
     }
   ]
 }
