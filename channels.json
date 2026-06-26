@@ -414,23 +414,6 @@
       "order": 14
     },
     {
-      "name": "BTV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/btvlive.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/btvlive.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/jqkvp2XX/Resized-Image-2026-06-24-00-47-41-2748-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 15
-    },
-    {
       "name": "Ten cricket",
       "type": "custom",
       "wantedSources": [],
@@ -708,23 +691,6 @@
       "enabled": true,
       "pinned": true,
       "order": 39
-    },
-    {
-      "name": "Nagorik TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 40
     },
     {
       "name": "Maasranga TV",
@@ -1508,23 +1474,6 @@
       "enabled": true,
       "pinned": false,
       "order": 86
-    },
-    {
-      "name": "Star Jalsa",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/StarJalshaHD/tracks-v1a1/mono.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/StarJalshaHD/tracks-v1a1/mono.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 87
     },
     {
       "name": "Zee Bangla",
