@@ -419,11 +419,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd"
+        "https://proxy.hridoytv.workers.dev/btvlive.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd",
+      "url": "https://proxy.hridoytv.workers.dev/btvlive.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/jqkvp2XX/Resized-Image-2026-06-24-00-47-41-2748-3.webp",
       "enabled": true,
