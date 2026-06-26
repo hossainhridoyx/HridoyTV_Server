@@ -1141,11 +1141,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/deshitv.m3u8"
+        "https://proxy.hridoytv.workers.dev/deshitv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/deshitv.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/deshitv.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/HWfkLsrH/Hridoy-TV-bangla-(20).webp",
       "enabled": true,
