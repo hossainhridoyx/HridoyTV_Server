@@ -261,6 +261,23 @@
   ],
   "customChannels": [
     {
+      "name": "HridoyTV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/channeli.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/channeli.m3u8",
+      "category": "Other",
+      "logo": "https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 1
+    },
+    {
       "name": "United8 Sports",
       "type": "custom",
       "wantedSources": [],
