@@ -266,11 +266,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/sign/channeli.m3u8"
+        "https://jbd.hossainhridoy.workers.dev/channeli.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/sign/channeli.m3u8",
+      "url": "https://jbd.hossainhridoy.workers.dev/channeli.m3u8",
       "category": "Other",
       "logo": "https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg",
       "enabled": true,
