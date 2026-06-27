@@ -1476,6 +1476,23 @@
       "order": 86
     },
     {
+      "name": "Star Jalsa",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/starjalsa2.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/starjalsa2.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 87
+    },
+    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
