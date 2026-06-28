@@ -278,91 +278,6 @@
       "order": 1
     },
     {
-      "name": "United8 Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 4
-    },
-    {
-      "name": "T sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 5
-    },
-    {
-      "name": "Somoy TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 6
-    },
-    {
-      "name": "ColaTV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/colatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/colatv.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/44SzFtx0/Resized-Image-2026-06-23-23-10-12-2841-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 7
-    },
-    {
-      "name": "Koora City",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/kooracity.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/kooracity.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/JzSqG2gt/Resized-Image-2026-06-24-00-31-08-6119-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 8
-    },
-    {
       "name": "CCTV 5+",
       "type": "custom",
       "wantedSources": [],
@@ -378,23 +293,6 @@
       "enabled": true,
       "pinned": true,
       "order": 9
-    },
-    {
-      "name": "TMD sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/tmdsports.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/tmdsports.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/ryYgBsJC/Resized-Image-2026-06-24-00-47-40-7401-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 10
     },
     {
       "name": "Toffee Live",
