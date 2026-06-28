@@ -124,7 +124,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "willow"
+        "willow cricket"
       ],
       "streams": [],
       "backupStreams": [],
@@ -141,7 +141,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "willow hd 2"
+        "willow cricket extra"
       ],
       "streams": [],
       "backupStreams": [],
@@ -150,7 +150,7 @@
       "category": "Sports",
       "logo": "https://i.ibb.co.com/WvyvVB76/a43a31fbadd3.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 19
     },
     {
@@ -586,7 +586,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/j5pvCXvL/Hridoy-TV-new-channel-(23).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 39
     },
     {
@@ -603,7 +603,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/4dDwn5wy/Hridoy-TV-new-channel-(24).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 40
     },
     {
@@ -945,7 +945,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/mD2Xf65L/Hridoy-TV-Bangla-channel-(14).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 61
     },
     {
@@ -1064,7 +1064,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/j5pvCXvJ/Hridoy-TV-new-channel-(26).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 68
     },
     {
@@ -1081,7 +1081,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 69
     },
     {
@@ -1132,7 +1132,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/rpYf2crB/Hridoy-TV-new-channel-(4).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 72
     },
     {
@@ -1166,7 +1166,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/j5wZs9Hm/Hridoy-TV-new-channel-(8).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 74
     },
     {
@@ -1897,7 +1897,7 @@
       "category": "Movies",
       "logo": "https://i.postimg.cc/3xBhfq3v/Hridoy-TV-channel-(9).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "order": 118
     },
     {
@@ -1914,7 +1914,7 @@
       "category": "Movies",
       "logo": "https://i.postimg.cc/x1RQpZ9K/Hridoy-TV-channel-(10).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "order": 119
     },
     {
@@ -1931,7 +1931,7 @@
       "category": "Movies",
       "logo": "https://i.postimg.cc/ZRBVTgPC/Hridoy-TV-new-channel-(17).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 120
     },
     {
@@ -1948,7 +1948,7 @@
       "category": "Movies",
       "logo": "https://i.postimg.cc/3R4nK6jk/Hridoy-TV-new-channel-(18).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 121
     },
     {
@@ -1965,7 +1965,7 @@
       "category": "Movies",
       "logo": "https://i.postimg.cc/632Y9SVs/Hridoy-TV-new-channel-(11).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 122
     },
     {
@@ -2018,7 +2018,7 @@
       "category": "Kids",
       "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 126
     },
     {
@@ -2143,7 +2143,7 @@
       "category": "Kids",
       "logo": "https://i.postimg.cc/V6rDYT9Q/Hridoy-TV-new-channel-(13).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 133
     },
     {
@@ -2230,7 +2230,7 @@
       "category": "Kids",
       "logo": "https://i.postimg.cc/LXYNH7kR/Hridoy-TV-new-channel-(15).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 139
     },
     {
@@ -2893,7 +2893,7 @@
       "category": "Entertainment",
       "logo": "https://i.postimg.cc/fLtBwF7t/Hridoy-TV-new-channel-(19).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 178
     },
     {
@@ -2927,7 +2927,7 @@
       "category": "Entertainment",
       "logo": "https://i.postimg.cc/9M61zp1Q/Hridoy-TV-new-channel-(21).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 180
     },
     {
@@ -3318,7 +3318,7 @@
       "category": "Other",
       "logo": "https://i.postimg.cc/cHgXsjRp/Hridoy-TV-new-channel-(12).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 205
     }
   ]
