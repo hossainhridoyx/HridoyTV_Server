@@ -1073,11 +1073,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp"
+        "https://jbd.hossainhridoy.workers.dev/banglarkontho24.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp",
+      "url": "https://jbd.hossainhridoy.workers.dev/banglarkontho24.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp",
       "enabled": true,
@@ -2005,23 +2005,6 @@
       "order": 125
     },
     {
-      "name": "Disney channel",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/disneychannel.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/disneychannel.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 126
-    },
-    {
       "name": "Discovery Kids",
       "type": "custom",
       "wantedSources": [],
@@ -2540,346 +2523,6 @@
       "order": 157
     },
     {
-      "name": "Animal Planet",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/rpKwFP3S/Hridoy-TV-channel-(17).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 158
-    },
-    {
-      "name": "Discovery",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_hd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/q7zvM5Sx/Hridoy-TV-channel-(15).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 159
-    },
-    {
-      "name": "Discovery Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.180.212.191:3500/live/573.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.180.212.191:3500/live/573.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/ZqC5KM25/Hridoy-TV-channel-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 160
-    },
-    {
-      "name": "Discovery Asia",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/discoveryasia.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/discoveryasia.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/VNdkLVp5/Hridoy-TV-channel-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 161
-    },
-    {
-      "name": "Discovery Science",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_science/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_science/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/pdpLX648/Hridoy-TV-channel-(14).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 162
-    },
-    {
-      "name": "Discovery Investigation",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/9frQFnK9/Hridoy-TV-channel-(13).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 163
-    },
-    {
-      "name": "Discovery Turbo",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_turbo/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_turbo/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/Lsn86bwZ/Hridoy-TV-channel-(12).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 164
-    },
-    {
-      "name": "Discover China",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/discoverychina.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/discoverychina.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/0Nby2BFw/Hridoy-TV-channel-(11).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 165
-    },
-    {
-      "name": "Discover Pakistan",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/discoverpakistan.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/discoverpakistan.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/Dz8wyMH4/Hridoy-TV-channel-(10).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 166
-    },
-    {
-      "name": "Asharaq Discovery",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/asharaqdiscovery.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/asharaqdiscovery.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/QtwrHBCk/Resized-Image-2026-06-24-23-38-54-4029-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 167
-    },
-    {
-      "name": "National Geographic",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://202.70.146.135:8000/play/a05o/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/9frQFnKF/Hridoy-TV-channel-(2).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 168
-    },
-    {
-      "name": "Sony BBC Earth",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 169
-    },
-    {
-      "name": "Travel Xp",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/travelxp.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/travelxp.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/5t62NRTy/Hridoy-TV-channel-(8).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 170
-    },
-    {
-      "name": "Wild Earth",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/wildearth.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/wildearth.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/fbJRTrpV/Hridoy-TV-channel-(9).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 171
-    },
-    {
-      "name": "WildFlix",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/wildflix.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/wildflix.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/KYR8vHwz/Hridoy-TV-channel-(5).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 172
-    },
-    {
-      "name": "Terra Master Wild",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/terramasterwild.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/terramasterwild.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/TPp3Y4FR/Hridoy-TV-channel-(1).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 173
-    },
-    {
-      "name": "Nature Time",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/naturetime.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/naturetime.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/1zf35j2s/Hridoy-TV-channel-(4).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 174
-    },
-    {
-      "name": "4k Travel TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/4ktraveltv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/4ktraveltv.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/wB7jTGZ7/Hridoy-TV-channel-(6).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 175
-    },
-    {
-      "name": "FailArmy",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/failarmy.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/failarmy.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/ZqsqFcPT/Hridoy-TV-entertainment-channel-(11).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 176
-    },
-    {
-      "name": "TLC",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 177
-    },
-    {
       "name": "Shemaroo TV",
       "type": "custom",
       "wantedSources": [],
@@ -2894,7 +2537,7 @@
       "logo": "https://i.postimg.cc/fLtBwF7t/Hridoy-TV-new-channel-(19).webp",
       "enabled": true,
       "pinned": true,
-      "order": 178
+      "order": 158
     },
     {
       "name": "Dangal",
@@ -2911,7 +2554,7 @@
       "logo": "https://i.postimg.cc/4dDwn5wf/Hridoy-TV-new-channel-(20).webp",
       "enabled": true,
       "pinned": false,
-      "order": 179
+      "order": 159
     },
     {
       "name": "ETV Comedy",
@@ -2928,7 +2571,7 @@
       "logo": "https://i.postimg.cc/9M61zp1Q/Hridoy-TV-new-channel-(21).webp",
       "enabled": true,
       "pinned": true,
-      "order": 180
+      "order": 160
     },
     {
       "name": "Sirippoli TV",
@@ -2943,6 +2586,346 @@
       "url": "https://proxy.hridoytv.workers.dev/sirippolitv.m3u8",
       "category": "Entertainment",
       "logo": "https://i.postimg.cc/V6x45R4N/Hridoy-TV-new-channel-(22).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 161
+    },
+    {
+      "name": "Animal Planet",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/rpKwFP3S/Hridoy-TV-channel-(17).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 162
+    },
+    {
+      "name": "Discovery",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_hd/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/q7zvM5Sx/Hridoy-TV-channel-(15).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 163
+    },
+    {
+      "name": "Discovery Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.180.212.191:3500/live/573.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.180.212.191:3500/live/573.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/ZqC5KM25/Hridoy-TV-channel-(3).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 164
+    },
+    {
+      "name": "Discovery Asia",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/discoveryasia.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/discoveryasia.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/VNdkLVp5/Hridoy-TV-channel-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 165
+    },
+    {
+      "name": "Discovery Science",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_science/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_science/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/pdpLX648/Hridoy-TV-channel-(14).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 166
+    },
+    {
+      "name": "Discovery Investigation",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/9frQFnK9/Hridoy-TV-channel-(13).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 167
+    },
+    {
+      "name": "Discovery Turbo",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_turbo/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_turbo/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/Lsn86bwZ/Hridoy-TV-channel-(12).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 168
+    },
+    {
+      "name": "Discover China",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/discoverychina.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/discoverychina.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/0Nby2BFw/Hridoy-TV-channel-(11).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 169
+    },
+    {
+      "name": "Discover Pakistan",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/discoverpakistan.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/discoverpakistan.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/Dz8wyMH4/Hridoy-TV-channel-(10).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 170
+    },
+    {
+      "name": "Asharaq Discovery",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/asharaqdiscovery.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/asharaqdiscovery.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/QtwrHBCk/Resized-Image-2026-06-24-23-38-54-4029-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 171
+    },
+    {
+      "name": "National Geographic",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://202.70.146.135:8000/play/a05o/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/9frQFnKF/Hridoy-TV-channel-(2).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 172
+    },
+    {
+      "name": "Sony BBC Earth",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 173
+    },
+    {
+      "name": "Travel Xp",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/travelxp.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/travelxp.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/5t62NRTy/Hridoy-TV-channel-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 174
+    },
+    {
+      "name": "Wild Earth",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/wildearth.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/wildearth.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/fbJRTrpV/Hridoy-TV-channel-(9).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 175
+    },
+    {
+      "name": "WildFlix",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/wildflix.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/wildflix.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/KYR8vHwz/Hridoy-TV-channel-(5).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 176
+    },
+    {
+      "name": "Terra Master Wild",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/terramasterwild.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/terramasterwild.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/TPp3Y4FR/Hridoy-TV-channel-(1).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 177
+    },
+    {
+      "name": "Nature Time",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/naturetime.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/naturetime.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/1zf35j2s/Hridoy-TV-channel-(4).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 178
+    },
+    {
+      "name": "4k Travel TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/4ktraveltv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/4ktraveltv.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/wB7jTGZ7/Hridoy-TV-channel-(6).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 179
+    },
+    {
+      "name": "FailArmy",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/failarmy.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/failarmy.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/ZqsqFcPT/Hridoy-TV-entertainment-channel-(11).webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 180
+    },
+    {
+      "name": "TLC",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp",
       "enabled": true,
       "pinned": false,
       "order": 181
