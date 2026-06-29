@@ -2727,23 +2727,6 @@
       "order": 167
     },
     {
-      "name": "Discovery Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.180.212.191:3500/live/573.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.180.212.191:3500/live/573.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/ZqC5KM25/Hridoy-TV-channel-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 168
-    },
-    {
       "name": "Discovery Asia",
       "type": "custom",
       "wantedSources": [],
