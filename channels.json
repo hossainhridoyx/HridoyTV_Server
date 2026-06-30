@@ -334,7 +334,8 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/bioscopelive.m3u8"
+        "https://proxy.hridoytv.workers.dev/bioscopelive.m3u8",
+        "https://proxy.hridoytv.workers.dev/bioscope2.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
