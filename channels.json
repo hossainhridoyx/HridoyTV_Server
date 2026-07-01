@@ -174,6 +174,25 @@
       "order": 32
     },
     {
+      "name": "Nagorik TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "nagorik tv"
+      ],
+      "streams": [],
+      "backupStreams": [
+        "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8"
+      ],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 47
+    },
+    {
       "name": "Star Jalsa",
       "type": "wanted",
       "wantedSources": [],
@@ -682,23 +701,6 @@
       "enabled": true,
       "pinned": true,
       "order": 46
-    },
-    {
-      "name": "Nagorik TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 47
     },
     {
       "name": "Maasranga TV",
