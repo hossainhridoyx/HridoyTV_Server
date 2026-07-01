@@ -229,23 +229,6 @@
       "order": 104
     },
     {
-      "name": "Colors Bangla Cinema",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "color bangla cinema"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/mkT9LQHW/Resized-Image-2026-07-01-14-41-46-8204-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 105
-    },
-    {
       "name": "Sun Bangla",
       "type": "wanted",
       "wantedSources": [],
