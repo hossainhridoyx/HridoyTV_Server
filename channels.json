@@ -25,7 +25,9 @@
         "bein sports hd 1 france"
       ],
       "streams": [],
-      "backupStreams": [],
+      "backupStreams": [
+        "https://proxy.hridoytv.workers.dev/beinsports1.m3u8"
+      ],
       "wantedSource": "",
       "url": "",
       "category": "Sports",
