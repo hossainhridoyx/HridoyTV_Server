@@ -1,6 +1,23 @@
 {
   "wantedChannels": [
     {
+      "name": "Test",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "somoy tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/gJr6vnmQ/Resized-Image-2026-06-29-23-22-41-0691-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "order": 0
+    },
+    {
       "name": "Dzn (FIFA)",
       "type": "wanted",
       "wantedSources": [
