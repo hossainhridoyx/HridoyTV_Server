@@ -265,6 +265,40 @@
       "order": 145
     },
     {
+      "name": "Discovery Bangla",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "discovery"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/ZqC5KM25/Hridoy-TV-channel-(3).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 174
+    },
+    {
+      "name": "National Geographic",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "national geographic"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/9frQFnKF/Hridoy-TV-channel-(2).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 182
+    },
+    {
       "name": "BBC News",
       "type": "wanted",
       "wantedSources": [],
@@ -2888,23 +2922,6 @@
       "enabled": true,
       "pinned": false,
       "order": 181
-    },
-    {
-      "name": "National Geographic",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://202.70.146.135:8000/play/a05o/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/9frQFnKF/Hridoy-TV-channel-(2).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 182
     },
     {
       "name": "Sony BBC Earth",
