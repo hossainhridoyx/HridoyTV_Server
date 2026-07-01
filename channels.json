@@ -18,25 +18,6 @@
       "order": 5
     },
     {
-      "name": "Bein Sports port HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "bein sports hd 1 france"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://proxy.hridoytv.workers.dev/beinsports1.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 15
-    },
-    {
       "name": "Telemundo",
       "type": "wanted",
       "wantedSources": [],
@@ -278,6 +259,25 @@
       "enabled": true,
       "pinned": true,
       "order": 10
+    },
+    {
+      "name": "Bein Sports port HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "bein sports hd 1 france"
+      ],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/beinsports1.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/beinsports1.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 15
     },
     {
       "name": "Ten cricket",
