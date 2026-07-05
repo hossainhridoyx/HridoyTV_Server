@@ -71,23 +71,6 @@
       "order": 21
     },
     {
-      "name": "A sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "a sports hd"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/T35zN6bL/A-sports-Hridoy-TV.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 22
-    },
-    {
       "name": "Willow Cricket",
       "type": "wanted",
       "wantedSources": [],
