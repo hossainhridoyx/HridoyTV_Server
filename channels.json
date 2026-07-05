@@ -73,13 +73,13 @@
     {
       "name": "A sports",
       "type": "wanted",
-      "wantedSources": [
-        "A sports"
+      "wantedSources": [],
+      "customMatchNames": [
+        "a sports hd"
       ],
-      "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "A sports",
+      "wantedSource": "",
       "url": "",
       "category": "Sports",
       "logo": "https://i.postimg.cc/T35zN6bL/A-sports-Hridoy-TV.jpg",
