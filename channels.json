@@ -23,12 +23,12 @@
       "name": "Dzn (FIFA)",
       "type": "wanted",
       "wantedSources": [
-        "Disney+ SP"
+        "cz::Dzn (FIFA)"
       ],
       "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "Disney+ SP",
+      "wantedSource": "cz::Dzn (FIFA)",
       "url": "",
       "category": "Sports",
       "logo": "https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg",
