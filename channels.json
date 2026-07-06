@@ -22,13 +22,13 @@
     {
       "name": "Dzn (FIFA)",
       "type": "wanted",
-      "wantedSources": [
-        "cz::Dzn (FIFA)"
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::disney+ sp"
       ],
-      "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
-      "wantedSource": "cz::Dzn (FIFA)",
+      "wantedSource": "",
       "url": "",
       "category": "Sports",
       "logo": "https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg",
@@ -69,6 +69,23 @@
       "enabled": true,
       "pinned": true,
       "order": 21
+    },
+    {
+      "name": "A sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "a sports hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/T35zN6bL/A-sports-Hridoy-TV.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 22
     },
     {
       "name": "Willow Cricket",
@@ -123,11 +140,11 @@
       "order": 25
     },
     {
-      "name": "TNT 1",
+      "name": "TNT 3",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "tnt 1"
+        "tnt sports 3"
       ],
       "streams": [],
       "backupStreams": [],
@@ -144,7 +161,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "tnt 2"
+        "tnt sports 2"
       ],
       "streams": [],
       "backupStreams": [],
