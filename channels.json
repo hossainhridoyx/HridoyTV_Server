@@ -51,7 +51,7 @@
       "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
       "enabled": true,
       "pinned": true,
-      "order": 16
+      "order": 17
     },
     {
       "name": "Telemundo",
@@ -68,7 +68,7 @@
       "logo": "https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp",
       "enabled": true,
       "pinned": true,
-      "order": 17
+      "order": 18
     },
     {
       "name": "Fox Sports 1 Us",
@@ -85,7 +85,7 @@
       "logo": "https://i.postimg.cc/wMCSH5mk/Resized-Image-2026-06-25-09-53-32-9709-2.webp",
       "enabled": true,
       "pinned": true,
-      "order": 18
+      "order": 19
     },
     {
       "name": "BTV",
@@ -471,23 +471,6 @@
       "order": 8
     },
     {
-      "name": "Somoy TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 11
-    },
-    {
       "name": "Toffee Live",
       "type": "custom",
       "wantedSources": [],
@@ -502,7 +485,24 @@
       "logo": "https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp",
       "enabled": true,
       "pinned": true,
-      "order": 20
+      "order": 9
+    },
+    {
+      "name": "Somoy TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 12
     },
     {
       "name": "Ten cricket",
