@@ -650,12 +650,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/ekhontv.m3u8",
         "https://tbd.hossainhridoy.workers.dev/cdn/live/ekhon_tv/playlist.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/ekhontv.m3u8",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/ekhon_tv/playlist.m3u8",
       "category": "News",
       "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
       "enabled": true,
@@ -822,8 +821,7 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/gtv.m3u8",
-        "http://cdn.moviemazic.xyz:8083/GaziTV/tracks-v1a1/mono.m3u8"
+        "https://jbd.hossainhridoy.workers.dev/gtv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
