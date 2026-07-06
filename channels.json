@@ -488,23 +488,6 @@
       "order": 11
     },
     {
-      "name": "Go 3 Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/go3sports.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/go3sports.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/D0F2pRwc/hridoytvgate-(5).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 19
-    },
-    {
       "name": "Toffee Live",
       "type": "custom",
       "wantedSources": [],
@@ -588,23 +571,6 @@
       "enabled": true,
       "pinned": true,
       "order": 31
-    },
-    {
-      "name": "Fox Cricket",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/foxsports.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/foxsports.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 34
     },
     {
       "name": "Star News",
@@ -832,23 +798,6 @@
       "enabled": true,
       "pinned": true,
       "order": 48
-    },
-    {
-      "name": "News 18 Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8",
-      "category": "News",
-      "logo": "https://i.postimg.cc/gcqcLcg8/hridoytvgate-(20).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 49
     },
     {
       "name": "Republic Bangla",
@@ -3579,57 +3528,6 @@
       "enabled": true,
       "pinned": true,
       "order": 239
-    },
-    {
-      "name": "Sun Gemini Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/sungeminimusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/sungeminimusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/sxc3kKMH/hridoytvgate-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 240
-    },
-    {
-      "name": "7s Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/7smusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/7smusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/FzZhMGYG/hridoytvgate-(8).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 241
-    },
-    {
-      "name": "Only Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/onlymusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/onlymusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/PJhtV05c/hridoytvgate-(9).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 242
     },
     {
       "name": "Yrf Music",
