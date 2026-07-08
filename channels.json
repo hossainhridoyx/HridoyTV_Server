@@ -1,25 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "FIFA world cup",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "somoy tv"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://proxy.hridoytv.workers.dev/fifa20262.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/gJr6vnmQ/Resized-Image-2026-06-29-23-22-41-0691-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 5
-    },
-    {
       "name": "Dzn (FIFA)",
       "type": "wanted",
       "wantedSources": [],
@@ -437,23 +418,6 @@
   ],
   "customChannels": [
     {
-      "name": "Test",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://fastshare1.com:8080//live/25711345/late8airline/422.ts"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://fastshare1.com:8080//live/25711345/late8airline/422.ts",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/gJr6vnmQ/Resized-Image-2026-06-29-23-22-41-0691-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 1
-    },
-    {
       "name": "HridoyTV",
       "type": "custom",
       "wantedSources": [],
@@ -503,6 +467,23 @@
       "enabled": true,
       "pinned": true,
       "order": 4
+    },
+    {
+      "name": "FIFA world cup",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/btv4.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/btv4.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/gJr6vnmQ/Resized-Image-2026-06-29-23-22-41-0691-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 5
     },
     {
       "name": "Bioscope Live",
