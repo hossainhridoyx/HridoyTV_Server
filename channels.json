@@ -54,6 +54,23 @@
       "order": 6
     },
     {
+      "name": "T sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::t sports hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 11
+    },
+    {
       "name": "Bein Sports port HD",
       "type": "wanted",
       "wantedSources": [],
