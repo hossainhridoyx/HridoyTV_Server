@@ -539,6 +539,23 @@
       "order": 9
     },
     {
+      "name": "United8 Sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.165.93.31:8095/unt-s/video.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/unt-s/video.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 10
+    },
+    {
       "name": "Somoy TV",
       "type": "custom",
       "wantedSources": [],
