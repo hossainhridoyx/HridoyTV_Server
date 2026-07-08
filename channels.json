@@ -54,6 +54,23 @@
       "order": 6
     },
     {
+      "name": "Iscreen FIFA",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::i screen hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Qv1FNWp7/41382aa4d6f4.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 7
+    },
+    {
       "name": "T sports",
       "type": "wanted",
       "wantedSources": [],
