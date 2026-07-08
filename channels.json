@@ -18,23 +18,6 @@
       "order": 6
     },
     {
-      "name": "Iscreen FIFA",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::i screen hd"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Qv1FNWp7/41382aa4d6f4.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 7
-    },
-    {
       "name": "T sports",
       "type": "wanted",
       "wantedSources": [],
@@ -240,44 +223,6 @@
       "order": 34
     },
     {
-      "name": "Nagorik TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "nagorik tv"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 53
-    },
-    {
-      "name": "Star Jalsa",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "star jalsha"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://proxy.hridoytv.workers.dev/starjalsa2.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 109
-    },
-    {
       "name": "Colors Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -293,57 +238,6 @@
       "enabled": true,
       "pinned": true,
       "order": 111
-    },
-    {
-      "name": "Sun Bangla",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sun bangla"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/sx3WjphR/Resized-Image-2026-07-01-14-41-47-6748-2.webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 113
-    },
-    {
-      "name": "Jalsha Movies",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jalsha movies"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 121
-    },
-    {
-      "name": "Duronto TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "Duronto-TV"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/RFYxnPtq/Hridoy-TV-cartoon-(10).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 143
     },
     {
       "name": "Kartoon Channel",
