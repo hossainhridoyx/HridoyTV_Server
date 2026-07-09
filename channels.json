@@ -1910,7 +1910,7 @@
       "wantedSource": "",
       "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bollywood/playlist.m3u8",
       "category": "Movies",
-      "logo": "https://i.postimg.cc/6p0KbPBR/Hridoy-TV-channel-(8).webp",
+      "logo": "https://i.ibb.co/hFgZC9kd/e24fec29ce86.jpg",
       "enabled": true,
       "pinned": true,
       "order": 132
@@ -3399,7 +3399,7 @@
       "category": "Other",
       "logo": "https://i.postimg.cc/L5RHQG8x/hridoytvgate-(7).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 235
     },
     {
@@ -3433,7 +3433,7 @@
       "category": "Other",
       "logo": "https://i.postimg.cc/J0qRfKsg/hridoytvgate-(12).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 237
     },
     {
@@ -3501,7 +3501,7 @@
       "category": "Other",
       "logo": "https://i.postimg.cc/90pc614z/hridoytvgate-(19).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "order": 244
     },
     {
