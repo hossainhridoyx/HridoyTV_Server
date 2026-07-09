@@ -1,6 +1,23 @@
 {
   "wantedChannels": [
     {
+      "name": "HridoyTV Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::itv 1"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/q3Zy9kZ3/9d1164aaacab.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 3
+    },
+    {
       "name": "Dzn (FIFA)",
       "type": "wanted",
       "wantedSources": [],
@@ -327,23 +344,6 @@
       "enabled": true,
       "pinned": true,
       "order": 2
-    },
-    {
-      "name": "HridoyTV Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/fifaworld2026.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/fifaworld2026.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/q3Zy9kZ3/9d1164aaacab.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 3
     },
     {
       "name": "FIFA 2026",
