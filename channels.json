@@ -52,57 +52,6 @@
       "order": 11
     },
     {
-      "name": "Bein Sports HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz::bein sports hd 1 france"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 17
-    },
-    {
-      "name": "Telemundo",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz::telemundo"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 19
-    },
-    {
-      "name": "Fox Sports 1 Us",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz::fox sports 1 us"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/wMCSH5mk/Resized-Image-2026-06-25-09-53-32-9709-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 20
-    },
-    {
       "name": "BTV",
       "type": "wanted",
       "wantedSources": [],
@@ -118,40 +67,6 @@
       "enabled": true,
       "pinned": true,
       "order": 22
-    },
-    {
-      "name": "Ptv sports",
-      "type": "wanted",
-      "wantedSources": [
-        "Ptv sports"
-      ],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "Ptv sports",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 23
-    },
-    {
-      "name": "A sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "a sports hd"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/T35zN6bL/A-sports-Hridoy-TV.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 24
     },
     {
       "name": "Willow Cricket",
@@ -186,24 +101,6 @@
       "enabled": true,
       "pinned": true,
       "order": 26
-    },
-    {
-      "name": "Star sports 1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "star sports 1",
-        "star sports 1 hindi"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/mVtMNNtb/14273fe47b6c.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 27
     },
     {
       "name": "TNT 3",
