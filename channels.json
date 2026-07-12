@@ -18,23 +18,6 @@
       "order": 6
     },
     {
-      "name": "T sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::t sports hd"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 11
-    },
-    {
       "name": "Willow Cricket",
       "type": "wanted",
       "wantedSources": [],
@@ -67,40 +50,6 @@
       "enabled": true,
       "pinned": true,
       "order": 26
-    },
-    {
-      "name": "TNT 3",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tnt sports 3"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
-      "enabled": true,
-      "pinned": false,
-      "order": 33
-    },
-    {
-      "name": "TNT 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tnt sports 2"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/NvJXM9f/58364e31205e.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 34
     },
     {
       "name": "Star Jalsa",
