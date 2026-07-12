@@ -18,7 +18,7 @@
       "order": 6
     },
     {
-      "name": "Bioscope Live",
+      "name": "Bioscope",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
@@ -35,7 +35,7 @@
       "order": 8
     },
     {
-      "name": "Toffee Live",
+      "name": "Toffee",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
@@ -69,7 +69,7 @@
       "order": 11
     },
     {
-      "name": "Fox Sports 1 Us",
+      "name": "Fox Sports",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
