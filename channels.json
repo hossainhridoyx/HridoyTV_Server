@@ -1000,23 +1000,6 @@
       "order": 78
     },
     {
-      "name": "Bangla TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/bangla_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/bangla_tv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/C1LPT6Q0/Hridoy-TV-Bangla-channel-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "order": 79
-    },
-    {
       "name": "Amanda TV",
       "type": "custom",
       "wantedSources": [],
