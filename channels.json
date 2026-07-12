@@ -18,6 +18,40 @@
       "order": 6
     },
     {
+      "name": "Bioscope Live",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "bioscope"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Tx2Tpf73/747ed7fcf6d9.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 8
+    },
+    {
+      "name": "Toffee Live",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::toffee"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 9
+    },
+    {
       "name": "T sports",
       "type": "wanted",
       "wantedSources": [],
@@ -39,7 +73,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "comb::fox sports"
+        "fox sports"
       ],
       "streams": [],
       "backupStreams": [],
@@ -294,23 +328,6 @@
       "enabled": true,
       "pinned": true,
       "order": 5
-    },
-    {
-      "name": "Somoy TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://hd2.ctghub.com/Somoy/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hd2.ctghub.com/Somoy/index.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 12
     },
     {
       "name": "Ten cricket",
