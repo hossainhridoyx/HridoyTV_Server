@@ -313,57 +313,6 @@
       "order": 5
     },
     {
-      "name": "Bioscope Live",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/bioscope2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/bioscope2.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Tx2Tpf73/747ed7fcf6d9.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 8
-    },
-    {
-      "name": "Toffee Live",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/toffeelive.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/toffeelive.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 9
-    },
-    {
-      "name": "United8 Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.165.93.31:8095/unt-s/video.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.165.93.31:8095/unt-s/video.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 10
-    },
-    {
       "name": "Somoy TV",
       "type": "custom",
       "wantedSources": [],
@@ -379,23 +328,6 @@
       "enabled": true,
       "pinned": true,
       "order": 12
-    },
-    {
-      "name": "Bein Sports Xtra",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/beinsports2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/beinsports2.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/fYPPNn14/a9a6637ce8bc.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 18
     },
     {
       "name": "Ten cricket",
