@@ -1050,6 +1050,24 @@
       "order": 81
     },
     {
+      "name": "Channel 16",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/channel16.m3u8",
+        "http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/channel16.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/zfNm3D3f/Hridoy-TV-new-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 82
+    },
+    {
       "name": "Ion TV UK",
       "type": "custom",
       "wantedSources": [],
