@@ -35,23 +35,6 @@
       "order": 11
     },
     {
-      "name": "BTV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::football world cup"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/jqkvp2XX/Resized-Image-2026-06-24-00-47-41-2748-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 22
-    },
-    {
       "name": "Willow Cricket",
       "type": "wanted",
       "wantedSources": [],
@@ -318,11 +301,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
+        "https://proxy.hridoytv.workers.dev/somoy22.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/somoy22.m3u8",
       "category": "News",
       "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
       "enabled": true,
