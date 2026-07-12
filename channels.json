@@ -86,25 +86,6 @@
       "order": 26
     },
     {
-      "name": "Nagorik TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "nagorik tv"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 54
-    },
-    {
       "name": "Star Jalsa",
       "type": "wanted",
       "wantedSources": [],
@@ -729,23 +710,6 @@
       "order": 60
     },
     {
-      "name": "ATN bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/atnbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/atnbangla.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/VNwy5s5f/Hridoy-TV-new-(2).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 61
-    },
-    {
       "name": "ATN Bangla Uk",
       "type": "custom",
       "wantedSources": [],
@@ -1084,40 +1048,6 @@
       "enabled": true,
       "pinned": true,
       "order": 81
-    },
-    {
-      "name": "Channel 16",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/channel16.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/channel16.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/zfNm3D3f/Hridoy-TV-new-(4).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 82
-    },
-    {
-      "name": "Toroni24 TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/toroni24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/toroni24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/fbs4kWkT/Hridoy-TV-new-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "order": 83
     },
     {
       "name": "Ion TV UK",
