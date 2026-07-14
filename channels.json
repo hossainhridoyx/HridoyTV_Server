@@ -18,6 +18,40 @@
       "order": 6
     },
     {
+      "name": "Bioscope",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::bioscope"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Tx2Tpf73/747ed7fcf6d9.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 8
+    },
+    {
+      "name": "Toffee",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::toffee"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 9
+    },
+    {
       "name": "T sports",
       "type": "wanted",
       "wantedSources": [],
@@ -33,6 +67,23 @@
       "enabled": true,
       "pinned": true,
       "order": 11
+    },
+    {
+      "name": "Bein Sports HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::bein sports hd 1 france"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 17
     },
     {
       "name": "BTV",
@@ -84,6 +135,23 @@
       "enabled": true,
       "pinned": true,
       "order": 26
+    },
+    {
+      "name": "TNT 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tnt sports 2"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/NvJXM9f/58364e31205e.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 34
     },
     {
       "name": "Star Jalsa",
@@ -260,6 +328,23 @@
       "enabled": true,
       "pinned": true,
       "order": 5
+    },
+    {
+      "name": "Somoy TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hd2.ctghub.com/Somoy/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hd2.ctghub.com/Somoy/index.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 12
     },
     {
       "name": "Ten cricket",
