@@ -284,11 +284,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/beinsports1.m3u8"
+        "https://proxy.hridoytv.workers.dev/beinsportshtv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/beinsports1.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/beinsportshtv.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg",
       "enabled": true,
