@@ -18,10 +18,12 @@
       "order": 6
     },
     {
-      "name": "fifa world cup 2026",
+      "name": "Bioscope45",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "comb::fifa world cup 2026"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -33,10 +35,12 @@
       "order": 8
     },
     {
-      "name": "FIFA WC CHANNEL 1",
+      "name": "Toffee420",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "comb::FIFA WC CHANNEL 1"
+      ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
