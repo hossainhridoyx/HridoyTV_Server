@@ -21,9 +21,7 @@
       "name": "fifa world cup 2026",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [
-        "comb::fifa world cup 2026"
-      ],
+      "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -38,9 +36,7 @@
       "name": "FIFA WC CHANNEL 1",
       "type": "wanted",
       "wantedSources": [],
-      "customMatchNames": [
-        "comb::FIFA WC CHANNEL 1"
-      ],
+      "customMatchNames": [],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
