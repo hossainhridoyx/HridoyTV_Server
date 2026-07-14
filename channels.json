@@ -35,6 +35,23 @@
       "order": 8
     },
     {
+      "name": "Toffee",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::fifa wc channel 1"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 9
+    },
+    {
       "name": "T sports",
       "type": "wanted",
       "wantedSources": [],
