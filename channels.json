@@ -279,6 +279,23 @@
       "order": 5
     },
     {
+      "name": "Somoy TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 12
+    },
+    {
       "name": "Ten cricket",
       "type": "custom",
       "wantedSources": [],
