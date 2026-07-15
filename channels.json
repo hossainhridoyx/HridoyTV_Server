@@ -18,23 +18,6 @@
       "order": 5
     },
     {
-      "name": "Bioscope",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::bioscope"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Tx2Tpf73/747ed7fcf6d9.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 8
-    },
-    {
       "name": "T sports",
       "type": "wanted",
       "wantedSources": [],
