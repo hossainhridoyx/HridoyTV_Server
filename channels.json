@@ -233,11 +233,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/cctv52.m3u8"
+        "https://proxy.hridoytv.workers.dev/fifanobuffer.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/cctv52.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/fifanobuffer.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/Tfwny4R/75a5babf73ea.jpg",
       "enabled": true,
