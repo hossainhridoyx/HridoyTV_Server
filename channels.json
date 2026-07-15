@@ -761,6 +761,23 @@
       "order": 60
     },
     {
+      "name": "ATN bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/atnbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/atnbangla.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/VNwy5s5f/Hridoy-TV-new-(2).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 61
+    },
+    {
       "name": "ATN Bangla Uk",
       "type": "custom",
       "wantedSources": [],
