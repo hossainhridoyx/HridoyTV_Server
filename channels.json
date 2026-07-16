@@ -69,25 +69,6 @@
       "order": 29
     },
     {
-      "name": "Star Jalsa",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "star jalsha"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://proxy.hridoytv.workers.dev/starjalsa2.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "order": 117
-    },
-    {
       "name": "Colors Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -1628,6 +1609,25 @@
       "enabled": true,
       "pinned": false,
       "order": 116
+    },
+    {
+      "name": "Star Jalsa",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "star jalsha"
+      ],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/starjalsa3.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/starjalsa3.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
+      "enabled": true,
+      "pinned": true,
+      "order": 117
     },
     {
       "name": "Zee Bangla",
