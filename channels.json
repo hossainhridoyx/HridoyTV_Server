@@ -379,6 +379,23 @@
       "order": 20
     },
     {
+      "name": "Go 3 Sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/go3sports.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/go3sports.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/D0F2pRwc/hridoytvgate-(5).webp",
+      "enabled": true,
+      "pinned": true,
+      "order": 24
+    },
+    {
       "name": "Ptv sports",
       "type": "custom",
       "wantedSources": [],
@@ -1614,15 +1631,14 @@
       "name": "Star Jalsa",
       "type": "custom",
       "wantedSources": [],
-      "customMatchNames": [
-        "star jalsha"
-      ],
+      "customMatchNames": [],
       "streams": [
+        "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8",
         "https://proxy.hridoytv.workers.dev/starjalsa3.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starjalsa3.m3u8",
+      "url": "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
       "enabled": true,
