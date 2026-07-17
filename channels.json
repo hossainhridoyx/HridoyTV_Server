@@ -1633,8 +1633,7 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8",
-        "https://proxy.hridoytv.workers.dev/starjalsa3.m3u8"
+        "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
