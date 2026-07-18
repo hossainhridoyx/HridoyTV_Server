@@ -1633,11 +1633,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8"
+        "http://103.102.27.173:84/STAR-JALSHA-HD/index.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8",
+      "url": "http://103.102.27.173:84/STAR-JALSHA-HD/index.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
       "enabled": true,
