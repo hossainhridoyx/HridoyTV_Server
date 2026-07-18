@@ -180,11 +180,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://sports.hridoytv.workers.dev/live/474.m3u8"
+        "https://pro.hridoytv-pro.workers.dev/live/474.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev/live/474.m3u8",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/474.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/gJr6vnmQ/Resized-Image-2026-06-29-23-22-41-0691-1.webp",
       "enabled": true,
