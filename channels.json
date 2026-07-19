@@ -309,25 +309,6 @@
       "order": 13
     },
     {
-      "name": "BTV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.102.27.173:84/BTV/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.102.27.173:84/BTV/index.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/jqkvp2XX/Resized-Image-2026-06-24-00-47-41-2748-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 25
-    },
-    {
       "name": "Ptv sports",
       "type": "custom",
       "wantedSources": [],
