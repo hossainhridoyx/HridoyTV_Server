@@ -290,27 +290,6 @@
       "order": 9
     },
     {
-      "name": "Bioscope",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "bioscope"
-      ],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/bioscope3.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/bioscope3.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Tx2Tpf73/747ed7fcf6d9.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 10
-    },
-    {
       "name": "Somoy TV",
       "type": "custom",
       "wantedSources": [],
