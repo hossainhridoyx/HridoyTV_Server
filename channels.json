@@ -271,6 +271,25 @@
       "order": 3
     },
     {
+      "name": "FIFA no buffer",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/tudn.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/tudn.m3u8",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/Tfwny4R/75a5babf73ea.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 4
+    },
+    {
       "name": "FIFA 2026",
       "type": "custom",
       "wantedSources": [],
