@@ -39,6 +39,25 @@
       "order": 12
     },
     {
+      "name": "BTV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::FIFA-World-Cup"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/jqkvp2XX/Resized-Image-2026-06-24-00-47-41-2748-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 25
+    },
+    {
       "name": "Willow Cricket",
       "type": "wanted",
       "wantedSources": [],
