@@ -1898,25 +1898,6 @@
       "order": 123
     },
     {
-      "name": "Bortoman TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/bortomantv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/bortomantv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/0NHV1xSg/Hridoy-TV-new-channel-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 124
-    },
-    {
       "name": "Ayna TV",
       "type": "custom",
       "wantedSources": [],
@@ -1934,25 +1915,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 125
-    },
-    {
-      "name": "Modhupur News 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/modhupurnews24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/modhupurnews24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/pThq27f1/Hridoy-TV-new-channel-(6).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 126
     },
     {
       "name": "Ruposhi Bangla TV",
@@ -2010,25 +1972,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 129
-    },
-    {
-      "name": "Sananda TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/sandana.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/sandana.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/tRL4gCsX/Hridoy-TV-bangla-(22).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 130
     },
     {
       "name": "Me TV",
@@ -2219,25 +2162,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 140
-    },
-    {
-      "name": "Ja TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/jatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/jatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/zDLf5RX2/Hridoy-TV-bangla-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 141
     },
     {
       "name": "EP TV",
