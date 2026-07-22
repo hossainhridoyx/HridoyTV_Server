@@ -126,11 +126,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8"
+        "http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8?token=811f2938d340b628079a024aad5ee8de1c41eea1-1b2ae7435c5f523963cec52863ac1c51-1784142923-1784132123"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8",
+      "url": "http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8?token=811f2938d340b628079a024aad5ee8de1c41eea1-1b2ae7435c5f523963cec52863ac1c51-1784142923-1784132123",
       "category": "Sports",
       "logo": "https://i.ibb.co/q3Zy9kZ3/9d1164aaacab.jpg",
       "enabled": true,
@@ -145,11 +145,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8"
+        "https://proxy.hridoytv.workers.dev/tsports5.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/tsports5.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp",
       "enabled": true,
