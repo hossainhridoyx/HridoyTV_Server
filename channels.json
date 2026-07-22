@@ -831,11 +831,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8?token=6f3ae6e8cbcfd75c518e691501ab6ee81947fc2c-5ac2ee9c82ff8aaf2144f374e6e1778b-1784142997-1784132197"
+        "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8?token=6f3ae6e8cbcfd75c518e691501ab6ee81947fc2c-5ac2ee9c82ff8aaf2144f374e6e1778b-1784142997-1784132197",
+      "url": "https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8",
       "category": "News",
       "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
       "enabled": true,
