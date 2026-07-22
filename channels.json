@@ -1197,11 +1197,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8"
+        "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8?token=80d006490649d139571a4ecf97f0b398f181b87a-cebb1b7f99806eea0728ed3c1963570a-1784328685-1784317885"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/nagoriktv.m3u8",
+      "url": "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8?token=80d006490649d139571a4ecf97f0b398f181b87a-cebb1b7f99806eea0728ed3c1963570a-1784328685-1784317885",
       "category": "Bangla",
       "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
       "enabled": true,
