@@ -97,7 +97,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 323
+      "order": 324
     }
   ],
   "customChannels": [
@@ -5193,6 +5193,25 @@
       "order": 312
     },
     {
+      "name": "Deen TV Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/deentvbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/deentvbangla.m3u8",
+      "category": "Religious",
+      "logo": "https://iili.io/COoX76J.md.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 313
+    },
+    {
       "name": "Peace TV Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -5209,7 +5228,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 313
+      "order": 314
     },
     {
       "name": "Peace TV English",
@@ -5228,7 +5247,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 314
+      "order": 315
     },
     {
       "name": "Madani Channel Bangla",
@@ -5247,7 +5266,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 315
+      "order": 316
     },
     {
       "name": "Madani Channel Urdu",
@@ -5266,7 +5285,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 316
+      "order": 317
     },
     {
       "name": "Azan TV",
@@ -5285,7 +5304,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 317
+      "order": 318
     },
     {
       "name": "Eman TV",
@@ -5304,7 +5323,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 319
+      "order": 320
     },
     {
       "name": "Al Jazeera",
@@ -5323,7 +5342,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 320
+      "order": 321
     },
     {
       "name": "CNN",
@@ -5342,7 +5361,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 321
+      "order": 322
     },
     {
       "name": "Fox News",
@@ -5361,7 +5380,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 322
+      "order": 323
     },
     {
       "name": "Euro News",
@@ -5380,7 +5399,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 324
+      "order": 325
     },
     {
       "name": "France 24",
@@ -5399,7 +5418,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 325
+      "order": 326
     },
     {
       "name": "DW",
@@ -5418,7 +5437,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 326
+      "order": 327
     },
     {
       "name": "Press TV",
@@ -5437,7 +5456,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 328
+      "order": 329
     },
     {
       "name": "Global News",
@@ -5456,7 +5475,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 329
+      "order": 330
     },
     {
       "name": "ATN Music",
@@ -5475,7 +5494,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 330
+      "order": 331
     },
     {
       "name": "Music Bangla",
@@ -5494,7 +5513,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 331
+      "order": 332
     },
     {
       "name": "Sangeet Bangla",
@@ -5513,7 +5532,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 332
+      "order": 333
     },
     {
       "name": "B4U music",
@@ -5532,7 +5551,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 333
+      "order": 334
     },
     {
       "name": "Zoom",
@@ -5551,7 +5570,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 334
+      "order": 335
     },
     {
       "name": "9XM",
@@ -5570,7 +5589,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 335
+      "order": 336
     },
     {
       "name": "9X Jalwa",
@@ -5589,7 +5608,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 336
+      "order": 337
     },
     {
       "name": "9X Jakaas",
@@ -5608,7 +5627,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 337
+      "order": 338
     },
     {
       "name": "SteelBird Music",
@@ -5627,7 +5646,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 338
+      "order": 339
     },
     {
       "name": "Balle Balle TV",
@@ -5646,7 +5665,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 339
+      "order": 340
     },
     {
       "name": "Pitaara",
@@ -5665,7 +5684,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 340
+      "order": 341
     },
     {
       "name": "Sana Music",
@@ -5684,7 +5703,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 341
+      "order": 342
     },
     {
       "name": "PTC Music",
@@ -5703,7 +5722,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 342
+      "order": 343
     },
     {
       "name": "Oye Music",
@@ -5722,7 +5741,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 343
+      "order": 344
     },
     {
       "name": "Moon TV",
@@ -5741,7 +5760,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 347
+      "order": 348
     },
     {
       "name": "Yrf Music",
@@ -5760,7 +5779,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 348
+      "order": 349
     },
     {
       "name": "Village Cooking Channel",
@@ -5779,7 +5798,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 349
+      "order": 350
     },
     {
       "name": "5 Minutes Crafts",
@@ -5798,7 +5817,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 350
+      "order": 351
     }
   ]
 }
