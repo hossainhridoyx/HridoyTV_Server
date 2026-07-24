@@ -126,11 +126,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8?token=811f2938d340b628079a024aad5ee8de1c41eea1-1b2ae7435c5f523963cec52863ac1c51-1784142923-1784132123"
+        "http://103.179.25.147:8181/TSPORTS-MADARCHOD/index.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8?token=811f2938d340b628079a024aad5ee8de1c41eea1-1b2ae7435c5f523963cec52863ac1c51-1784142923-1784132123",
+      "url": "http://103.179.25.147:8181/TSPORTS-MADARCHOD/index.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/q3Zy9kZ3/9d1164aaacab.jpg",
       "enabled": true,
