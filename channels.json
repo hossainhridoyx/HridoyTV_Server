@@ -1249,25 +1249,6 @@
       "order": 86
     },
     {
-      "name": "Nagorik TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://flussonic.defineatoz.com/backup/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://flussonic.defineatoz.com/backup/index.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 87
-    },
-    {
       "name": "GTV",
       "type": "custom",
       "wantedSources": [],
