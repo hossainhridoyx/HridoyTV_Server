@@ -1197,11 +1197,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://btv.hridoytv-channel.workers.dev/hridoytv.top.m3u8"
+        "https://btv.hridoytv-channel.workers.dev/btv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://btv.hridoytv-channel.workers.dev/hridoytv.top.m3u8",
+      "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8",
       "category": "Bangla",
       "logo": "https://i.ibb.co.com/xtvzqfq6/4497388a4091.jpg",
       "enabled": true,
