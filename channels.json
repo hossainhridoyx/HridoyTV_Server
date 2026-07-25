@@ -451,11 +451,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8"
+        "https://pro.hridoytv-pro.workers.dev/live/891.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/891.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/Gprqnrps/Hridoy-TV-pro-(59).webp",
       "enabled": true,
