@@ -1287,63 +1287,6 @@
       "order": 86
     },
     {
-      "name": "BTV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://btv.hridoytv-channel.workers.dev/btv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co.com/xtvzqfq6/4497388a4091.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 87
-    },
-    {
-      "name": "BTV News",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://btv.hridoytv-channel.workers.dev/news.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Rhn6qk5f/Resized-Image-2026-07-24-12-00-40-9321-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 88
-    },
-    {
-      "name": "BTV Chattogram",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://btv.hridoytv-channel.workers.dev/chittagong.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://btv.hridoytv-channel.workers.dev/chittagong.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/2yBb3sRW/Resized-Image-2026-07-24-12-00-40-6889-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 89
-    },
-    {
       "name": "BTV Sangsad",
       "type": "custom",
       "wantedSources": [],
