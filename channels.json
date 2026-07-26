@@ -3571,44 +3571,6 @@
       "order": 215
     },
     {
-      "name": "Anmol Cinema 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.175.73.12:8080/live/257/257_0.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/9fp1WSR4/Hridoy-TV-pro-(76).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 216
-    },
-    {
-      "name": "Rs Movie HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/vmzXQjgb/Hridoy-TV-pro-(71).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 217
-    },
-    {
       "name": "Sonic Hindi",
       "type": "custom",
       "wantedSources": [],
