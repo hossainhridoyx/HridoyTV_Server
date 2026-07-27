@@ -2113,11 +2113,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://jbd.hossainhridoytv.workers.dev/sandana.m3u8"
+        "https://jbd.hossainhridoy.workers.dev/sandana.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoytv.workers.dev/sandana.m3u8",
+      "url": "https://jbd.hossainhridoy.workers.dev/sandana.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/tRL4gCsX/Hridoy-TV-bangla-(22).webp",
       "enabled": true,
