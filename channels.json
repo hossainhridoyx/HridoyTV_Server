@@ -60,6 +60,25 @@
       "order": 24
     },
     {
+      "name": "Star sports 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::star sports 1"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKqDbqKD/Hridoy-TV-pro-(63).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 26
+    },
+    {
       "name": "Ten Sports",
       "type": "wanted",
       "wantedSources": [],
@@ -330,25 +349,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 25
-    },
-    {
-      "name": "Star sports 1",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/StarSports1HD/index.m3u8?token=dbbac5a43c19a4c4a10bd98b720863453f867584-2883dc0b3b06a00ba5359a9c17436047-1784328888-1784318088"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/StarSports1HD/index.m3u8?token=dbbac5a43c19a4c4a10bd98b720863453f867584-2883dc0b3b06a00ba5359a9c17436047-1784328888-1784318088",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKqDbqKD/Hridoy-TV-pro-(63).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 26
     },
     {
       "name": "Star sports 2",
