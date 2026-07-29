@@ -17,7 +17,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 21
+      "order": 20
     },
     {
       "name": "A sports",
@@ -38,7 +38,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 22
+      "order": 21
     },
     {
       "name": "Willow HD 2",
@@ -57,7 +57,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 24
+      "order": 23
     },
     {
       "name": "Star Sports 1 Hindi",
@@ -76,7 +76,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 25
+      "order": 24
     },
     {
       "name": "Star sports 1",
@@ -95,7 +95,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 26
+      "order": 25
     },
     {
       "name": "Star sports 2",
@@ -114,7 +114,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 27
+      "order": 26
     },
     {
       "name": "Ten Sports",
@@ -133,7 +133,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 32
+      "order": 31
     },
     {
       "name": "Sky sports",
@@ -368,25 +368,6 @@
       "order": 11
     },
     {
-      "name": "United8 Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.151.61.12/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.151.61.12/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 12
-    },
-    {
       "name": "Willow Cricket",
       "type": "custom",
       "wantedSources": [],
@@ -405,7 +386,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 23
+      "order": 22
     },
     {
       "name": "Star sports 1 select",
@@ -424,7 +405,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 29
+      "order": 28
     },
     {
       "name": "Ten cricket",
@@ -443,7 +424,26 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 31
+      "order": 30
+    },
+    {
+      "name": "United8 Sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.151.61.12/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.151.61.12/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/MHhrxtPD/In-Shot-20260729-213712517.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 32
     },
     {
       "name": "Sony Ten 1",
