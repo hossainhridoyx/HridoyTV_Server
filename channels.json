@@ -3799,25 +3799,6 @@
       "order": 234
     },
     {
-      "name": "Hungama",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1391.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1391.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 235
-    },
-    {
       "name": "Sony Yay",
       "type": "custom",
       "wantedSources": [],
@@ -3892,25 +3873,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 239
-    },
-    {
-      "name": "Disney channel",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1373.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1373.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 240
     },
     {
       "name": "Disney Jr.",
