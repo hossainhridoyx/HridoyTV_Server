@@ -60,6 +60,25 @@
       "order": 24
     },
     {
+      "name": "Star Sports 1 Hindi",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz:: star sports 1 hindi"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 25
+    },
+    {
       "name": "Star sports 1",
       "type": "wanted",
       "wantedSources": [],
@@ -349,44 +368,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 23
-    },
-    {
-      "name": "Star Sports Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://41.205.93.154/STARSPORTS1/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 25
-    },
-    {
-      "name": "Star Sports Khel",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.175.73.12:8080/live/151/151_0.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/N0YpvY01/Hridoy-TV-pro-(60).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 28
     },
     {
       "name": "Star sports 1 select",
