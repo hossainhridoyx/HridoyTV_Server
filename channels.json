@@ -1,6 +1,25 @@
 {
   "wantedChannels": [
     {
+      "name": "PTV sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::ptv sports"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 21
+    },
+    {
       "name": "A sports",
       "type": "wanted",
       "wantedSources": [],
@@ -240,11 +259,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://103.179.25.147:8181/TSPORTS-MADARCHOD/index.m3u8"
+        "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.179.25.147:8181/TSPORTS-MADARCHOD/index.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/tsports6.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/q3Zy9kZ3/9d1164aaacab.jpg",
       "enabled": true,
@@ -271,25 +290,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 11
-    },
-    {
-      "name": "PTV sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8?token=20dbfe86c900c7004e12fd494cc9eb9046089d7f-1c6b76d14bb6acd961147240d63ddc42-1784107041-1784096241"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/index.m3u8?token=20dbfe86c900c7004e12fd494cc9eb9046089d7f-1c6b76d14bb6acd961147240d63ddc42-1784107041-1784096241",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 21
     },
     {
       "name": "Willow Cricket",
