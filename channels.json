@@ -79,6 +79,25 @@
       "order": 26
     },
     {
+      "name": "Star sports 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::star sports 2"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 27
+    },
+    {
       "name": "Ten Sports",
       "type": "wanted",
       "wantedSources": [],
@@ -349,25 +368,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 25
-    },
-    {
-      "name": "Star sports 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/StarSports2HD/index.m3u8?token=86ea4f6cbb1c6e75a59fb2aae1fb1a53c2c6258a-315a2b2257c52164edcc7533fb501e10-1784328938-1784318138"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/StarSports2HD/index.m3u8?token=86ea4f6cbb1c6e75a59fb2aae1fb1a53c2c6258a-315a2b2257c52164edcc7533fb501e10-1784328938-1784318138",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 27
     },
     {
       "name": "Star Sports Khel",
