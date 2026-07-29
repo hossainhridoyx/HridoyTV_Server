@@ -73,7 +73,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": true,
       "newUntil": null,
       "order": 25
@@ -92,7 +92,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/SKqDbqKD/Hridoy-TV-pro-(63).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": true,
       "newUntil": null,
       "order": 26
