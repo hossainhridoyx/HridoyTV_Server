@@ -2677,6 +2677,25 @@
       "order": 164
     },
     {
+      "name": "Star Jalsa",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.191.99.248:5550/302/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.191.99.248:5550/302/index.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 165
+    },
+    {
       "name": "Star Jalsa 2",
       "type": "custom",
       "wantedSources": [],
