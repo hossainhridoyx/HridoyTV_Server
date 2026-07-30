@@ -584,8 +584,7 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/tnt.m3u8",
-        "http://205.235.6.29:8000/play/a0xa/index.m3u8"
+        "https://proxy.hridoytv.workers.dev/tnt.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
