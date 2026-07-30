@@ -231,6 +231,25 @@
       "order": 90
     },
     {
+      "name": "Star Jalsa 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::star jalsha hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 166
+    },
+    {
       "name": "Jalsha Movies",
       "type": "wanted",
       "wantedSources": [],
@@ -2694,25 +2713,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 165
-    },
-    {
-      "name": "Star Jalsa 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://filex.me:8080/live/3114654477/5787654467/911595.ts"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://filex.me:8080/live/3114654477/5787654467/911595.ts",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 166
     },
     {
       "name": "Zee Bangla",
