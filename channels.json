@@ -584,11 +584,12 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
+        "https://proxy.hridoytv.workers.dev/tnt.m3u8",
         "http://205.235.6.29:8000/play/a0xa/index.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://205.235.6.29:8000/play/a0xa/index.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/tnt.m3u8",
       "category": "Sports",
       "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
       "enabled": true,
