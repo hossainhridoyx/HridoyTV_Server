@@ -231,25 +231,6 @@
       "order": 90
     },
     {
-      "name": "Star Jalsa 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::star jalsha hd"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 166
-    },
-    {
       "name": "Jalsha Movies",
       "type": "wanted",
       "wantedSources": [],
@@ -288,25 +269,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 230
-    },
-    {
-      "name": "Disney channel",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "desney"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 242
     },
     {
       "name": "National Geography",
@@ -2697,25 +2659,6 @@
       "order": 164
     },
     {
-      "name": "Star Jalsa",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://103.191.99.248:5550/302/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://103.191.99.248:5550/302/index.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 165
-    },
-    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3248,139 +3191,6 @@
       "order": 196
     },
     {
-      "name": "Star Movie Select HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1110.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1110.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/15kvMD1S/Hridoy-TV-pro-(44).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 197
-    },
-    {
-      "name": "Star Movies HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1104.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1104.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/CL3cJbph/Hridoy-TV-pro-(45).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 198
-    },
-    {
-      "name": "Star Gold",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/156.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/156.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/RV6PcX8f/Hridoy-TV-pro-(32).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 199
-    },
-    {
-      "name": "Star Gold Romance",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/3097.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/3097.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/Prp6m2cR/Hridoy-TV-pro-(37).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 200
-    },
-    {
-      "name": "Star Ma Gold",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1137.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1137.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/28s0TnRH/Hridoy-TV-pro-(42).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 201
-    },
-    {
-      "name": "Star Maa Movies",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/760.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/760.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/GhWXzvn3/Hridoy-TV-pro-(46).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 202
-    },
-    {
-      "name": "Star Utsav Movie",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1136.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1136.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/5Nhsp8dR/Hridoy-TV-pro-(43).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 203
-    },
-    {
       "name": "Star Suvarna Plus",
       "type": "custom",
       "wantedSources": [],
@@ -3398,44 +3208,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 204
-    },
-    {
-      "name": "Star Pravah Picture",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/3100.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/3100.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/WbF9MXKf/Hridoy-TV-pro-(36).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 205
-    },
-    {
-      "name": "Star Bijoy",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/3266.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/3266.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/YqGX1bV3/Hridoy-TV-pro-(34).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 206
     },
     {
       "name": "Zee Cinema",
@@ -3892,45 +3664,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 235
-    },
-    {
-      "name": "Hungama",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://monirul.bro.bd/smm/stream.php?id=hungama&e=.m3u8",
-        "https://pro.hridoytv-pro.workers.dev/live/1391.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://monirul.bro.bd/smm/stream.php?id=hungama&e=.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 236
-    },
-    {
-      "name": "Super Hungama",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://monirul.bro.bd/smm/stream.php?id=super_hungama&e=.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://monirul.bro.bd/smm/stream.php?id=super_hungama&e=.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/4d9v6Z40/In-Shot-20260729-210416126.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 237
     },
     {
       "name": "Sony Yay",
@@ -4623,120 +4356,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 280
-    },
-    {
-      "name": "Star Plus",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1132.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1132.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 281
-    },
-    {
-      "name": "Star kiron",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/3267.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/3267.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/y6rQgwLt/Hridoy-TV-pro-(14).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 282
-    },
-    {
-      "name": "Star Utsav",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1143.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1143.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/DfYjJtCh/Hridoy-TV-pro-(20).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 283
-    },
-    {
-      "name": "Star Bharat",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/931.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/931.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/y6rQgwfY/Hridoy-TV-pro-(22).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 284
-    },
-    {
-      "name": "Star Suvarna",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/370.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/370.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/44FL7r8t/Hridoy-TV-pro-(28).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 285
-    },
-    {
-      "name": "Star Bijoy",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/368.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/368.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/vHgPW3j4/Hridoy-TV-pro-(29).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 286
     },
     {
       "name": "Sun Neo",
