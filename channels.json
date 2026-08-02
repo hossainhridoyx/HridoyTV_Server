@@ -231,6 +231,25 @@
       "order": 90
     },
     {
+      "name": "Star Jalsa HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::star jalsha hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/pLWXHXCG/Hridoy-TV-star-jalsa-HD.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 166
+    },
+    {
       "name": "Jalsha Movies",
       "type": "wanted",
       "wantedSources": [],
