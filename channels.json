@@ -1616,11 +1616,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/asian_tv/playlist.m3u8"
+        "https://proxy.hridoytv.workers.dev/asiantv2.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/asian_tv/playlist.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/asiantv2.m3u8",
       "category": "Bangla",
       "logo": "https://i.ibb.co/QFZRjVkC/cb928a1f3b49.jpg",
       "enabled": true,
