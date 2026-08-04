@@ -231,6 +231,25 @@
       "order": 90
     },
     {
+      "name": "BTV Sangsad",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag::BTV Shangshad"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Hkw2RpJH/In-Shot-20260720-204450298.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 100
+    },
+    {
       "name": "Star Jalsa HD",
       "type": "wanted",
       "wantedSources": [],
@@ -1516,25 +1535,6 @@
       "order": 99
     },
     {
-      "name": "BTV Sangsad",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "Https://proxy.hridoytv.workers.dev/btvsangsad.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "Https://proxy.hridoytv.workers.dev/btvsangsad.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Hkw2RpJH/In-Shot-20260720-204450298.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 100
-    },
-    {
       "name": "Nagorik TV",
       "type": "custom",
       "wantedSources": [],
@@ -1576,7 +1576,9 @@
       "name": "Maasranga TV",
       "type": "custom",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "ag::Maasranga TV"
+      ],
       "streams": [
         "https://proxy.hridoytv.workers.dev/maasrangatv.m3u8"
       ],
