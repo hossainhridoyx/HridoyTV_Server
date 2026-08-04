@@ -250,6 +250,25 @@
       "order": 100
     },
     {
+      "name": "Maasranga TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag::Maasranga TV"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 103
+    },
+    {
       "name": "Star Jalsa HD",
       "type": "wanted",
       "wantedSources": [],
@@ -1571,27 +1590,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 102
-    },
-    {
-      "name": "Maasranga TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag::Maasranga TV"
-      ],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/maasrangatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/maasrangatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 103
     },
     {
       "name": "Deepto TV",
