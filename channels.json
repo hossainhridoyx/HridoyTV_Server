@@ -212,6 +212,139 @@
       "order": 41
     },
     {
+      "name": "Star News",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: star news"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 67
+    },
+    {
+      "name": "Jamuna TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: jamuna tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 68
+    },
+    {
+      "name": "ATN News",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: atn news"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 72
+    },
+    {
+      "name": "Channel 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: channel 1"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/V0nDHSjL/16715780bf44.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 74
+    },
+    {
+      "name": "News24",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: news 24 hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/b8ywL7x/bcc903b58b02.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 75
+    },
+    {
+      "name": "DBC News",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: dbc news hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 76
+    },
+    {
+      "name": "Channel 24",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: channel 24 hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 77
+    },
+    {
       "name": "BBC News",
       "type": "wanted",
       "wantedSources": [],
@@ -267,6 +400,82 @@
       "isNew": false,
       "newUntil": null,
       "order": 103
+    },
+    {
+      "name": "Banglavission",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: bangla vision"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 106
+    },
+    {
+      "name": "NTV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: ntv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 109
+    },
+    {
+      "name": "Channel 9",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: channel 9 hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 115
+    },
+    {
+      "name": "Desh TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: desh tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/DZyjkYMV/Hridoy-TV-Bangla-channel-(6).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 117
     },
     {
       "name": "Star Jalsa HD",
@@ -1017,45 +1226,6 @@
       "order": 66
     },
     {
-      "name": "Star News",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/starnews.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starnews.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 67
-    },
-    {
-      "name": "Jamuna TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/jamunatv.m3u8",
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/jamuna_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/jamunatv.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 68
-    },
-    {
       "name": "Ekattor TV",
       "type": "custom",
       "wantedSources": [],
@@ -1116,25 +1286,6 @@
       "order": 71
     },
     {
-      "name": "ATN News",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/atnnews.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/atnnews.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 72
-    },
-    {
       "name": "JagoNews24",
       "type": "custom",
       "wantedSources": [],
@@ -1152,83 +1303,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 73
-    },
-    {
-      "name": "Channel 1",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/channel1.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/channel1.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/channel1.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/V0nDHSjL/16715780bf44.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 74
-    },
-    {
-      "name": "News24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/news24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/news24.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/b8ywL7x/bcc903b58b02.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 75
-    },
-    {
-      "name": "DBC News",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/dbcnews.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/dbcnews.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 76
-    },
-    {
-      "name": "Channel 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/channel24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/channel24.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 77
     },
     {
       "name": "Tv 9 Bangla",
@@ -1630,25 +1704,6 @@
       "order": 105
     },
     {
-      "name": "Banglavission",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/banglavision.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/banglavision.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 106
-    },
-    {
       "name": "Boishakhi TV",
       "type": "custom",
       "wantedSources": [],
@@ -1685,25 +1740,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 108
-    },
-    {
-      "name": "NTV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ntv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ntv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 109
     },
     {
       "name": "ATN bangla",
@@ -1802,25 +1838,6 @@
       "order": 114
     },
     {
-      "name": "Channel 9",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/channel9.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/channel9.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 115
-    },
-    {
       "name": "My TV",
       "type": "custom",
       "wantedSources": [],
@@ -1838,25 +1855,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 116
-    },
-    {
-      "name": "Desh TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/deshtv2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/deshtv2.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/DZyjkYMV/Hridoy-TV-Bangla-channel-(6).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 117
     },
     {
       "name": "RTV",
