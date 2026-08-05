@@ -1,6 +1,25 @@
 {
   "wantedChannels": [
     {
+      "name": "HridoyTV Test",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb::t sports hd, 2"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": 1784570399000,
+      "order": 1
+    },
+    {
       "name": "PTV sports",
       "type": "wanted",
       "wantedSources": [],
@@ -576,27 +595,6 @@
     }
   ],
   "customChannels": [
-    {
-      "name": "HridoyTV Test",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::t sports hd, 2"
-      ],
-      "streams": [
-        "http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=t_sports_hd&format=.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=t_sports_hd&format=.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
     {
       "name": "HridoyTV",
       "type": "custom",
