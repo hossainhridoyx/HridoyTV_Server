@@ -41,7 +41,26 @@
       "order": 21
     },
     {
-      "name": "Willow HD 2",
+      "name": "Willow Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::willow hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 22
+    },
+    {
+      "name": "Willow Sports 2",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
@@ -670,27 +689,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 11
-    },
-    {
-      "name": "Willow Cricket",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz::willow cricket"
-      ],
-      "streams": [
-        "http://27.124.71.27/Willow_Extra/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/RGtZ3Ckc/0c12b3ecdcd1.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 22
     },
     {
       "name": "Star sports 1 select",
@@ -2377,11 +2375,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8"
+        "http://27.124.71.27/Willow_Extra/index.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
+      "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/tRL4gCsX/Hridoy-TV-bangla-(22).webp",
       "enabled": true,
