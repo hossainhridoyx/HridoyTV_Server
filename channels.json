@@ -691,25 +691,6 @@
       "order": 11
     },
     {
-      "name": "Star sports 1 select",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8?token=b93df8c97d4af341f6b69e3e9d799fc97e62ed6f-b23001a9344b4e441009984c422319e7-1784328829-1784318029"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://cdn.moviemazic.xyz:8083/Feedget/Star-Select-Hd-1/index.m3u8?token=b93df8c97d4af341f6b69e3e9d799fc97e62ed6f-b23001a9344b4e441009984c422319e7-1784328829-1784318029",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 28
-    },
-    {
       "name": "Ten cricket",
       "type": "custom",
       "wantedSources": [],
@@ -767,16 +748,16 @@
       "order": 33
     },
     {
-      "name": "Sony sports 2",
+      "name": "Sony Ten 2",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/891.m3u8"
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/891.m3u8",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/Gprqnrps/Hridoy-TV-pro-(59).webp",
       "enabled": true,
@@ -784,44 +765,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 34
-    },
-    {
-      "name": "Sony Sports 3 Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/892.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/892.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 35
-    },
-    {
-      "name": "Sony Sports 4 Tamil",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1774.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1774.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/y80vGW7N/Hridoy-TV-pro-(52).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 36
     },
     {
       "name": "Sony Ten 5",
