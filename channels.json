@@ -478,6 +478,25 @@
       "order": 117
     },
     {
+      "name": "Channel I",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: channel i hd"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/qRMbVZZS/Hridoy-TV-Bangla-channel-(3).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 120
+    },
+    {
       "name": "Star Jalsa HD",
       "type": "wanted",
       "wantedSources": [],
@@ -1893,25 +1912,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 119
-    },
-    {
-      "name": "Channel I",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/channeli.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/channeli.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/qRMbVZZS/Hridoy-TV-Bangla-channel-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 120
     },
     {
       "name": "Mohona TV",
