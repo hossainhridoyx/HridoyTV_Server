@@ -1343,6 +1343,44 @@
       "order": 73
     },
     {
+      "name": "Kolkata TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/kolkatatv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/kolkatatv.m3u8",
+      "category": "News",
+      "logo": "https://i.postimg.cc/j5pvCXvL/Hridoy-TV-new-channel-(23).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 78
+    },
+    {
+      "name": "Zillar Barta",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/zillarbarta.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/zillarbarta.m3u8",
+      "category": "News",
+      "logo": "https://i.postimg.cc/4dDwn5wy/Hridoy-TV-new-channel-(24).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 79
+    },
+    {
       "name": "Tv 9 Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -1360,6 +1398,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 80
+    },
+    {
+      "name": "News 18 Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8",
+      "category": "News",
+      "logo": "https://i.postimg.cc/gcqcLcg8/hridoytvgate-(20).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 81
     },
     {
       "name": "Republic Bangla",
