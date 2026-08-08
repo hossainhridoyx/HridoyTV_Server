@@ -594,6 +594,25 @@
       "order": 176
     },
     {
+      "name": "Duronto TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "jsbd:: duranta tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 232
+    },
+    {
       "name": "Sonic Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -610,7 +629,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 232
+      "order": 233
     },
     {
       "name": "National Geography",
@@ -629,7 +648,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 326
+      "order": 327
     }
   ],
   "customChannels": [
@@ -3640,7 +3659,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 233
+      "order": 234
     },
     {
       "name": "Nick Bangla",
@@ -3659,7 +3678,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 234
+      "order": 235
     },
     {
       "name": "Nick Hindi",
@@ -3678,7 +3697,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 235
+      "order": 236
     },
     {
       "name": "Nick HD plus",
@@ -3697,7 +3716,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 236
+      "order": 237
     },
     {
       "name": "Nick Jr.",
@@ -3716,7 +3735,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 237
+      "order": 238
     },
     {
       "name": "Sony Yay",
@@ -3735,7 +3754,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 240
+      "order": 241
     },
     {
       "name": "Sony yay Hindi",
@@ -3754,7 +3773,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 241
+      "order": 242
     },
     {
       "name": "Cartoon Network",
@@ -3773,7 +3792,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 242
+      "order": 243
     },
     {
       "name": "Cartoon Network HD+",
@@ -3792,7 +3811,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 243
+      "order": 244
     },
     {
       "name": "Discovery Kids",
@@ -3813,7 +3832,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 246
+      "order": 247
     },
     {
       "name": "Pogo",
@@ -3834,7 +3853,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 247
+      "order": 248
     },
     {
       "name": "ZB Cartoon",
@@ -3855,7 +3874,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 248
+      "order": 249
     },
     {
       "name": "Gopal Bhar",
@@ -3874,7 +3893,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 249
+      "order": 250
     },
     {
       "name": "Motu patlu",
@@ -3893,7 +3912,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 250
+      "order": 251
     },
     {
       "name": "Tom and Jerry",
@@ -3912,7 +3931,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 251
+      "order": 252
     },
     {
       "name": "Mr. Bean",
@@ -3931,7 +3950,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 252
+      "order": 253
     },
     {
       "name": "Barbie And Friends",
@@ -3950,7 +3969,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 253
+      "order": 254
     },
     {
       "name": "Pop",
@@ -3969,7 +3988,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 254
+      "order": 255
     },
     {
       "name": "Smurf TV",
@@ -3988,7 +4007,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 255
+      "order": 256
     },
     {
       "name": "Minika Go",
@@ -4007,7 +4026,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 256
+      "order": 257
     },
     {
       "name": "Roya Kids",
@@ -4026,7 +4045,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 257
+      "order": 258
     },
     {
       "name": "PBS Kids",
@@ -4045,7 +4064,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 258
+      "order": 259
     },
     {
       "name": "Iunior TV",
@@ -4064,7 +4083,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 259
+      "order": 260
     },
     {
       "name": "Niki Kids",
@@ -4083,7 +4102,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 260
+      "order": 261
     },
     {
       "name": "Funny Junior",
@@ -4102,7 +4121,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 261
+      "order": 262
     },
     {
       "name": "Zoo Moo",
@@ -4123,7 +4142,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 262
+      "order": 263
     },
     {
       "name": "Nikky",
@@ -4142,7 +4161,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 264
+      "order": 265
     },
     {
       "name": "Minimax",
@@ -4161,7 +4180,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 268
+      "order": 269
     },
     {
       "name": "Sony entertainment",
@@ -4180,7 +4199,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 270
+      "order": 271
     },
     {
       "name": "Sony Entertainment HD",
@@ -4199,7 +4218,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 271
+      "order": 272
     },
     {
       "name": "Sony Sab",
@@ -4218,7 +4237,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 272
+      "order": 273
     },
     {
       "name": "Sony Kal",
@@ -4237,7 +4256,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 273
+      "order": 274
     },
     {
       "name": "Sony Pal",
@@ -4256,7 +4275,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 274
+      "order": 275
     },
     {
       "name": "Sony Marathi",
@@ -4275,7 +4294,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 275
+      "order": 276
     },
     {
       "name": "Colors HD",
@@ -4294,7 +4313,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 276
+      "order": 277
     },
     {
       "name": "Colors Super",
@@ -4313,7 +4332,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 277
+      "order": 278
     },
     {
       "name": "Colors Rishtey",
@@ -4332,7 +4351,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 278
+      "order": 279
     },
     {
       "name": "Colors Tamil",
@@ -4351,7 +4370,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 279
+      "order": 280
     },
     {
       "name": "Colors Kannada",
@@ -4370,7 +4389,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 280
+      "order": 281
     },
     {
       "name": "Colors Gujarati",
@@ -4389,7 +4408,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 281
+      "order": 282
     },
     {
       "name": "Colors Marathi",
@@ -4408,7 +4427,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 282
+      "order": 283
     },
     {
       "name": "Sun Neo",
@@ -4427,7 +4446,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 289
+      "order": 290
     },
     {
       "name": "Zee TV",
@@ -4446,7 +4465,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 290
+      "order": 291
     },
     {
       "name": "Zee Anmol",
@@ -4465,7 +4484,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 291
+      "order": 292
     },
     {
       "name": "DD National",
@@ -4484,7 +4503,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 292
+      "order": 293
     },
     {
       "name": "DD National HD",
@@ -4503,7 +4522,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 293
+      "order": 294
     },
     {
       "name": "A plus",
@@ -4522,7 +4541,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 294
+      "order": 295
     },
     {
       "name": "AAN HD",
@@ -4541,7 +4560,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 295
+      "order": 296
     },
     {
       "name": "Geo Entertainment",
@@ -4560,7 +4579,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 296
+      "order": 297
     },
     {
       "name": "Tarang TV",
@@ -4579,7 +4598,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 299
+      "order": 300
     },
     {
       "name": "Hum TV",
@@ -4598,7 +4617,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 300
+      "order": 301
     },
     {
       "name": "Hum Sitary",
@@ -4617,7 +4636,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 301
+      "order": 302
     },
     {
       "name": "Hum Masala",
@@ -4636,7 +4655,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 302
+      "order": 303
     },
     {
       "name": "And TV",
@@ -4655,7 +4674,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 303
+      "order": 304
     },
     {
       "name": "Zing",
@@ -4674,7 +4693,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 305
+      "order": 306
     },
     {
       "name": "Shemaroo TV",
@@ -4693,7 +4712,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 306
+      "order": 307
     },
     {
       "name": "Dangal",
@@ -4712,7 +4731,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 307
+      "order": 308
     },
     {
       "name": "ETV Comedy",
@@ -4731,7 +4750,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 308
+      "order": 309
     },
     {
       "name": "Sirippoli TV",
@@ -4750,7 +4769,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 309
+      "order": 310
     },
     {
       "name": "Jonack",
@@ -4769,7 +4788,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 310
+      "order": 311
     },
     {
       "name": "Rang TV",
@@ -4788,7 +4807,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 311
+      "order": 312
     },
     {
       "name": "Animal Planet",
@@ -4807,7 +4826,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 312
+      "order": 313
     },
     {
       "name": "Animal Planet HD",
@@ -4826,7 +4845,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 313
+      "order": 314
     },
     {
       "name": "History TV",
@@ -4845,7 +4864,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 314
+      "order": 315
     },
     {
       "name": "Discovery",
@@ -4864,7 +4883,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 315
+      "order": 316
     },
     {
       "name": "Discovery HD",
@@ -4883,7 +4902,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 316
+      "order": 317
     },
     {
       "name": "Discovery Bangla",
@@ -4902,7 +4921,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 317
+      "order": 318
     },
     {
       "name": "Discovery Bangla HD",
@@ -4921,7 +4940,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 318
+      "order": 319
     },
     {
       "name": "Discovery Asia",
@@ -4940,7 +4959,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 319
+      "order": 320
     },
     {
       "name": "Discovery Science",
@@ -4959,7 +4978,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 320
+      "order": 321
     },
     {
       "name": "Discovery Investigation",
@@ -4978,7 +4997,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 321
+      "order": 322
     },
     {
       "name": "Discovery Turbo",
@@ -4997,7 +5016,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 322
+      "order": 323
     },
     {
       "name": "Discover China",
@@ -5016,7 +5035,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 323
+      "order": 324
     },
     {
       "name": "Discover Pakistan",
@@ -5035,7 +5054,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 324
+      "order": 325
     },
     {
       "name": "Asharaq Discovery",
@@ -5054,7 +5073,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 325
+      "order": 326
     },
     {
       "name": "Sony BBC Earth",
@@ -5073,7 +5092,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 327
+      "order": 328
     },
     {
       "name": "Travel Xp",
@@ -5092,7 +5111,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 328
+      "order": 329
     },
     {
       "name": "Wild Earth",
@@ -5111,7 +5130,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 329
+      "order": 330
     },
     {
       "name": "Nature Time",
@@ -5130,7 +5149,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 332
+      "order": 333
     },
     {
       "name": "4k Travel TV",
@@ -5149,7 +5168,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 333
+      "order": 334
     },
     {
       "name": "FailArmy",
@@ -5168,7 +5187,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 334
+      "order": 335
     },
     {
       "name": "TLC",
@@ -5187,7 +5206,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 335
+      "order": 336
     },
     {
       "name": "Islamic TV",
@@ -5206,7 +5225,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 336
+      "order": 337
     },
     {
       "name": "Islamic Channel Bangla",
@@ -5225,7 +5244,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 337
+      "order": 338
     },
     {
       "name": "Iqra Bangla TV",
@@ -5244,7 +5263,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 338
+      "order": 339
     },
     {
       "name": "Deen TV Bangla",
@@ -5263,7 +5282,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 339
+      "order": 340
     },
     {
       "name": "Peace TV Bangla",
@@ -5282,7 +5301,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 340
+      "order": 341
     },
     {
       "name": "Peace TV English",
@@ -5301,7 +5320,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 341
+      "order": 342
     },
     {
       "name": "Madani Channel Bangla",
@@ -5320,7 +5339,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 342
+      "order": 343
     },
     {
       "name": "Madani Channel Urdu",
@@ -5339,7 +5358,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 343
+      "order": 344
     },
     {
       "name": "Azan TV",
@@ -5358,7 +5377,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 344
+      "order": 345
     },
     {
       "name": "Eman TV",
@@ -5377,7 +5396,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 346
+      "order": 347
     },
     {
       "name": "ATN Music",
@@ -5396,7 +5415,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 347
+      "order": 348
     },
     {
       "name": "Music Bangla",
@@ -5415,7 +5434,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 348
+      "order": 349
     },
     {
       "name": "Sangeet Bangla",
@@ -5434,7 +5453,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 349
+      "order": 350
     },
     {
       "name": "B4U music",
@@ -5453,7 +5472,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 350
+      "order": 351
     },
     {
       "name": "Zoom",
@@ -5472,7 +5491,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 351
+      "order": 352
     },
     {
       "name": "9XM",
@@ -5491,7 +5510,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 352
+      "order": 353
     },
     {
       "name": "9X Jalwa",
@@ -5510,7 +5529,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 353
+      "order": 354
     },
     {
       "name": "9X Jakaas",
@@ -5529,7 +5548,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 354
+      "order": 355
     },
     {
       "name": "SteelBird Music",
@@ -5548,7 +5567,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 355
+      "order": 356
     },
     {
       "name": "Balle Balle TV",
@@ -5567,7 +5586,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 356
+      "order": 357
     },
     {
       "name": "Pitaara",
@@ -5586,7 +5605,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 357
+      "order": 358
     },
     {
       "name": "Sana Music",
@@ -5605,7 +5624,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 358
+      "order": 359
     },
     {
       "name": "PTC Music",
@@ -5624,7 +5643,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 359
+      "order": 360
     },
     {
       "name": "Oye Music",
@@ -5643,7 +5662,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 360
+      "order": 361
     },
     {
       "name": "Moon TV",
@@ -5662,7 +5681,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 364
+      "order": 365
     },
     {
       "name": "Yrf Music",
@@ -5681,7 +5700,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 365
+      "order": 366
     },
     {
       "name": "Village Cooking Channel",
@@ -5700,7 +5719,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 366
+      "order": 367
     },
     {
       "name": "5 Minutes Crafts",
@@ -5719,7 +5738,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 367
+      "order": 368
     }
   ]
 }
