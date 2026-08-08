@@ -594,25 +594,6 @@
       "order": 176
     },
     {
-      "name": "Duranta TV 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "Duranta TV"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 232
-    },
-    {
       "name": "Sonic Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -3660,6 +3641,27 @@
       "isNew": true,
       "newUntil": null,
       "order": 231
+    },
+    {
+      "name": "Duranta TV 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "Duranta TV"
+      ],
+      "streams": [
+        "http://103.165.93.31:8095/duranta/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/duranta/index.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 232
     },
     {
       "name": "Sonic Hindi",
