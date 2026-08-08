@@ -594,7 +594,7 @@
       "order": 176
     },
     {
-      "name": "Duranta TV",
+      "name": "Duranta TV 2",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
@@ -3622,6 +3622,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 228
+    },
+    {
+      "name": "Duranta TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/durontotv2.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/durontotv2.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/RFYxnPtq/Hridoy-TV-cartoon-(10).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 231
     },
     {
       "name": "Sonic Hindi",
