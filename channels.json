@@ -2712,6 +2712,25 @@
       "order": 164
     },
     {
+      "name": "Star Jalsa",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.165.93.31:8095/starJalsha/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/starJalsha/index.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 165
+    },
+    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
