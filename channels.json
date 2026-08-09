@@ -2256,6 +2256,25 @@
       "order": 137
     },
     {
+      "name": "Banglar Konta 24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/banglarkontho24.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/banglarkontho24.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 138
+    },
+    {
       "name": "Biswa Bangla 24",
       "type": "custom",
       "wantedSources": [],
@@ -2539,6 +2558,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 156
+    },
+    {
+      "name": "Ja TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/jatv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/jatv.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/zDLf5RX2/Hridoy-TV-bangla-(2).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 157
     },
     {
       "name": "EP TV",
