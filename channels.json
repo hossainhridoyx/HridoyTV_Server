@@ -630,27 +630,6 @@
       "order": 174
     },
     {
-      "name": "Jalsha Movies",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jalsha movies"
-      ],
-      "streams": [],
-      "backupStreams": [
-        "https://pro.hridoytv-pro.workers.dev/live/457.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 181
-    },
-    {
       "name": "Sonic Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -2959,6 +2938,27 @@
       "isNew": true,
       "newUntil": null,
       "order": 180
+    },
+    {
+      "name": "Jalsha Movies",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "jalsha movies"
+      ],
+      "streams": [
+        "https://sports.hridoytv.workers.dev/Jalsha_Movie.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://sports.hridoytv.workers.dev/Jalsha_Movie.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 181
     },
     {
       "name": "Zee Bangla Sonar",
