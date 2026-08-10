@@ -1,25 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "HridoyTV Test",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: ss pass"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
-    {
       "name": "PTV sports",
       "type": "wanted",
       "wantedSources": [],
@@ -726,6 +707,27 @@
     }
   ],
   "customChannels": [
+    {
+      "name": "HridoyTV Test",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: ss pass"
+      ],
+      "streams": [
+        "http://mxonlive.xyz/live/xap/444348.m3u8?e=1786426697&token=dc7464ec5af26aeb082f254b3961451df615358f5eca6326f4ef7c308857b2c5"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://mxonlive.xyz/live/xap/444348.m3u8?e=1786426697&token=dc7464ec5af26aeb082f254b3961451df615358f5eca6326f4ef7c308857b2c5",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": 1784570399000,
+      "order": 1
+    },
     {
       "name": "HridoyTV",
       "type": "custom",
