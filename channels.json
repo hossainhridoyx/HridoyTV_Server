@@ -691,7 +691,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "otv::colors hd"
+        "otv::IN | Colors HD"
       ],
       "streams": [],
       "backupStreams": [],
