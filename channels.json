@@ -5654,6 +5654,25 @@
       "order": 359
     },
     {
+      "name": "Bengali Beats",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/banglabeats.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/banglabeats.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/pVp7fTk5/In-Shot-20260811-121707465.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 360
+    },
+    {
       "name": "Music Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -5670,235 +5689,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 360
-    },
-    {
-      "name": "Sangeet Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/jdctrmjG/Resized-Image-2026-06-25-11-01-25-8950-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
       "order": 361
-    },
-    {
-      "name": "B4U music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/L5RHQG8x/hridoytvgate-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 362
-    },
-    {
-      "name": "Zoom",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/zoom.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/zoom.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/LXj9Tm2z/hridoytvgate-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 363
-    },
-    {
-      "name": "9XM",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/9xm.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/9xm.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/J0qRfKsg/hridoytvgate-(12).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 364
-    },
-    {
-      "name": "9X Jalwa",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/9xjalwa.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/9xjalwa.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/FzZhMGfQ/hridoytvgate-(13).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 365
-    },
-    {
-      "name": "9X Jakaas",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/9xjakaas.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/9xjakaas.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/SKqDbqK5/Hridoy-TV-pro-(65).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 366
-    },
-    {
-      "name": "SteelBird Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/streelbirdmusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/streelbirdmusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/Fzm9CwHD/hridoytvgate-(6).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 367
-    },
-    {
-      "name": "Balle Balle TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/balleballetv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/balleballetv.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/hPscq6jW/Resized-Image-2026-06-25-11-01-26-5488-4.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 368
-    },
-    {
-      "name": "Pitaara",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/pitaara.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/pitaara.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/Y9CRj3YL/Hridoy-TV-pro-(79).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 369
-    },
-    {
-      "name": "Sana Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/sanamusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sanamusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/hGgpRgjF/Hridoy-TV-pro-(66).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 370
-    },
-    {
-      "name": "PTC Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ptcmusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ptcmusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/KYFJhFYp/Hridoy-TV-pro-(64).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 371
-    },
-    {
-      "name": "Oye Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/2936.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/2936.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/htVpYhKD/Hridoy-TV-pro-(51).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 372
     },
     {
       "name": "Moon TV",
@@ -5917,7 +5708,292 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
+      "order": 362
+    },
+    {
+      "name": "Sangeet Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/jdctrmjG/Resized-Image-2026-06-25-11-01-25-8950-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 363
+    },
+    {
+      "name": "B4U music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/L5RHQG8x/hridoytvgate-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 364
+    },
+    {
+      "name": "Zoom",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/zoom.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/zoom.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/LXj9Tm2z/hridoytvgate-(3).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 365
+    },
+    {
+      "name": "9XM",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/9xm.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/9xm.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/J0qRfKsg/hridoytvgate-(12).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 366
+    },
+    {
+      "name": "9X Jalwa",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/9xjalwa.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/9xjalwa.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/FzZhMGfQ/hridoytvgate-(13).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 367
+    },
+    {
+      "name": "9X Jakaas",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/9xjakaas.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/9xjakaas.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/SKqDbqK5/Hridoy-TV-pro-(65).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 368
+    },
+    {
+      "name": "SteelBird Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy2.hridoytvstream.workers.dev/streelbirdmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy2.hridoytvstream.workers.dev/streelbirdmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/Fzm9CwHD/hridoytvgate-(6).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 369
+    },
+    {
+      "name": "Balle Balle TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/balleballetv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/balleballetv.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/hPscq6jW/Resized-Image-2026-06-25-11-01-26-5488-4.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 370
+    },
+    {
+      "name": "Pitaara",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/pitaara.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/pitaara.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/Y9CRj3YL/Hridoy-TV-pro-(79).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 371
+    },
+    {
+      "name": "Sana Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sanamusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sanamusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/hGgpRgjF/Hridoy-TV-pro-(66).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 372
+    },
+    {
+      "name": "PTC Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ptcmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ptcmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/KYFJhFYp/Hridoy-TV-pro-(64).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 373
+    },
+    {
+      "name": "Oye Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/2936.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/2936.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/htVpYhKD/Hridoy-TV-pro-(51).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 374
+    },
+    {
+      "name": "Sun Gemini Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sungeminimusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sungeminimusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/sxc3kKMH/hridoytvgate-(10).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 375
+    },
+    {
+      "name": "7s Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/7smusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/7smusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/FzZhMGYG/hridoytvgate-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
       "order": 376
+    },
+    {
+      "name": "Only Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/onlymusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/onlymusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/PJhtV05c/hridoytvgate-(9).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 377
     },
     {
       "name": "Yrf Music",
@@ -5936,7 +6012,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 377
+      "order": 378
     },
     {
       "name": "Village Cooking Channel",
@@ -5955,7 +6031,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 378
+      "order": 379
     },
     {
       "name": "5 Minutes Crafts",
@@ -5974,7 +6050,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 379
+      "order": 380
     }
   ]
 }
