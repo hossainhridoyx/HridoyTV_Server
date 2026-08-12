@@ -1,25 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "HridoyTV Test",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "rz:: ten cricket"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
-    {
       "name": "PTV sports",
       "type": "wanted",
       "wantedSources": [],
@@ -687,7 +668,7 @@
       "order": 242
     },
     {
-      "name": "Colors2 HD",
+      "name": "Colors HD",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
