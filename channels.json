@@ -668,6 +668,25 @@
       "order": 242
     },
     {
+      "name": "Colors HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "rz:: colors"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 287
+    },
+    {
       "name": "National Geography",
       "type": "wanted",
       "wantedSources": [],
