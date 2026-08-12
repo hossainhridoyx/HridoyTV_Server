@@ -231,25 +231,6 @@
       "order": 31
     },
     {
-      "name": "Ten Sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz::ten sports"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 35
-    },
-    {
       "name": "Unite8 Sports",
       "type": "wanted",
       "wantedSources": [],
