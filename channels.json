@@ -231,6 +231,25 @@
       "order": 34
     },
     {
+      "name": "United8 Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "rz:: united8 2 hd fifa"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/MHhrxtPD/In-Shot-20260729-213712517.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 35
+    },
+    {
       "name": "Sony ten 3 Hindi",
       "type": "wanted",
       "wantedSources": [],
@@ -822,25 +841,6 @@
       "order": 33
     },
     {
-      "name": "United8 Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/u8sports1.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/u8sports1.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/MHhrxtPD/In-Shot-20260729-213712517.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 35
-    },
-    {
       "name": "Sony Ten 1",
       "type": "custom",
       "wantedSources": [],
@@ -915,26 +915,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 45
-    },
-    {
-      "name": "TNT",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/tnt.m3u8",
-        "http://205.235.6.29:8000/play/a0xa/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/tnt.m3u8",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 46
     },
     {
       "name": "Bein Sports HD",
