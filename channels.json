@@ -250,6 +250,25 @@
       "order": 36
     },
     {
+      "name": "Fox Cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp:: fox cricket"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 37
+    },
+    {
       "name": "Sony ten 3 Hindi",
       "type": "wanted",
       "wantedSources": [],
@@ -266,7 +285,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 39
+      "order": 40
     },
     {
       "name": "Sky sports",
@@ -285,7 +304,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 42
+      "order": 43
     },
     {
       "name": "Sky sports cricket",
@@ -304,7 +323,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 43
+      "order": 44
     },
     {
       "name": "Sky sports f1",
@@ -323,7 +342,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 44
+      "order": 45
     },
     {
       "name": "ESPN",
@@ -342,7 +361,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 45
+      "order": 46
     },
     {
       "name": "Somoy TV",
@@ -876,7 +895,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 37
+      "order": 38
     },
     {
       "name": "Sony Ten 2",
@@ -895,7 +914,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 38
+      "order": 39
     },
     {
       "name": "Sony Ten 5",
@@ -914,7 +933,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 41
+      "order": 42
     },
     {
       "name": "Eurosport",
@@ -933,7 +952,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 46
+      "order": 47
     },
     {
       "name": "Bein Sports HD",
@@ -952,7 +971,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 48
+      "order": 49
     },
     {
       "name": "Red Bull TV",
@@ -971,7 +990,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 49
+      "order": 50
     },
     {
       "name": "Xtreme Sports",
@@ -990,7 +1009,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 50
+      "order": 51
     },
     {
       "name": "Sports TV 5",
@@ -1009,7 +1028,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 51
+      "order": 52
     },
     {
       "name": "A Spor",
@@ -1028,7 +1047,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 52
+      "order": 53
     },
     {
       "name": "DD Sports",
@@ -1047,7 +1066,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 53
+      "order": 54
     },
     {
       "name": "Shooting Sports",
@@ -1066,7 +1085,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 54
+      "order": 55
     },
     {
       "name": "Sports Fishing",
@@ -1085,7 +1104,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 55
+      "order": 56
     },
     {
       "name": "Telemundo",
@@ -1104,7 +1123,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 56
+      "order": 57
     },
     {
       "name": "Tudn",
@@ -1123,7 +1142,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 57
+      "order": 58
     },
     {
       "name": "Sports Range",
@@ -1142,7 +1161,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 58
+      "order": 59
     },
     {
       "name": "Sports First",
@@ -1161,7 +1180,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 59
+      "order": 60
     },
     {
       "name": "Fight TV",
@@ -1180,7 +1199,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 60
+      "order": 61
     },
     {
       "name": "Floracing",
@@ -1199,7 +1218,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 61
+      "order": 62
     },
     {
       "name": "Goal TV",
@@ -1218,7 +1237,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 62
+      "order": 63
     },
     {
       "name": "Speed sports 1",
@@ -1237,7 +1256,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 63
+      "order": 64
     },
     {
       "name": "Trace Sports",
@@ -1256,7 +1275,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 64
+      "order": 65
     },
     {
       "name": "Ftf sports",
@@ -1275,7 +1294,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 65
+      "order": 66
     },
     {
       "name": "Sports Grid",
@@ -1294,7 +1313,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 66
+      "order": 67
     },
     {
       "name": "Motor Vision",
@@ -1313,7 +1332,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 67
+      "order": 68
     },
     {
       "name": "Ekattor TV",
