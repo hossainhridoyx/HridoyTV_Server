@@ -782,7 +782,7 @@
       "order": 290
     },
     {
-      "name": "National Geographic HD",
+      "name": "National Geo Wild HD",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
@@ -793,7 +793,7 @@
       "wantedSource": "",
       "url": "",
       "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/8ccH8jYq/Resized-Image-2026-08-13-15-29-20-5232-2.webp",
+      "logo": "https://i.postimg.cc/T1198psB/Resized-Image-2026-08-13-15-29-20-6839-1.webp",
       "enabled": true,
       "pinned": true,
       "isNew": true,
@@ -5232,6 +5232,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 331
+    },
+    {
+      "name": "National Geographic HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://dip.itshridoy.workers.dev/nationalgeohindi/index.m3u8?expire=28826463737"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://dip.itshridoy.workers.dev/nationalgeohindi/index.m3u8?expire=28826463737",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/8ccH8jYq/Resized-Image-2026-08-13-15-29-20-5232-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 332
     },
     {
       "name": "History TV",
