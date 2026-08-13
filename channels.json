@@ -440,6 +440,25 @@
       "order": 73
     },
     {
+      "name": "Independent TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: independent tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 75
+    },
+    {
       "name": "ATN News",
       "type": "wanted",
       "wantedSources": [],
@@ -1392,26 +1411,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 74
-    },
-    {
-      "name": "Independent TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/independent_tv/playlist.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/independenttv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/independent_tv/playlist.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 75
     },
     {
       "name": "Ekhon TV",
