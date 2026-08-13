@@ -5158,7 +5158,7 @@
       "order": 328
     },
     {
-      "name": "Discovery",
+      "name": "Discovery English",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
@@ -5169,7 +5169,7 @@
       "wantedSource": "",
       "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_sd/playlist.m3u8",
       "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/q7zvM5Sx/Hridoy-TV-channel-(15).webp",
+      "logo": "https://i.postimg.cc/dQ2JGRYc/Resized-Image-2026-08-13-12-50-01-5406-4.webp",
       "enabled": true,
       "pinned": true,
       "isNew": false,
@@ -5177,7 +5177,7 @@
       "order": 329
     },
     {
-      "name": "Discovery HD",
+      "name": "Discovery Hindi",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
@@ -5188,9 +5188,9 @@
       "wantedSource": "",
       "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_hd/playlist.m3u8",
       "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/cCmsQzLf/Hridoy-TV-HD-channel-(1).webp",
+      "logo": "https://i.postimg.cc/XNfn9KbM/Resized-Image-2026-08-13-12-49-59-8814-2.webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": false,
       "newUntil": null,
       "order": 330
@@ -5207,7 +5207,7 @@
       "wantedSource": "",
       "url": "https://pro.hridoytv-pro.workers.dev/live/573.m3u8",
       "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/nr50yDs9/Hridoy-TV-pro-(5).webp",
+      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
       "enabled": true,
       "pinned": true,
       "isNew": false,
@@ -5226,7 +5226,7 @@
       "wantedSource": "",
       "url": "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8",
       "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/8c3t26Fc/Hridoy-TV-pro-(4).webp",
+      "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
       "enabled": true,
       "pinned": true,
       "isNew": true,
