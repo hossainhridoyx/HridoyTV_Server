@@ -402,25 +402,6 @@
       "order": 71
     },
     {
-      "name": "Star News",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: star news"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 72
-    },
-    {
       "name": "Jamuna TV",
       "type": "wanted",
       "wantedSources": [],
@@ -1390,6 +1371,27 @@
       "isNew": true,
       "newUntil": null,
       "order": 69
+    },
+    {
+      "name": "Star News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "ag:: star news"
+      ],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/starnews.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/starnews.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 72
     },
     {
       "name": "Ekattor TV",
