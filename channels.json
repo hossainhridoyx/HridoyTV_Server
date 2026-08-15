@@ -860,6 +860,27 @@
       "order": 34
     },
     {
+      "name": "Ten Sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::ten sports"
+      ],
+      "streams": [
+        "http://66.102.126.10:8000/play/a018/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://66.102.126.10:8000/play/a018/index.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 35
+    },
+    {
       "name": "Sony Ten 1",
       "type": "custom",
       "wantedSources": [],
