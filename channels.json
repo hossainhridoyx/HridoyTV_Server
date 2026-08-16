@@ -934,23 +934,23 @@
       "order": 268
     },
     {
-      "name": "National Geography",
+      "name": "National Geographic HD",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "national geography"
+        "otv:: National GEO (4K)"
       ],
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
       "url": "",
       "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/9frQFnKF/Hridoy-TV-channel-(2).webp",
+      "logo": "https://i.postimg.cc/8ccH8jYq/Resized-Image-2026-08-13-15-29-20-5232-2.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": false,
+      "isNew": true,
       "newUntil": null,
-      "order": 352
+      "order": 342
     },
     {
       "name": "Sangeet Bangla HD",
@@ -5482,25 +5482,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 341
-    },
-    {
-      "name": "National Geographic HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://dip.itshridoy.workers.dev/nationalgeohindi/index.m3u8?expire=28826463737"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/nationalgeohindi/index.m3u8?expire=28826463737",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/8ccH8jYq/Resized-Image-2026-08-13-15-29-20-5232-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 342
     },
     {
       "name": "History TV",
