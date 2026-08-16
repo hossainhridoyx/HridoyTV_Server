@@ -1,25 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "HridoyTV Test",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: ss pass"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
-    {
       "name": "HridoyTV Sports",
       "type": "wanted",
       "wantedSources": [],
@@ -877,6 +858,25 @@
       "order": 254
     },
     {
+      "name": "Hungama",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: Hungama**"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 260
+    },
+    {
       "name": "Sony Yay HD",
       "type": "wanted",
       "wantedSources": [],
@@ -894,6 +894,44 @@
       "isNew": true,
       "newUntil": null,
       "order": 263
+    },
+    {
+      "name": "Disney channel",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | DISNEY HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 267
+    },
+    {
+      "name": "Disney Jr.",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: Disney Junior"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 268
     },
     {
       "name": "National Geography",
