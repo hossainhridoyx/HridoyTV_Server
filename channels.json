@@ -839,6 +839,25 @@
       "order": 192
     },
     {
+      "name": "Sonic Bangla",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
+      ],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 254
+    },
+    {
       "name": "Hungama",
       "type": "wanted",
       "wantedSources": [],
@@ -913,6 +932,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 268
+    },
+    {
+      "name": "Colors HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "rz:: colors"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 300
     },
     {
       "name": "National Geographic HD",
@@ -3152,6 +3190,25 @@
       "order": 184
     },
     {
+      "name": "Colors Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1369.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1369.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/zhkTsLS4/7f957017da8c.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 185
+    },
+    {
       "name": "Colors Bangla HD",
       "type": "custom",
       "wantedSources": [],
@@ -3171,6 +3228,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 186
+    },
+    {
+      "name": "Sun Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1669.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1669.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/sx3WjphR/Resized-Image-2026-07-01-14-41-47-6748-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 187
     },
     {
       "name": "Enter 10 Bangla",
@@ -3211,6 +3287,25 @@
       "order": 189
     },
     {
+      "name": "Ruposhi Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/3005.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3005.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/CKszWc3g/Resized-Image-2026-06-24-03-14-55-7919-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 190
+    },
+    {
       "name": "Sony Aath",
       "type": "custom",
       "wantedSources": [],
@@ -3228,6 +3323,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 191
+    },
+    {
+      "name": "Color Bangla Cinema",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1657.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1657.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/mkT9LQHW/Resized-Image-2026-07-01-14-41-46-8204-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 193
     },
     {
       "name": "Colors Bangla Cinema",
@@ -3403,6 +3517,25 @@
       "order": 202
     },
     {
+      "name": "KTV Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1891.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1891.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/7hcmF2C7/Hridoy-TV-pro-(8).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 203
+    },
+    {
       "name": "Bangla Plus",
       "type": "custom",
       "wantedSources": [],
@@ -3477,6 +3610,101 @@
       "isNew": false,
       "newUntil": null,
       "order": 207
+    },
+    {
+      "name": "Colors Cineplex",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/482.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/482.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 208
+    },
+    {
+      "name": "Colors Cineplex Bollywood",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1763.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1763.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/MKC9t1JK/Hridoy-TV-pro-(47).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 209
+    },
+    {
+      "name": "Colors Cineplex Superhit",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1450.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1450.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/rw5QHzqk/Hridoy-TV-pro-(48).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 210
+    },
+    {
+      "name": "Colors Infinity HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/sDkTK5dc/Hridoy-TV-pro-(39).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 211
+    },
+    {
+      "name": "Colors Gujarati Cinema",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1324.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1324.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/WbB5S0L8/Hridoy-TV-pro-(40).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 212
     },
     {
       "name": "Sony Max HD",
@@ -3591,6 +3819,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 218
+    },
+    {
+      "name": "Sony Wah",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1393.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1393.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/jdw8zZ99/Hridoy-TV-pro-(38).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 219
     },
     {
       "name": "Zee Cinema",
@@ -3973,6 +4220,101 @@
       "isNew": true,
       "newUntil": null,
       "order": 253
+    },
+    {
+      "name": "Sonic Hindi",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/815.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/815.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/tJf2Kx1t/Hridoy-TV-pro-(10).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 255
+    },
+    {
+      "name": "Nick Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 256
+    },
+    {
+      "name": "Nick Hindi",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/545.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/545.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/yx5vMZJP/Hridoy-TV-pro-(12).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 257
+    },
+    {
+      "name": "Nick HD plus",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1226.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1226.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/8c3t26Fm/Hridoy-TV-pro-(11).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 258
+    },
+    {
+      "name": "Nick Jr.",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/544.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/544.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/nr50yDs0/Hridoy-TV-pro-(13).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 259
     },
     {
       "name": "Sony Yay",
@@ -4477,6 +4819,44 @@
       "order": 296
     },
     {
+      "name": "Sony Pal",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/474.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/474.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/wxbfySWm/Hridoy-TV-pro-(26).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 297
+    },
+    {
+      "name": "Sony Marathi",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1146.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1146.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/mZ6Xz0ds/Hridoy-TV-pro-(19).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 298
+    },
+    {
       "name": "Colors",
       "type": "custom",
       "wantedSources": [],
@@ -4494,6 +4874,139 @@
       "isNew": true,
       "newUntil": null,
       "order": 299
+    },
+    {
+      "name": "Colors Super",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/785.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/785.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/7PQsGpBZ/Hridoy-TV-pro-(23).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 301
+    },
+    {
+      "name": "Colors Rishtey",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/279.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/279.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/VLr7jDTb/Hridoy-TV-pro-(30).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 302
+    },
+    {
+      "name": "Colors Tamil",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/429.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/429.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/G3S78ZMG/Hridoy-TV-pro-(27).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 303
+    },
+    {
+      "name": "Colors Kannada",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/757.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/757.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/bYFCDK6v/Hridoy-TV-pro-(24).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 304
+    },
+    {
+      "name": "Colors Gujarati",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/196.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/196.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/bND6Q3MQ/Hridoy-TV-pro-(31).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 305
+    },
+    {
+      "name": "Colors Marathi",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/755.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/755.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/qBZbh9mN/Hridoy-TV-pro-(25).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 306
+    },
+    {
+      "name": "Sun Neo",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/3088.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3088.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/gcBSXfMP/Hridoy-TV-pro-(18).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 313
     },
     {
       "name": "Zee TV",
@@ -4629,6 +5142,44 @@
       "order": 320
     },
     {
+      "name": "Express Entertainment",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/expressenter.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/expressenter.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/s2nzCHrj/Resized-Image-2026-06-24-23-38-55-3879-2.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 321
+    },
+    {
+      "name": "BOL entertainment",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/bolenter.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/bolenter.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/rmKkVGVt/Resized-Image-2026-06-24-23-38-56-8313-3.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 322
+    },
+    {
       "name": "Tarang TV",
       "type": "custom",
       "wantedSources": [],
@@ -4722,6 +5273,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 327
+    },
+    {
+      "name": "Colors Infinity",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "http://103.175.73.12:8080/live/29/29_0.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/9fgftpds/Hridoy-TV-entertainment-channel-(14).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 328
     },
     {
       "name": "Zing",
@@ -4819,6 +5389,44 @@
       "order": 333
     },
     {
+      "name": "Jonack",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/765.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/765.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/6qjNng9H/Resized-Image-2026-07-24-09-59-33-3513-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 334
+    },
+    {
+      "name": "Rang TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/623.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/623.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/ryQTB05v/Resized-Image-2026-07-24-09-59-32-3758-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 335
+    },
+    {
       "name": "Animal Planet",
       "type": "custom",
       "wantedSources": [],
@@ -4893,6 +5501,44 @@
       "isNew": false,
       "newUntil": null,
       "order": 339
+    },
+    {
+      "name": "Discovery Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/573.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/573.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 340
+    },
+    {
+      "name": "Discovery Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 341
     },
     {
       "name": "History TV",
@@ -5447,6 +6093,25 @@
       "order": 376
     },
     {
+      "name": "Moon TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/3298.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3298.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/YCQbPjtt/Hridoy-TV-pro-(50).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 377
+    },
+    {
       "name": "Sangeet Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -5654,6 +6319,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 389
+    },
+    {
+      "name": "Oye Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/2936.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/2936.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/htVpYhKD/Hridoy-TV-pro-(51).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 390
     },
     {
       "name": "Sun Gemini Music",
