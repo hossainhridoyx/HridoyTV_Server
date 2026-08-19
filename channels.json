@@ -1029,6 +1029,25 @@
       "order": 302
     },
     {
+      "name": "Star Plus",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "jsbd:: starplus tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 309
+    },
+    {
       "name": "National Geographic HD",
       "type": "wanted",
       "wantedSources": [],
