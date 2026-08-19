@@ -877,6 +877,25 @@
       "order": 193
     },
     {
+      "name": "Duranta TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "jsbd:: duranta tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 253
+    },
+    {
       "name": "Sonic Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -4220,31 +4239,10 @@
       "order": 250
     },
     {
-      "name": "Duranta TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/durontotv2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/durontotv2.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 253
-    },
-    {
       "name": "Duranta TV 2",
       "type": "custom",
       "wantedSources": [],
-      "customMatchNames": [
-        "Duranta TV"
-      ],
+      "customMatchNames": [],
       "streams": [
         "https://dip.itshridoy.workers.dev/durontotv/index.m3u8?expire=28826463737"
       ],
