@@ -1204,6 +1204,48 @@
       "order": 42
     },
     {
+      "name": "Unite8 Sports 1 HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "5otv:: Unite8 Sports 1 HD"
+      ],
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/u8sports12.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/u8sports12.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 43
+    },
+    {
+      "name": "Unite8 Sports 2 HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "5rz:: unite8 2 hd fifa"
+      ],
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/u8sports22.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/u8sports22.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/HWFcS9Jb/Resized-Image-2026-08-13-11-47-29-0577-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 44
+    },
+    {
       "name": "Sony Ten 1",
       "type": "custom",
       "wantedSources": [],
