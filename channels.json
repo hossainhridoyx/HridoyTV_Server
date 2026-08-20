@@ -6192,9 +6192,7 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/channel16.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/channel16.m3u8",
-        "http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/channel16.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
