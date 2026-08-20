@@ -554,25 +554,6 @@
       "order": 88
     },
     {
-      "name": "ATN News",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: atn news"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 90
-    },
-    {
       "name": "Channel 1",
       "type": "wanted",
       "wantedSources": [],
@@ -1759,6 +1740,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 89
+    },
+    {
+      "name": "ATN News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/atnnews.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/atnnews.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 90
     },
     {
       "name": "JagoNews24",
