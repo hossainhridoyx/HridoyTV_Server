@@ -92,7 +92,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": true,
       "newUntil": null,
       "order": 25
@@ -307,25 +307,6 @@
       "order": 37
     },
     {
-      "name": "Unite8 Sports 1 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: Unite8 Sports 1 HD"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 43
-    },
-    {
       "name": "Sony Ten 1 HD",
       "type": "wanted",
       "wantedSources": [],
@@ -514,25 +495,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 60
-    },
-    {
-      "name": "TNT sports 1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: UK: TNT Sport 1"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 62
     },
     {
       "name": "Somoy TV",
