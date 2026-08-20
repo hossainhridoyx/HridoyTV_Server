@@ -79,44 +79,6 @@
       "order": 22
     },
     {
-      "name": "Geo Super HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: PK | Geo Super HD"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 23
-    },
-    {
-      "name": "Cricbuzz",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: IN | Astro Cricket HD"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 24
-    },
-    {
       "name": "Willow Sports",
       "type": "wanted",
       "wantedSources": [],
@@ -362,44 +324,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 43
-    },
-    {
-      "name": "Fox Cricket",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: fox cricket"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 45
-    },
-    {
-      "name": "Super Sports Cricket",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: SuperSport Cricket"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/YCGMWJ0T/In-Shot-20260820-015955950.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 46
     },
     {
       "name": "Sony Ten 1 HD",
