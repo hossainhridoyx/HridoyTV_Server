@@ -1,11 +1,11 @@
 {
   "wantedChannels": [
     {
-      "name": "HridoyTV Test",
+      "name": "HridoyTV Test 2",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "dip5:: sports 2"
+        "dip5:: colors hd"
       ],
       "streams": [],
       "backupStreams": [],
