@@ -896,25 +896,6 @@
       "order": 156
     },
     {
-      "name": "Sony Aath HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony aath"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/4y8jrPB6/Resized-Image-2026-08-16-20-04-29-1673-7.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 202
-    },
-    {
       "name": "Duranta TV",
       "type": "wanted",
       "wantedSources": [],
@@ -2922,37 +2903,16 @@
       "order": 189
     },
     {
-      "name": "Star Jalsa",
+      "name": "Star Jalsa HD",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://dip.itshridoy.workers.dev/starjalsha/index.m3u8?expire=28826463737"
+        "https://proxy.hridoytv.workers.dev/starjalsa4.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/starjalsha/index.m3u8?expire=28826463737",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 191
-    },
-    {
-      "name": "Star Jalsa HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb::star jalsha hd"
-      ],
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/starjalsa4.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
       "enabled": true,
@@ -2981,25 +2941,6 @@
       "order": 193
     },
     {
-      "name": "Zee Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://dip.itshridoy.workers.dev/zeebangla/index.m3u8?expire=28826463737"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/zeebangla/index.m3u8?expire=28826463737",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/4NP9BV6r/Resized-Image-2026-08-10-11-47-58-7157-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 194
-    },
-    {
       "name": "Colors Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3017,27 +2958,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 195
-    },
-    {
-      "name": "Colors Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb:: colors bangla, 2"
-      ],
-      "streams": [
-        "https://dip.itshridoy.workers.dev/colorsbangla/index.m3u8?expire=28826463737"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/colorsbangla/index.m3u8?expire=28826463737",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 196
     },
     {
       "name": "Sun Bangla",
@@ -3152,25 +3072,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 203
-    },
-    {
-      "name": "Colors Bangla Cinema",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://dip.itshridoy.workers.dev/colorsbanglacinema/index.m3u8?expire=28826463737"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/colorsbanglacinema/index.m3u8?expire=28826463737",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/yYjZvchq/Resized-Image-2026-08-10-11-47-57-1459-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 204
     },
     {
       "name": "Jalsha Movies",
