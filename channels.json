@@ -2827,63 +2827,6 @@
       "order": 168
     },
     {
-      "name": "Prime Ten TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/primetv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/primetv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Dftwzy8N/Hridoy-TV-bangla-(11).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 169
-    },
-    {
-      "name": "Sananda TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/tRL4gCsX/Hridoy-TV-bangla-(22).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 170
-    },
-    {
-      "name": "Channel 52",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/channel52.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/channel52.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/MHDzCtcq/hridoytvgate-(15).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 172
-    },
-    {
       "name": "Jonmobhumi TV",
       "type": "custom",
       "wantedSources": [],
