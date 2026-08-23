@@ -2903,16 +2903,16 @@
       "order": 189
     },
     {
-      "name": "Star Jalsa HD",
+      "name": "Star Jalsa HD ok",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/starjalsa4.m3u8"
+        "https://dip.itshridoy.workers.dev/starjalsa4/playlist.m3u8?expire=28826463737"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starjalsa4.m3u8",
+      "url": "https://dip.itshridoy.workers.dev/starjalsa4/playlist.m3u8?expire=28826463737",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
       "enabled": true,
