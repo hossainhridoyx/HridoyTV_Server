@@ -2732,25 +2732,6 @@
       "order": 159
     },
     {
-      "name": "Toroni24 TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/toroni24tv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/toroni24tv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/fbs4kWkT/Hridoy-TV-new-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 160
-    },
-    {
       "name": "Ion TV UK",
       "type": "custom",
       "wantedSources": [],
@@ -2846,25 +2827,6 @@
       "order": 168
     },
     {
-      "name": "Prime Ten TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/primetv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/primetv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Dftwzy8N/Hridoy-TV-bangla-(11).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 169
-    },
-    {
       "name": "Sananda TV",
       "type": "custom",
       "wantedSources": [],
@@ -2882,25 +2844,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 170
-    },
-    {
-      "name": "Me TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/metv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/metv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/c1VLJ4r9/Hridoy-TV-bangla-(9).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 171
     },
     {
       "name": "Channel 52",
@@ -2977,25 +2920,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 177
-    },
-    {
-      "name": "US BD TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/usbdtv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/usbdtv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/667QwG5j/Hridoy-TV-bangla-(4).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 179
     },
     {
       "name": "Ja TV",
