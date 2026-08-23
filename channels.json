@@ -2165,8 +2165,7 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://btv.hridoytv-channel.workers.dev/btv.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/btv.m3u8"
+        "https://btv.hridoytv-channel.workers.dev/btv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
@@ -2185,8 +2184,7 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://btv.hridoytv-channel.workers.dev/news.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/btvnews.m3u8"
+        "https://btv.hridoytv-channel.workers.dev/news.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
