@@ -2732,44 +2732,6 @@
       "order": 159
     },
     {
-      "name": "Ion TV UK",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/iontvuk.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/iontvuk.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/GpR0939m/Hridoy-TV-new-(5).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 161
-    },
-    {
-      "name": "Biswa Bangla 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/biswabangla24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/biswabangla24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/TPHtvGbM/Hridoy-TV-new-channel-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 163
-    },
-    {
       "name": "Ayna TV",
       "type": "custom",
       "wantedSources": [],
