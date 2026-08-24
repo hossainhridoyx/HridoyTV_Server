@@ -1761,6 +1761,25 @@
       "order": 91
     },
     {
+      "name": "News24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/news242.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/news242.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/b8ywL7x/bcc903b58b02.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 93
+    },
+    {
       "name": "BTV (India)",
       "type": "custom",
       "wantedSources": [],
