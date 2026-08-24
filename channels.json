@@ -2642,11 +2642,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/banglatve.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/banglatve.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/banglatve.m3u8",
+      "url": "https://wpu.hridoytv-direct.workers.dev/banglatve.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/MTrBvh93/In-Shot-20260824-123555969.jpg",
       "enabled": true,
