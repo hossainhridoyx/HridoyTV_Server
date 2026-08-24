@@ -915,44 +915,6 @@
       "order": 229
     },
     {
-      "name": "Duranta TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jsbd:: duranta tv"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 273
-    },
-    {
-      "name": "Sonic Bangla",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [],
-      "backupStreams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 275
-    },
-    {
       "name": "Hungama",
       "type": "wanted",
       "wantedSources": [],
@@ -3969,120 +3931,6 @@
       "order": 270
     },
     {
-      "name": "Duranta TV 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://dip.itshridoy.workers.dev/durontotv/index.m3u8?expire=28826463737"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/durontotv/index.m3u8?expire=28826463737",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 274
-    },
-    {
-      "name": "Sonic Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/815.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/815.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/tJf2Kx1t/Hridoy-TV-pro-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 276
-    },
-    {
-      "name": "Nick Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 277
-    },
-    {
-      "name": "Nick Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/545.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/545.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/yx5vMZJP/Hridoy-TV-pro-(12).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 278
-    },
-    {
-      "name": "Nick HD plus",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1226.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1226.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/8c3t26Fm/Hridoy-TV-pro-(11).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 279
-    },
-    {
-      "name": "Nick Jr.",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/544.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/544.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/nr50yDs0/Hridoy-TV-pro-(13).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 280
-    },
-    {
       "name": "Sony Yay",
       "type": "custom",
       "wantedSources": [],
@@ -4355,25 +4203,6 @@
       "order": 300
     },
     {
-      "name": "Roya Kids",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/royakids.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/royakids.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/Z5DN2C3G/Hridoy-TV-(4).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 301
-    },
-    {
       "name": "PBS Kids",
       "type": "custom",
       "wantedSources": [],
@@ -4431,25 +4260,6 @@
       "order": 304
     },
     {
-      "name": "Funny Junior",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/funnyjunior.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/funnyjunior.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/Cxr4Vw95/Resized-Image-2026-06-24-22-21-53-5067-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 305
-    },
-    {
       "name": "Zoo Moo",
       "type": "custom",
       "wantedSources": [],
@@ -4471,23 +4281,23 @@
       "order": 306
     },
     {
-      "name": "Nikky",
+      "name": "Rongeen TV",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/nikki.m3u8"
+        "https://proxy.hridoytv.workers.dev/rongeentv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/nikki.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/rongeentv.m3u8",
       "category": "Kids",
-      "logo": "https://i.postimg.cc/3RqQDLG3/Hridoy-TV-cartoon-(6).webp",
+      "logo": "https://i.postimg.cc/26tNBHWD/Hridoy-TV-cartoon-(5).webp",
       "enabled": true,
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 308
+      "order": 311
     },
     {
       "name": "Minimax",
