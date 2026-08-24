@@ -2103,25 +2103,6 @@
       "order": 113
     },
     {
-      "name": "Press TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/presstv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/presstv.m3u8",
-      "category": "News",
-      "logo": "https://i.postimg.cc/j5wZs9H9/Hridoy-TV-new-channel-(9).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 115
-    },
-    {
       "name": "Global News",
       "type": "custom",
       "wantedSources": [],
