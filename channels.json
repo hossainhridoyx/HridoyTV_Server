@@ -877,6 +877,25 @@
       "order": 194
     },
     {
+      "name": "Sony Aath HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "temp-play:: sony aath"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/4y8jrPB6/Resized-Image-2026-08-16-20-04-29-1673-7.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 204
+    },
+    {
       "name": "Duranta TV",
       "type": "wanted",
       "wantedSources": [],
