@@ -3399,25 +3399,6 @@
       "order": 218
     },
     {
-      "name": "Rana cable Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ranamusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ranamusic.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/Y2JcgzD4/Rana-cable-on-Hridoy-TV-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 219
-    },
-    {
       "name": "Rana cable Movie",
       "type": "custom",
       "wantedSources": [],
@@ -3435,25 +3416,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 220
-    },
-    {
-      "name": "Rana cable Bhakti Sagar",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/dQzMdjN3/Rana-cable-on-Hridoy-TV-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 221
     },
     {
       "name": "Colors Cineplex",
