@@ -896,6 +896,25 @@
       "order": 204
     },
     {
+      "name": "Colors Cineplex",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: COLORS CINEPLEX (4K)"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 229
+    },
+    {
       "name": "Duranta TV",
       "type": "wanted",
       "wantedSources": [],
@@ -3513,25 +3532,6 @@
       "order": 228
     },
     {
-      "name": "Colors Cineplex",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/482.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/482.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 229
-    },
-    {
       "name": "Colors Cineplex Bollywood",
       "type": "custom",
       "wantedSources": [],
@@ -3568,44 +3568,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 231
-    },
-    {
-      "name": "Colors Infinity HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/sDkTK5dc/Hridoy-TV-pro-(39).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 232
-    },
-    {
-      "name": "Colors Gujarati Cinema",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1324.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1324.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/WbB5S0L8/Hridoy-TV-pro-(40).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 233
     },
     {
       "name": "Sony Max HD",
@@ -3893,25 +3855,6 @@
       "order": 260
     },
     {
-      "name": "Shemaroo Bollywood",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/shemaroobolly.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/shemaroobolly.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/6psDPp5c/Hridoy-TV-channel-(1).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 261
-    },
-    {
       "name": "KungFu Plus",
       "type": "custom",
       "wantedSources": [],
@@ -3929,25 +3872,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 262
-    },
-    {
-      "name": "Nh Bolly Flix",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/nhbollyflix.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/nhbollyflix.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/jSVG1Sdv/Hridoy-TV-channel-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 263
     },
     {
       "name": "Punjabi Shorts",
@@ -4043,25 +3967,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 268
-    },
-    {
-      "name": "Movie Plex",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/movieplex.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/movieplex.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/mDgjhwCc/Hridoy-TV-pro-(78).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 269
     },
     {
       "name": "ETV Cinema",
