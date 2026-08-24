@@ -630,25 +630,6 @@
       "order": 92
     },
     {
-      "name": "News24",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: news 24 hd"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/b8ywL7x/bcc903b58b02.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 93
-    },
-    {
       "name": "DBC News",
       "type": "wanted",
       "wantedSources": [],
@@ -685,25 +666,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 95
-    },
-    {
-      "name": "BBC News",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "bbc one"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.postimg.cc/Df9QrpdW/Resized-Image-2026-06-25-09-25-15-4578-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 110
     },
     {
       "name": "BTV Sangsad",
@@ -1721,25 +1683,6 @@
       "order": 82
     },
     {
-      "name": "Star News",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/starnews2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starnews2.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 85
-    },
-    {
       "name": "Ekattor TV",
       "type": "custom",
       "wantedSources": [],
@@ -2032,11 +1975,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/alljazeera.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/alje.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/alljazeera.m3u8",
+      "url": "https://wpu.hridoytv-direct.workers.dev/alje.m3u8",
       "category": "News",
       "logo": "https://i.postimg.cc/T3bsd7vy/Hridoy-TV-international-(3).webp",
       "enabled": true,
@@ -2146,11 +2089,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/iranpress.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/presstv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/iranpress.m3u8",
+      "url": "https://wpu.hridoytv-direct.workers.dev/presstv.m3u8",
       "category": "News",
       "logo": "https://i.postimg.cc/j5wZs9H9/Hridoy-TV-new-channel-(9).webp",
       "enabled": true,
