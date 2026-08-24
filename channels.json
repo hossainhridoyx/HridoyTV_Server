@@ -2789,25 +2789,6 @@
       "order": 168
     },
     {
-      "name": "Me TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/metv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/metv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/c1VLJ4r9/Hridoy-TV-bangla-(9).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 171
-    },
-    {
       "name": "Deshe Bideahe TV",
       "type": "custom",
       "wantedSources": [],
@@ -2882,6 +2863,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 177
+    },
+    {
+      "name": "NRB TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/nrbtv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/nrbtv.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/PfLqh8r6/Hridoy-TV-bangla-(3).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 180
     },
     {
       "name": "Ja TV",
