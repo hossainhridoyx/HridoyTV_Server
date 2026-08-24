@@ -1069,6 +1069,25 @@
   ],
   "customChannels": [
     {
+      "name": "Bangla TV Europe",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/banglatve.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/banglatve.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/MTrBvh93/In-Shot-20260824-123555969.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 0
+    },
+    {
       "name": "HridoyTV",
       "type": "custom",
       "wantedSources": [],
