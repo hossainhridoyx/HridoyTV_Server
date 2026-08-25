@@ -110,7 +110,7 @@
       "logo": "https://i.postimg.cc/ZqXPrYwQ/In-Shot-20260809-032524015.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 27
     },
@@ -129,7 +129,7 @@
       "logo": "https://i.postimg.cc/MGg0yZ9F/In-Shot-20260809-032535574.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 28
     },
@@ -148,7 +148,7 @@
       "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 30
     },
@@ -167,7 +167,7 @@
       "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 33
     },
@@ -186,7 +186,7 @@
       "logo": "https://i.postimg.cc/7PX2ygnb/In-Shot-20260820-115233215.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 35
     },
@@ -205,7 +205,7 @@
       "logo": "https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 37
     },
@@ -224,7 +224,7 @@
       "logo": "https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 43
     },
@@ -262,7 +262,7 @@
       "logo": "https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 51
     },
@@ -281,7 +281,7 @@
       "logo": "https://i.postimg.cc/7LJFS1wC/Resized-Image-2026-07-24-20-10-48-7868-4.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 57
     },
@@ -300,7 +300,7 @@
       "logo": "https://i.postimg.cc/XvBR9K4B/Resized-Image-2026-07-24-20-10-46-5697-2.webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 58
     },
@@ -319,7 +319,7 @@
       "logo": "https://i.postimg.cc/1zVkD0s8/Resized-Image-2026-07-24-20-10-45-8462-1.webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 59
     },
@@ -338,7 +338,7 @@
       "logo": "https://i.postimg.cc/Dz491Qnm/Resized-Image-2026-07-24-20-10-47-9307-3.webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 60
     },
@@ -357,7 +357,7 @@
       "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 62
     },
@@ -376,7 +376,7 @@
       "logo": "https://i.postimg.cc/NFVp3Hyj/Hridoy-TV-pro-(3).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 73
     },
@@ -509,7 +509,7 @@
       "logo": "https://i.postimg.cc/Hkw2RpJH/In-Shot-20260720-204450298.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 120
     },
@@ -623,7 +623,7 @@
       "logo": "https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 155
     },
@@ -642,7 +642,7 @@
       "logo": "https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 157
     },
@@ -661,7 +661,7 @@
       "logo": "https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 158
     },
@@ -680,7 +680,7 @@
       "logo": "https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 159
     },
@@ -699,7 +699,7 @@
       "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 196
     },
@@ -718,7 +718,7 @@
       "logo": "https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 231
     },
@@ -740,25 +740,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 283
-    },
-    {
-      "name": "Sony Yay HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony yay hindi"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/Y0XTJRbQ/Resized-Image-2026-08-16-20-04-27-6589-6.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 286
     },
     {
       "name": "Disney channel",
@@ -797,6 +778,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 291
+    },
+    {
+      "name": "Colors HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | Colors HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 323
     },
     {
       "name": "Star Plus",
@@ -950,7 +950,7 @@
       "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 41
     },
@@ -969,7 +969,7 @@
       "logo": "https://i.postimg.cc/9Q6VtJqM/In-Shot-20260820-020047815.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 42
     },
@@ -1007,7 +1007,7 @@
       "logo": "https://i.postimg.cc/Gprqnrps/Hridoy-TV-pro-(59).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 49
     },
@@ -1083,7 +1083,7 @@
       "logo": "https://i.postimg.cc/KzpNTMDn/Hridoy-TV-pro-(86).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 64
     },
@@ -1102,7 +1102,7 @@
       "logo": "https://i.postimg.cc/JnYqXk5v/Hridoy-TV-pro-(95).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 65
     },
@@ -1121,7 +1121,7 @@
       "logo": "https://i.postimg.cc/VNR4YTry/Hridoy-TV-pro-(70).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 66
     },
@@ -1140,7 +1140,7 @@
       "logo": "https://i.postimg.cc/LXQTP13C/Hridoy-TV-pro-(91).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 67
     },
@@ -1159,7 +1159,7 @@
       "logo": "https://i.postimg.cc/4d25c9Q8/Hridoy-TV-pro-(90).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 68
     },
@@ -1178,7 +1178,7 @@
       "logo": "https://i.postimg.cc/V6ZRtCWD/Hridoy-TV-pro-(89).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 69
     },
@@ -1197,7 +1197,7 @@
       "logo": "https://i.postimg.cc/mDgjhwCd/Hridoy-TV-pro-(83).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 70
     },
@@ -1254,7 +1254,7 @@
       "logo": "https://i.postimg.cc/Mp1dLXzb/Hridoy-TV-pro-(57).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 75
     },
@@ -1273,7 +1273,7 @@
       "logo": "https://i.postimg.cc/Tw30h9gr/Hridoy-TV-pro-(82).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 76
     },
@@ -1292,7 +1292,7 @@
       "logo": "https://i.postimg.cc/bJVTnt9T/Hridoy-TV-pro-(88).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 78
     },
@@ -1311,7 +1311,7 @@
       "logo": "https://i.postimg.cc/sXHcWh44/Hridoy-TV-pro-(87).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 79
     },
@@ -1330,7 +1330,7 @@
       "logo": "https://i.postimg.cc/Rh8XkH30/Hridoy-TV-pro-(1).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 80
     },
@@ -1349,7 +1349,7 @@
       "logo": "https://i.postimg.cc/fyFBG93L/Hridoy-TV-pro-(2).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 81
     },
@@ -1368,7 +1368,7 @@
       "logo": "https://i.postimg.cc/85z4sHMZ/Hridoy-TV-pro-(85).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 82
     },
@@ -1522,7 +1522,7 @@
       "logo": "https://i.postimg.cc/j5pvCXvL/Hridoy-TV-new-channel-(23).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 98
     },
@@ -1541,7 +1541,7 @@
       "logo": "https://i.postimg.cc/4dDwn5wy/Hridoy-TV-new-channel-(24).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 99
     },
@@ -1617,7 +1617,7 @@
       "logo": "https://i.postimg.cc/13DJd4y6/Hridoy-TV-pro-(55).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 103
     },
@@ -1636,7 +1636,7 @@
       "logo": "https://i.postimg.cc/0y7c4r9z/Hridoy-TV-pro-(54).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 104
     },
@@ -1655,7 +1655,7 @@
       "logo": "https://i.postimg.cc/HWPZcf6F/Hridoy-TV-pro-(16).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 105
     },
@@ -1674,7 +1674,7 @@
       "logo": "https://i.postimg.cc/8c3t26FZ/Hridoy-TV-pro-(15).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 106
     },
@@ -1826,7 +1826,7 @@
       "logo": "https://i.ibb.co.com/xtvzqfq6/4497388a4091.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 117
     },
@@ -1845,7 +1845,7 @@
       "logo": "https://i.postimg.cc/Rhn6qk5f/Resized-Image-2026-07-24-12-00-40-9321-2.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 118
     },
@@ -1864,7 +1864,7 @@
       "logo": "https://i.postimg.cc/2yBb3sRW/Resized-Image-2026-07-24-12-00-40-6889-1.webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 119
     },
@@ -2379,7 +2379,7 @@
       "logo": "https://i.postimg.cc/xdRg07Jq/Hridoy-TV-pro-(73).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 160
     },
@@ -2398,7 +2398,7 @@
       "logo": "https://i.postimg.cc/0jdcdt2V/In-Shot-20260809-120606005.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 161
     },
@@ -2493,7 +2493,7 @@
       "logo": "https://i.postimg.cc/tRL4gCsX/Hridoy-TV-bangla-(22).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 173
     },
@@ -2797,7 +2797,7 @@
       "logo": "https://i.postimg.cc/CKszWc3g/Resized-Image-2026-06-24-03-14-55-7919-1.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 204
     },
@@ -2875,7 +2875,7 @@
       "logo": "https://iili.io/Cgg8ACl.md.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 211
     },
@@ -2894,7 +2894,7 @@
       "logo": "https://i.postimg.cc/sxLxNLTs/In-Shot-20260815-130546794.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 212
     },
@@ -2913,7 +2913,7 @@
       "logo": "https://i.postimg.cc/fyyk5sfM/In-Shot-20260815-130619999.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 213
     },
@@ -2970,7 +2970,7 @@
       "logo": "https://i.postimg.cc/W4nS2KFh/Hridoy-TV-pro-(74).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 216
     },
@@ -2989,7 +2989,7 @@
       "logo": "https://i.postimg.cc/7hcmF2C7/Hridoy-TV-pro-(8).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 217
     },
@@ -3027,7 +3027,7 @@
       "logo": "https://i.postimg.cc/fRBbCVmL/Resized-Image-2026-06-24-03-20-00-4081-1.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 219
     },
@@ -3217,7 +3217,7 @@
       "logo": "https://i.postimg.cc/MKC9t1JK/Hridoy-TV-pro-(47).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 232
     },
@@ -3236,7 +3236,7 @@
       "logo": "https://i.postimg.cc/rw5QHzqk/Hridoy-TV-pro-(48).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 233
     },
@@ -3350,7 +3350,7 @@
       "logo": "https://i.postimg.cc/jdw8zZ99/Hridoy-TV-pro-(38).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 242
     },
@@ -3559,7 +3559,7 @@
       "logo": "https://i.postimg.cc/50K3zCSR/Hridoy-TV-pro-(93).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 267
     },
@@ -3578,7 +3578,7 @@
       "logo": "https://i.postimg.cc/ZKBfrVgV/Hridoy-TV-pro-(35).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 268
     },
@@ -3597,7 +3597,7 @@
       "logo": "https://i.postimg.cc/Hxkzj2Xy/Hridoy-TV-pro-(81).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 269
     },
@@ -3616,7 +3616,7 @@
       "logo": "https://i.postimg.cc/pTLCyZzn/Hridoy-TV-pro-(80).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 270
     },
@@ -3635,7 +3635,7 @@
       "logo": "https://i.postimg.cc/4dxPn5VN/Hridoy-TV-pro-(77).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 272
     },
@@ -3850,7 +3850,7 @@
       "logo": "https://i.postimg.cc/SKrVy52p/Hridoy-TV-pro-(69).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 299
     },
@@ -3869,7 +3869,7 @@
       "logo": "https://i.postimg.cc/7LVXxcCR/Hridoy-TV-pro-(68).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 300
     },
@@ -3888,7 +3888,7 @@
       "logo": "https://i.postimg.cc/pdZk2791/Hridoy-TV-pro-(67).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 301
     },
@@ -4118,7 +4118,7 @@
       "logo": "https://i.postimg.cc/wxbfySWm/Hridoy-TV-pro-(26).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 320
     },
@@ -4137,7 +4137,7 @@
       "logo": "https://i.postimg.cc/VLr7jDTb/Hridoy-TV-pro-(30).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 325
     },
@@ -4156,7 +4156,7 @@
       "logo": "https://i.postimg.cc/gcBSXfMP/Hridoy-TV-pro-(18).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 336
     },
@@ -4213,7 +4213,7 @@
       "logo": "https://i.postimg.cc/dtR1vzx1/In-Shot-20260726-210836372.jpg",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 339
     },
@@ -4232,7 +4232,7 @@
       "logo": "https://i.postimg.cc/CKPdW8rb/In-Shot-20260727-222525786.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 340
     },
@@ -4251,7 +4251,7 @@
       "logo": "https://i.postimg.cc/0NfZ83Mz/Hridoy-TV-pro-(75).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 341
     },
@@ -4498,7 +4498,7 @@
       "logo": "https://i.postimg.cc/6qjNng9H/Resized-Image-2026-07-24-09-59-33-3513-2.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 357
     },
@@ -4517,7 +4517,7 @@
       "logo": "https://i.postimg.cc/ryQTB05v/Resized-Image-2026-07-24-09-59-32-3758-1.webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 358
     },
@@ -4954,7 +4954,7 @@
       "logo": "https://iili.io/COoX76J.md.jpg",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 388
     },
@@ -5068,7 +5068,7 @@
       "logo": "https://i.postimg.cc/nzSkmDG5/Hridoy-TV-pro-(94).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 395
     },
@@ -5163,7 +5163,7 @@
       "logo": "https://i.postimg.cc/YCQbPjtt/Hridoy-TV-pro-(50).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 400
     },
@@ -5277,7 +5277,7 @@
       "logo": "https://i.postimg.cc/SKqDbqK5/Hridoy-TV-pro-(65).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 407
     },
@@ -5334,7 +5334,7 @@
       "logo": "https://i.postimg.cc/Y9CRj3YL/Hridoy-TV-pro-(79).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 410
     },
@@ -5353,7 +5353,7 @@
       "logo": "https://i.postimg.cc/hGgpRgjF/Hridoy-TV-pro-(66).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 411
     },
@@ -5372,7 +5372,7 @@
       "logo": "https://i.postimg.cc/KYFJhFYp/Hridoy-TV-pro-(64).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 412
     },
@@ -5391,7 +5391,7 @@
       "logo": "https://i.postimg.cc/sxc3kKMH/hridoytvgate-(10).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 414
     },
@@ -5410,7 +5410,7 @@
       "logo": "https://i.postimg.cc/FzZhMGYG/hridoytvgate-(8).webp",
       "enabled": true,
       "pinned": true,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 415
     },
@@ -5429,7 +5429,7 @@
       "logo": "https://i.postimg.cc/PJhtV05c/hridoytvgate-(9).webp",
       "enabled": true,
       "pinned": false,
-      "isNew": true,
+      "isNew": false,
       "newUntil": null,
       "order": 416
     },
