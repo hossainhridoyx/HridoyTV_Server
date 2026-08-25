@@ -1730,7 +1730,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/jSf1xgYN/Hridoy-TV-international-(6).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 109
