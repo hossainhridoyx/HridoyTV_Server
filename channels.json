@@ -2397,7 +2397,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/0jdcdt2V/In-Shot-20260809-120606005.jpg",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": true,
       "newUntil": null,
       "order": 161
@@ -2568,7 +2568,7 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/zDLf5RX2/Hridoy-TV-bangla-(2).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": false,
       "newUntil": null,
       "order": 184
