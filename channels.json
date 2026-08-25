@@ -2422,25 +2422,6 @@
       "order": 162
     },
     {
-      "name": "Ayna TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/aynatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/aynatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/rpYf2crB/Hridoy-TV-new-channel-(4).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 168
-    },
-    {
       "name": "Ruposhi Bangla TV",
       "type": "custom",
       "wantedSources": [],
@@ -5071,6 +5052,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 396
+    },
+    {
+      "name": "Channel 16",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://jbd.hossainhridoy.workers.dev/channel16.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://jbd.hossainhridoy.workers.dev/channel16.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/zfNm3D3f/Hridoy-TV-new-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 397
     },
     {
       "name": "Music Bangla",
