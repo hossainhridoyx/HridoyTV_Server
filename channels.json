@@ -2802,25 +2802,6 @@
       "order": 198
     },
     {
-      "name": "Colors Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1369.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1369.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/zhkTsLS4/7f957017da8c.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 200
-    },
-    {
       "name": "Sun Bangla",
       "type": "custom",
       "wantedSources": [],
