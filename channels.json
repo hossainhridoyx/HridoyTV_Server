@@ -5187,6 +5187,25 @@
       "order": 401
     },
     {
+      "name": "D24 - Digital 24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/d24.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/d24.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/BnFzqXrV/In-Shot-20260825-131534254.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 403
+    },
+    {
       "name": "B4U music",
       "type": "custom",
       "wantedSources": [],
@@ -5203,7 +5222,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 403
+      "order": 404
     },
     {
       "name": "Zoom",
@@ -5222,7 +5241,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 404
+      "order": 405
     },
     {
       "name": "9XM",
@@ -5241,7 +5260,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 405
+      "order": 406
     },
     {
       "name": "9X Jalwa",
@@ -5260,7 +5279,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 406
+      "order": 407
     },
     {
       "name": "9X Jakaas",
@@ -5279,7 +5298,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 407
+      "order": 408
     },
     {
       "name": "SteelBird Music",
@@ -5298,7 +5317,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 408
+      "order": 409
     },
     {
       "name": "Balle Balle TV",
@@ -5317,7 +5336,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 409
+      "order": 410
     },
     {
       "name": "Pitaara",
@@ -5336,7 +5355,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 410
+      "order": 411
     },
     {
       "name": "Sana Music",
@@ -5355,7 +5374,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 411
+      "order": 412
     },
     {
       "name": "PTC Music",
@@ -5374,7 +5393,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 412
+      "order": 413
     },
     {
       "name": "Sun Gemini Music",
@@ -5393,7 +5412,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 414
+      "order": 415
     },
     {
       "name": "7s Music",
@@ -5412,7 +5431,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 415
+      "order": 416
     },
     {
       "name": "Only Music",
@@ -5431,7 +5450,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 416
+      "order": 417
     },
     {
       "name": "Yrf Music",
@@ -5450,7 +5469,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 417
+      "order": 418
     },
     {
       "name": "Village Cooking Channel",
@@ -5469,7 +5488,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 418
+      "order": 419
     },
     {
       "name": "5 Minutes Crafts",
@@ -5488,7 +5507,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 419
+      "order": 420
     }
   ]
 }
