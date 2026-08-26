@@ -720,7 +720,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 232
+      "order": 231
     },
     {
       "name": "Hungama",
@@ -2460,25 +2460,6 @@
       "order": 163
     },
     {
-      "name": "Toroni24 TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/toroni24tv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/toroni24tv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/fbs4kWkT/Hridoy-TV-new-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 164
-    },
-    {
       "name": "Banglar Konta 24",
       "type": "custom",
       "wantedSources": [],
@@ -2593,25 +2574,6 @@
       "order": 175
     },
     {
-      "name": "Channel 52",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/channel52.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/channel52.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/MHDzCtcq/hridoytvgate-(15).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 176
-    },
-    {
       "name": "Deshe Bideahe TV",
       "type": "custom",
       "wantedSources": [],
@@ -2667,25 +2629,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 181
-    },
-    {
-      "name": "NRB TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/nrbtv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/nrbtv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/PfLqh8r6/Hridoy-TV-bangla-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 184
     },
     {
       "name": "Ja TV",
@@ -3222,25 +3165,6 @@
       "order": 229
     },
     {
-      "name": "RC entertainment",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/rctv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/rctv.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/KYY9gyZT/hridoytv-channels-(5).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 230
-    },
-    {
       "name": "Rai Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3257,7 +3181,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 231
+      "order": 230
     },
     {
       "name": "Colors Cineplex Bollywood",
@@ -3276,7 +3200,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 233
+      "order": 232
     },
     {
       "name": "Colors Cineplex Superhit",
@@ -3295,7 +3219,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 234
+      "order": 233
     },
     {
       "name": "Sony Max HD",
@@ -3314,7 +3238,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 237
+      "order": 236
     },
     {
       "name": "Sony Max 2",
@@ -3333,7 +3257,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 239
+      "order": 238
     },
     {
       "name": "Sony Movies",
@@ -3352,7 +3276,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 240
+      "order": 239
     },
     {
       "name": "Sony cine",
@@ -3371,7 +3295,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 241
+      "order": 240
     },
     {
       "name": "Sony Pix",
@@ -3390,7 +3314,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 242
+      "order": 241
     },
     {
       "name": "Sony Wah",
@@ -3409,7 +3333,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 243
+      "order": 242
     },
     {
       "name": "Zee Cinema",
@@ -3428,7 +3352,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 254
+      "order": 253
     },
     {
       "name": "Zee Bollywood",
@@ -3447,7 +3371,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 255
+      "order": 254
     },
     {
       "name": "ZEE Action",
@@ -3466,7 +3390,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 256
+      "order": 255
     },
     {
       "name": "Zee One",
@@ -3485,7 +3409,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 257
+      "order": 256
     },
     {
       "name": "Zee Cafe",
@@ -3504,7 +3428,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 258
+      "order": 257
     },
     {
       "name": "And pictures",
@@ -3523,7 +3447,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 259
+      "order": 258
     },
     {
       "name": "B4u Movies",
@@ -3542,7 +3466,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 260
+      "order": 259
     },
     {
       "name": "Goldmines Movies",
@@ -3561,7 +3485,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 263
+      "order": 262
     },
     {
       "name": "KungFu Plus",
@@ -3580,7 +3504,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 265
+      "order": 264
     },
     {
       "name": "Punjabi Shorts",
@@ -3599,7 +3523,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 267
+      "order": 266
     },
     {
       "name": "Bollywood HD",
@@ -3618,7 +3542,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 268
+      "order": 267
     },
     {
       "name": "Pocket Film",
@@ -3637,7 +3561,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 269
+      "order": 268
     },
     {
       "name": "Studio One",
@@ -3656,7 +3580,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 270
+      "order": 269
     },
     {
       "name": "Raj Digital Plus",
@@ -3675,7 +3599,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 271
+      "order": 270
     },
     {
       "name": "ETV Cinema",
@@ -3694,7 +3618,26 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 273
+      "order": 272
+    },
+    {
+      "name": "RC entertainment",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/rctv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/rctv.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/KYY9gyZT/hridoytv-channels-(5).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 275
     },
     {
       "name": "Sony Yay",
