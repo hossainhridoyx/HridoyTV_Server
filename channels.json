@@ -20,6 +20,63 @@
       "order": 3
     },
     {
+      "name": "PTV sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: FIFA: PTV SPORTS"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 21
+    },
+    {
+      "name": "Geo Super HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: PK | Geo Super HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 23
+    },
+    {
+      "name": "Cricbuzz",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | Astro Cricket HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 24
+    },
+    {
       "name": "Willow HD",
       "type": "wanted",
       "wantedSources": [],
@@ -94,6 +151,44 @@
       "isNew": false,
       "newUntil": null,
       "order": 32
+    },
+    {
+      "name": "Unite8 Sports 1 HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: Unite8 Sports 1 HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 43
+    },
+    {
+      "name": "Super Sports Cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: SuperSport Cricket"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/YCGMWJ0T/In-Shot-20260820-015955950.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 46
     },
     {
       "name": "Sony Ten 1 HD",
@@ -208,6 +303,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 56
+    },
+    {
+      "name": "TNT sports 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: UK: TNT Sport 1"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 62
     },
     {
       "name": "Sports Range",
@@ -533,6 +647,25 @@
       "order": 160
     },
     {
+      "name": "Star Jalsa HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IND-Bangla: Star Jalsa HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 197
+    },
+    {
       "name": "Sony Aath HD",
       "type": "wanted",
       "wantedSources": [],
@@ -590,6 +723,63 @@
       "order": 276
     },
     {
+      "name": "Hungama",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: Hungama**"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 284
+    },
+    {
+      "name": "Disney channel",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | DISNEY HD"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 291
+    },
+    {
+      "name": "Disney Jr.",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: Disney Junior"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 293
+    },
+    {
       "name": "Colors HD",
       "type": "wanted",
       "wantedSources": [],
@@ -626,6 +816,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 332
+    },
+    {
+      "name": "National Geo Wild HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | Nat Geo Wild HINDI"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/T1198psB/Resized-Image-2026-08-13-15-29-20-6839-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 368
     }
   ],
   "customChannels": [
@@ -2937,6 +3146,25 @@
       "order": 223
     },
     {
+      "name": "Rana cable Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ranamusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ranamusic.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/Y2JcgzD4/Rana-cable-on-Hridoy-TV-(2).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 224
+    },
+    {
       "name": "Rana cable Movie",
       "type": "custom",
       "wantedSources": [],
@@ -2954,6 +3182,25 @@
       "isNew": true,
       "newUntil": null,
       "order": 225
+    },
+    {
+      "name": "Rana cable Bhakti Sagar",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/dQzMdjN3/Rana-cable-on-Hridoy-TV-(3).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 226
     },
     {
       "name": "Riddhi Network",
