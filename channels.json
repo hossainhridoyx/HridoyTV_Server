@@ -552,6 +552,25 @@
       "order": 231
     },
     {
+      "name": "Duranta TV 🔥",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "jsbd:: duranta tv"
+      ],
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 276
+    },
+    {
       "name": "Colors HD",
       "type": "wanted",
       "wantedSources": [],
