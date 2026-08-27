@@ -671,13 +671,15 @@
       "name": "Star sports 2",
       "type": "custom",
       "wantedSources": [],
-      "customMatchNames": [],
+      "customMatchNames": [
+        "sp:: star sports 2"
+      ],
       "streams": [
-        "https://proxy.hridoytv.workers.dev/starsports2.m3u8"
+        "https://proxy.hridoytv.workers.dev/starsports22.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starsports2.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/starsports22.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
       "enabled": true,
