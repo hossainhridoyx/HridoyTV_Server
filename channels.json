@@ -2384,16 +2384,16 @@
       "order": 195
     },
     {
-      "name": "Star Jalsa test",
+      "name": "Star Jalsa",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://temp-play.hridoytv-channel.workers.dev"
+        "https://temp-play.hridoytv-channel.workers.dev/index.m3u8?expire=36735735e56r"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://temp-play.hridoytv-channel.workers.dev",
+      "url": "https://temp-play.hridoytv-channel.workers.dev/index.m3u8?expire=36735735e56r",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
       "enabled": true,
