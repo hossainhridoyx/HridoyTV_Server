@@ -571,6 +571,25 @@
       "order": 276
     },
     {
+      "name": "Sonic Bangla",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [],
+      "backupStreams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
+      ],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 278
+    },
+    {
       "name": "Sony Yay HD",
       "type": "wanted",
       "wantedSources": [],
@@ -3566,6 +3585,25 @@
       "order": 275
     },
     {
+      "name": "Nick Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 280
+    },
+    {
       "name": "Hungama",
       "type": "custom",
       "wantedSources": [],
@@ -4581,17 +4619,35 @@
       "order": 364
     },
     {
+      "name": "Discovery Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/573.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/573.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 365
+    },
+    {
       "name": "Discovery Bangla HD",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510485.ts?expire=357282e3673",
         "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510485.ts?expire=357282e3673",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8",
       "category": "Lifestyle/Doc",
       "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
       "enabled": true,
