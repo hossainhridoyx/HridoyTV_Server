@@ -649,6 +649,25 @@
       "order": 12
     },
     {
+      "name": "PTV sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404537.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404537.ts?expire=357282e3673",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 21
+    },
+    {
       "name": "A sports",
       "type": "custom",
       "wantedSources": [],
@@ -4560,6 +4579,26 @@
       "isNew": false,
       "newUntil": null,
       "order": 364
+    },
+    {
+      "name": "Discovery Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510485.ts?expire=357282e3673",
+        "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510485.ts?expire=357282e3673",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 366
     },
     {
       "name": "National Geographic HD",
