@@ -858,16 +858,16 @@
   ],
   "customChannels": [
     {
-      "name": "HridoyTV Test 1",
+      "name": "HridoyTV Test 2",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://sports.hridoytv.workers.dev"
+        "https://sports.hridoytv.workers.dev/?url=http://mxonlive.xyz/live/xap/150480.m3u8?e=1788011633&token=fc7928c6b514783ca3cdee7d9d98ab36e5e9a505575e03a84942850be8732c85"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev",
+      "url": "https://sports.hridoytv.workers.dev/?url=http://mxonlive.xyz/live/xap/150480.m3u8?e=1788011633&token=fc7928c6b514783ca3cdee7d9d98ab36e5e9a505575e03a84942850be8732c85",
       "category": "Other",
       "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
       "enabled": true,
