@@ -3547,6 +3547,25 @@
       "order": 275
     },
     {
+      "name": "Hungama",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510267.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510267.ts?expire=357282e3673",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 284
+    },
+    {
       "name": "Sony Yay",
       "type": "custom",
       "wantedSources": [],
