@@ -611,25 +611,6 @@
   ],
   "customChannels": [
     {
-      "name": "HridoyTV Test",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://sports.hridoytv.workers.dev/live/015414147458605/OCMguySU4M/76194.ts?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev/live/015414147458605/OCMguySU4M/76194.ts?expire=357282e3673",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
-    {
       "name": "HridoyTV",
       "type": "custom",
       "wantedSources": [],
@@ -2553,6 +2534,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 198
+    },
+    {
+      "name": "Colors Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "comb:: colors bangla, 2"
+      ],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76194.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76194.ts?expire=357282e3673",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 201
     },
     {
       "name": "Sun Bangla",
