@@ -611,6 +611,25 @@
   ],
   "customChannels": [
     {
+      "name": "HridoyTV Test 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://sports.hridoytv.workers.dev/live/015414147458605/OCMguySU4M/76194.ts"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://sports.hridoytv.workers.dev/live/015414147458605/OCMguySU4M/76194.ts",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": 1784570399000,
+      "order": 1
+    },
+    {
       "name": "HridoyTV",
       "type": "custom",
       "wantedSources": [],
