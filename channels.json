@@ -2517,6 +2517,25 @@
       "order": 196
     },
     {
+      "name": "Star Jalsa HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76204.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76204.ts?expire=357282e3673",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 197
+    },
+    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
