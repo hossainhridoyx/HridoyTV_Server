@@ -1012,25 +1012,6 @@
       "order": 49
     },
     {
-      "name": "Sony Sports 4 Tamil",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1774.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1774.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/y80vGW7N/Hridoy-TV-pro-(52).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 54
-    },
-    {
       "name": "Sony Ten 5",
       "type": "custom",
       "wantedSources": [],
