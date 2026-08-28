@@ -644,7 +644,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 332
+      "order": 333
     }
   ],
   "customChannels": [
@@ -3300,25 +3300,6 @@
       "order": 233
     },
     {
-      "name": "Colors Infinity HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/sDkTK5dc/Hridoy-TV-pro-(39).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 234
-    },
-    {
       "name": "Colors Gujarati Cinema",
       "type": "custom",
       "wantedSources": [],
@@ -4543,6 +4524,25 @@
       "order": 330
     },
     {
+      "name": "Colors Infinity",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/1325.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/9fgftpds/Hridoy-TV-entertainment-channel-(14).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 331
+    },
+    {
       "name": "Colors Marathi",
       "type": "custom",
       "wantedSources": [],
@@ -4559,7 +4559,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 331
+      "order": 332
     },
     {
       "name": "Sun Neo",
@@ -4578,7 +4578,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 338
+      "order": 339
     },
     {
       "name": "Zee TV",
@@ -4597,7 +4597,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 339
+      "order": 340
     },
     {
       "name": "Zee Anmol",
@@ -4616,7 +4616,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 340
+      "order": 341
     },
     {
       "name": "DD National",
@@ -4635,7 +4635,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 341
+      "order": 342
     },
     {
       "name": "DD National HD",
@@ -4654,7 +4654,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 342
+      "order": 343
     },
     {
       "name": "A plus",
@@ -4673,7 +4673,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 343
+      "order": 344
     },
     {
       "name": "AAN HD",
@@ -4692,7 +4692,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 344
+      "order": 345
     },
     {
       "name": "Geo Entertainment",
@@ -4711,7 +4711,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 345
+      "order": 346
     },
     {
       "name": "Tarang TV",
@@ -4730,7 +4730,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 348
+      "order": 349
     },
     {
       "name": "Hum TV",
@@ -4749,7 +4749,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 349
+      "order": 350
     },
     {
       "name": "Hum Sitary",
@@ -4768,7 +4768,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 350
+      "order": 351
     },
     {
       "name": "Hum Masala",
@@ -4787,7 +4787,7 @@
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 351
+      "order": 352
     },
     {
       "name": "And TV",
@@ -4805,25 +4805,6 @@
       "enabled": true,
       "pinned": true,
       "isNew": false,
-      "newUntil": null,
-      "order": 352
-    },
-    {
-      "name": "Colors Infinity",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1158.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1158.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/9fgftpds/Hridoy-TV-entertainment-channel-(14).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
       "newUntil": null,
       "order": 353
     },
