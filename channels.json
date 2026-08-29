@@ -58,44 +58,6 @@
       "order": 28
     },
     {
-      "name": "Star Sports 1 Hindi",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: Star Sports 1 Hindi"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 30
-    },
-    {
-      "name": "Star sports 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: star sports 2"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 32
-    },
-    {
       "name": "Sony Ten 1 HD",
       "type": "wanted",
       "wantedSources": [],
@@ -685,6 +647,82 @@
       "isNew": false,
       "newUntil": null,
       "order": 22
+    },
+    {
+      "name": "Star Sports 1 Hindi",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404529.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404529.ts?expire=357282e3673",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 30
+    },
+    {
+      "name": "Star sports 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404530.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404530.ts?expire=357282e3673",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 32
+    },
+    {
+      "name": "Star sports 1 select",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404532.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404532.ts?expire=357282e3673",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 37
+    },
+    {
+      "name": "Star sports select 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404533.ts?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404533.ts?expire=357282e3673",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/rm1v8S4P/In-Shot-20260813-015624865.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 39
     },
     {
       "name": "Ten cricket",
@@ -2811,11 +2849,11 @@
         "jalsha movies"
       ],
       "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/457.m3u8"
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76205.ts?expire=357282e3673"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/457.m3u8",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76205.ts?expire=357282e3673",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
       "enabled": true,
