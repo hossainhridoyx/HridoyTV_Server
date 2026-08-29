@@ -1679,16 +1679,16 @@
       "order": 119
     },
     {
-      "name": "Nagorik TV 1",
+      "name": "Nagorik TV",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://dip.itshridoy.workers.dev/nagoriktv?expire=35289192362"
+        "https://dip.itshridoy.workers.dev/nagoriktv?expire=3xz52891sg9236dh732token25716227"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/nagoriktv?expire=35289192362",
+      "url": "https://dip.itshridoy.workers.dev/nagoriktv?expire=3xz52891sg9236dh732token25716227",
       "category": "Bangla",
       "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
       "enabled": true,
