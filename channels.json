@@ -2849,11 +2849,11 @@
         "jalsha movies"
       ],
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/Jalsha_Movie.m3u8"
+        "https://pro.hridoytv-pro.workers.dev/live/457.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/Jalsha_Movie.m3u8",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/457.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
       "enabled": true,
