@@ -1684,11 +1684,11 @@
       "wantedSources": [],
       "customMatchNames": [],
       "streams": [
-        "https://dip.itshridoy.workers.dev"
+        "https://dip.itshridoy.workers.dev/nagoriktv?expire=35289192362"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev",
+      "url": "https://dip.itshridoy.workers.dev/nagoriktv?expire=35289192362",
       "category": "Bangla",
       "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
       "enabled": true,
