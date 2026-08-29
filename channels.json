@@ -343,25 +343,6 @@
       "order": 123
     },
     {
-      "name": "Banglavission",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: bangla vision"
-      ],
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 126
-    },
-    {
       "name": "NTV",
       "type": "wanted",
       "wantedSources": [],
@@ -1753,6 +1734,25 @@
       "isNew": false,
       "newUntil": null,
       "order": 125
+    },
+    {
+      "name": "Banglavission",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/banglavision.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/banglavision.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 126
     },
     {
       "name": "Boishakhi TV",
