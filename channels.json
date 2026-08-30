@@ -7,6 +7,8 @@
       "customMatchNames": [
         "sp:: fox cricket"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -26,6 +28,8 @@
       "customMatchNames": [
         "sp:: willow hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -45,6 +49,8 @@
       "customMatchNames": [
         "sp::willow 2"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -64,6 +70,8 @@
       "customMatchNames": [
         "temp-play:: sony ten 1 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -83,6 +91,8 @@
       "customMatchNames": [
         "temp-play:: sony ten 2 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -102,6 +112,8 @@
       "customMatchNames": [
         "sp:: sony sports ten 3 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -121,6 +133,8 @@
       "customMatchNames": [
         "temp-play:: sony ten 3 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -140,6 +154,8 @@
       "customMatchNames": [
         "temp-play:: sony ten 4 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -159,6 +175,8 @@
       "customMatchNames": [
         "temp-play:: sony ten 5 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -178,6 +196,8 @@
       "customMatchNames": [
         "ag:: sports range"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -197,6 +217,8 @@
       "customMatchNames": [
         "ag:: somoy tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -216,6 +238,8 @@
       "customMatchNames": [
         "ag:: jamuna tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -235,6 +259,8 @@
       "customMatchNames": [
         "ag:: independent tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -254,6 +280,8 @@
       "customMatchNames": [
         "ag:: channel 1"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -273,6 +301,8 @@
       "customMatchNames": [
         "ag:: dbc news hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -292,6 +322,8 @@
       "customMatchNames": [
         "ag:: channel 24 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -311,6 +343,8 @@
       "customMatchNames": [
         "ag:: BTV Shangshad"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -330,6 +364,8 @@
       "customMatchNames": [
         "ag:: Maasranga TV"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -349,6 +385,8 @@
       "customMatchNames": [
         "ag:: ntv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -368,6 +406,8 @@
       "customMatchNames": [
         "ag:: channel 9 hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -387,6 +427,8 @@
       "customMatchNames": [
         "ag:: channel i hd"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -406,6 +448,8 @@
       "customMatchNames": [
         "jsbd:: usb tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -425,6 +469,8 @@
       "customMatchNames": [
         "jsbd:: magic bangla tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -444,6 +490,8 @@
       "customMatchNames": [
         "jsbd:: Biswa Bangla World TV"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -463,6 +511,8 @@
       "customMatchNames": [
         "jsbd:: america bangla channel"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -482,6 +532,8 @@
       "customMatchNames": [
         "temp-play:: sony aath"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -501,6 +553,8 @@
       "customMatchNames": [
         "jsbd:: duranta tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -520,6 +574,8 @@
       "customMatchNames": [
         "temp-play:: sony yay hindi"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -539,6 +595,8 @@
       "customMatchNames": [
         "jsbd:: starplus tv"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -558,6 +616,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytvx.pages.dev/HridoyTV%20video%20new/master.m3u8"
       ],
@@ -577,6 +637,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
       ],
@@ -596,6 +658,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404537.m3u8?expire=357282e3673"
       ],
@@ -615,6 +679,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/asportshtv.m3u8"
       ],
@@ -634,6 +700,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404529.m3u8?expire=357282e3673"
       ],
@@ -653,6 +721,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404530.m3u8?expire=357282e3673"
       ],
@@ -672,6 +742,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404532.m3u8?expire=357282e3673"
       ],
@@ -691,6 +763,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/1404533.m3u8?expire=357282e3673"
       ],
@@ -710,6 +784,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/ten_cricket/playlist.m3u8"
       ],
@@ -731,6 +807,8 @@
       "customMatchNames": [
         "cz::ten sports"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "http://66.102.126.10:8000/play/a018/index.m3u8"
       ],
@@ -750,6 +828,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/pksports.m3u8"
       ],
@@ -769,6 +849,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_1_hd/playlist.m3u8"
       ],
@@ -788,6 +870,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8"
       ],
@@ -807,6 +891,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_sports_5_hd/playlist.m3u8"
       ],
@@ -826,6 +912,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/euro_sports_hd/playlist.m3u8"
       ],
@@ -845,6 +933,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/beinsportshtv.m3u8"
       ],
@@ -864,6 +954,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/redbultv.m3u8"
       ],
@@ -883,6 +975,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/xtremesports.m3u8"
       ],
@@ -902,6 +996,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "http://94.130.32.19:8080/sporttv5/index.m3u8"
       ],
@@ -921,6 +1017,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/aspor.m3u8"
       ],
@@ -940,6 +1038,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ddsports.m3u8"
       ],
@@ -959,6 +1059,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/shootingsports.m3u8"
       ],
@@ -978,6 +1080,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sportsfishing.m3u8"
       ],
@@ -997,6 +1101,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/telemundo.m3u8"
       ],
@@ -1016,6 +1122,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/tudn.m3u8"
       ],
@@ -1035,6 +1143,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/fighttv.m3u8"
       ],
@@ -1054,6 +1164,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/floracing.m3u8"
       ],
@@ -1073,6 +1185,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/speedsports.m3u8"
       ],
@@ -1092,6 +1206,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/tracesports.m3u8"
       ],
@@ -1111,6 +1227,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ftfsports.m3u8"
       ],
@@ -1130,6 +1248,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sportsgird.m3u8"
       ],
@@ -1149,6 +1269,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/motorvission.m3u8"
       ],
@@ -1168,6 +1290,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/ekattor_tv/playlist.m3u8",
         "https://jbd.hossainhridoy.workers.dev/ekattortv.m3u8",
@@ -1189,6 +1313,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/ekhon_tv/playlist.m3u8"
       ],
@@ -1208,6 +1334,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://wpu.hridoytv-direct.workers.dev/atnnews.m3u8"
       ],
@@ -1227,6 +1355,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/jagonews24.m3u8"
       ],
@@ -1246,6 +1376,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/news242.m3u8"
       ],
@@ -1265,6 +1397,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/btvindia.m3u8"
       ],
@@ -1284,6 +1418,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/rcnews.m3u8"
       ],
@@ -1303,6 +1439,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/kolkatatv.m3u8"
       ],
@@ -1322,6 +1460,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/zillarbarta.m3u8"
       ],
@@ -1341,6 +1481,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/tv9bangla.m3u8"
       ],
@@ -1360,6 +1502,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8"
       ],
@@ -1379,6 +1523,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/republicbangla.m3u8"
       ],
@@ -1398,6 +1544,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/abpanada.m3u8"
       ],
@@ -1417,6 +1565,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/news18bangla.m3u8"
       ],
@@ -1436,6 +1586,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/908.m3u8"
       ],
@@ -1455,6 +1607,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/2027.m3u8"
       ],
@@ -1474,6 +1628,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://wpu.hridoytv-direct.workers.dev/alje.m3u8"
       ],
@@ -1493,6 +1649,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/cnn.m3u8"
       ],
@@ -1512,6 +1670,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/foxnews.m3u8"
       ],
@@ -1531,6 +1691,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/euronews.m3u8"
       ],
@@ -1550,6 +1712,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/france24.m3u8"
       ],
@@ -1569,6 +1733,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/dwnews.m3u8"
       ],
@@ -1588,6 +1754,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/globalnews.m3u8"
       ],
@@ -1607,6 +1775,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://btv.hridoytv-channel.workers.dev/btv.m3u8"
       ],
@@ -1626,6 +1796,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://btv.hridoytv-channel.workers.dev/news.m3u8"
       ],
@@ -1645,6 +1817,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://btv.hridoytv-channel.workers.dev/chittagong.m3u8"
       ],
@@ -1664,6 +1838,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "Offline stream",
       "streams": [
         "https://dip.itshridoy.workers.dev/nagoriktv?expire=3xz52891sg9236dh732token25716227"
       ],
@@ -1683,6 +1859,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://wpu.hridoytv-direct.workers.dev/gtv.m3u8"
       ],
@@ -1702,6 +1880,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/deeptotv.m3u8"
       ],
@@ -1721,6 +1901,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/asiantv2.m3u8"
       ],
@@ -1740,6 +1922,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/banglavision.m3u8"
       ],
@@ -1759,6 +1943,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/boishakhitv2.m3u8"
       ],
@@ -1778,6 +1964,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/satv.m3u8"
       ],
@@ -1797,6 +1985,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/ntveurope.m3u8"
       ],
@@ -1816,6 +2006,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/atnbangla2.m3u8",
         "https://jbd.hossainhridoy.workers.dev/atnbangla.m3u8"
@@ -1836,6 +2028,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/atnbanglauk.m3u8"
       ],
@@ -1855,6 +2049,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/movie_bangla/playlist.m3u8"
       ],
@@ -1874,6 +2070,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/srktv.m3u8"
       ],
@@ -1893,6 +2091,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/bijoytv/playlist.m3u8"
       ],
@@ -1912,6 +2112,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/mytv.m3u8"
       ],
@@ -1931,6 +2133,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/desh_tv/playlist.m3u8"
       ],
@@ -1950,6 +2154,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/rtv.m3u8"
       ],
@@ -1969,6 +2175,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/ekusheytv.m3u8"
       ],
@@ -1988,6 +2196,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/mohonatv.m3u8"
       ],
@@ -2007,6 +2217,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8"
       ],
@@ -2026,6 +2238,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/channel_s_tv/playlist.m3u8",
         "https://proxy.hridoytv.workers.dev/channels.m3u8"
@@ -2046,6 +2260,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/channelsuk.m3u8"
       ],
@@ -2065,6 +2281,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/nexus_tv/playlist.m3u8"
       ],
@@ -2084,6 +2302,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/greentv.m3u8"
       ],
@@ -2103,6 +2323,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/anandatv/playlist.m3u8"
       ],
@@ -2122,6 +2344,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/globaltv/playlist.m3u8"
       ],
@@ -2141,6 +2365,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/banglatv.m3u8"
       ],
@@ -2160,6 +2386,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://wpu.hridoytv-direct.workers.dev/banglatve.m3u8"
       ],
@@ -2179,6 +2407,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/jalshabangla.m3u8"
       ],
@@ -2198,6 +2428,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/matribhumi.m3u8"
       ],
@@ -2217,6 +2449,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/amarbangla24.m3u8"
       ],
@@ -2236,6 +2470,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/deshbanglatv.m3u8"
       ],
@@ -2255,6 +2491,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "http://158.69.24.53:8080/probashi_tv/index.m3u8"
       ],
@@ -2274,6 +2512,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/dtvusa.m3u8"
       ],
@@ -2293,6 +2533,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/entertv.m3u8"
       ],
@@ -2312,6 +2554,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/iontvuk.m3u8"
       ],
@@ -2331,6 +2575,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/biswabangla24.m3u8"
       ],
@@ -2350,6 +2596,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/aynatv.m3u8"
       ],
@@ -2369,6 +2617,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/ruposhibanglatv.m3u8"
       ],
@@ -2388,6 +2638,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/deshitv.m3u8"
       ],
@@ -2407,6 +2659,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sandanatv3.m3u8"
       ],
@@ -2426,6 +2680,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/metv.m3u8"
       ],
@@ -2445,6 +2701,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/deshebideahe.m3u8"
       ],
@@ -2464,6 +2722,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/jonmobhumitv.m3u8"
       ],
@@ -2483,6 +2743,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/cbntv.m3u8"
       ],
@@ -2502,6 +2764,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/usbdtv.m3u8"
       ],
@@ -2521,6 +2785,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/nrbtv.m3u8"
       ],
@@ -2540,6 +2806,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/jhankartv.m3u8"
       ],
@@ -2559,6 +2827,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/banglaone.m3u8"
       ],
@@ -2578,6 +2848,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/channeleurope.m3u8"
       ],
@@ -2597,6 +2869,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/vision24.m3u8"
       ],
@@ -2616,6 +2890,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8"
       ],
@@ -2635,6 +2911,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76204.m3u8?expire=357282e3673"
       ],
@@ -2654,6 +2932,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bangla/playlist.m3u8"
       ],
@@ -2673,6 +2953,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/72258.m3u8?expire=357282e3673"
       ],
@@ -2692,6 +2974,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/756.m3u8"
       ],
@@ -2713,6 +2997,8 @@
       "customMatchNames": [
         "comb:: colors bangla, 2"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76194.m3u8?expire=357282e3673"
       ],
@@ -2732,6 +3018,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/1669.m3u8"
       ],
@@ -2751,6 +3039,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/enter10bangla.m3u8"
       ],
@@ -2770,6 +3060,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/akashaath.m3u8"
       ],
@@ -2789,6 +3081,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/3005.m3u8"
       ],
@@ -2808,6 +3102,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyaath/playlist.m3u8"
       ],
@@ -2827,6 +3123,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/1657.m3u8"
       ],
@@ -2848,6 +3146,8 @@
       "customMatchNames": [
         "jalsha movies"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/76205.m3u8?expire=357282e3673"
       ],
@@ -2867,6 +3167,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/zeebangalsonar.m3u8"
       ],
@@ -2886,6 +3188,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bangla_cinema/playlist.m3u8"
       ],
@@ -2905,6 +3209,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/amarbanglatv.m3u8"
       ],
@@ -2924,6 +3230,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/amardigital.m3u8"
       ],
@@ -2943,6 +3251,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/khushboobangla.m3u8"
       ],
@@ -2962,6 +3272,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/zbcinema.m3u8"
       ],
@@ -2981,6 +3293,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/taratv.m3u8"
       ],
@@ -3000,6 +3314,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/1891.m3u8"
       ],
@@ -3019,6 +3335,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/banglaplus.m3u8"
       ],
@@ -3038,6 +3356,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/bhichannel.m3u8"
       ],
@@ -3057,6 +3377,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/orangebangla.m3u8"
       ],
@@ -3076,6 +3398,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ddbangla.m3u8"
       ],
@@ -3095,6 +3419,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ranatv.m3u8"
       ],
@@ -3114,6 +3440,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ranamovie.m3u8"
       ],
@@ -3133,6 +3461,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8"
       ],
@@ -3152,6 +3482,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/riddhinetwork.m3u8"
       ],
@@ -3171,6 +3503,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/balurghat.m3u8"
       ],
@@ -3190,6 +3524,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/alotv.m3u8"
       ],
@@ -3209,6 +3545,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/raibangla.m3u8"
       ],
@@ -3228,6 +3566,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/upoharbangla.m3u8"
       ],
@@ -3247,6 +3587,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_max_hd/playlist.m3u8"
       ],
@@ -3266,6 +3608,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/483.m3u8"
       ],
@@ -3285,6 +3629,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonymax_2/playlist.m3u8"
       ],
@@ -3304,6 +3650,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sonymovies.m3u8"
       ],
@@ -3323,6 +3671,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sonycine.m3u8"
       ],
@@ -3342,6 +3692,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonypix_hd/playlist.m3u8"
       ],
@@ -3361,6 +3713,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/1393.m3u8"
       ],
@@ -3380,6 +3734,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_cinema_hd/playlist.m3u8"
       ],
@@ -3399,6 +3755,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bollywood/playlist.m3u8"
       ],
@@ -3418,6 +3776,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_action/playlist.m3u8"
       ],
@@ -3437,6 +3797,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/zeeone.m3u8"
       ],
@@ -3456,6 +3818,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8"
       ],
@@ -3475,6 +3839,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/andpicture_hd/playlist.m3u8"
       ],
@@ -3494,6 +3860,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/b4umovie.m3u8"
       ],
@@ -3513,6 +3881,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/goldminesmovie.m3u8"
       ],
@@ -3532,6 +3902,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/kungfuplus.m3u8"
       ],
@@ -3551,6 +3923,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/panjabishorts.m3u8"
       ],
@@ -3570,6 +3944,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/bollywoodhd.m3u8"
       ],
@@ -3589,6 +3965,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/3259.m3u8"
       ],
@@ -3608,6 +3986,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/studio1.m3u8"
       ],
@@ -3627,6 +4007,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/rajdigitalplus.m3u8"
       ],
@@ -3646,6 +4028,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/etvcinema.m3u8"
       ],
@@ -3665,6 +4049,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/rctv.m3u8"
       ],
@@ -3684,6 +4070,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/510267.m3u8?expire=357282e3673"
       ],
@@ -3703,6 +4091,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/17327.m3u8?expire=357282e3673"
       ],
@@ -3722,6 +4112,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyyay/playlist.m3u8"
       ],
@@ -3741,6 +4133,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/cartoon_network_sd/playlist.m3u8"
       ],
@@ -3760,6 +4154,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8"
       ],
@@ -3779,6 +4175,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "http://202.70.146.135:8000/play/a01q/index.m3u8"
       ],
@@ -3798,6 +4196,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/015414147458605/OCMguySU4M/175130.m3u8?expire=357282e3673"
       ],
@@ -3819,6 +4219,8 @@
       "customMatchNames": [
         "No"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_kids/playlist.m3u8"
       ],
@@ -3840,6 +4242,8 @@
       "customMatchNames": [
         "No"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/pogo_sd/playlist.m3u8"
       ],
@@ -3861,6 +4265,8 @@
       "customMatchNames": [
         "No"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/zbcartoon.m3u8"
       ],
@@ -3880,6 +4286,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/gopalbhar.m3u8"
       ],
@@ -3899,6 +4307,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/motupatlu.m3u8"
       ],
@@ -3918,6 +4328,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/tomandjerry.m3u8"
       ],
@@ -3937,6 +4349,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/mrbean.m3u8"
       ],
@@ -3956,6 +4370,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/barbieandfreinds.m3u8"
       ],
@@ -3975,6 +4391,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/pop.m3u8"
       ],
@@ -3994,6 +4412,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/smurftv.m3u8"
       ],
@@ -4013,6 +4433,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/manikago.m3u8"
       ],
@@ -4032,6 +4454,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/pbskids.m3u8"
       ],
@@ -4051,6 +4475,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/iuniortv.m3u8"
       ],
@@ -4070,6 +4496,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/nikikids.m3u8"
       ],
@@ -4091,6 +4519,8 @@
       "customMatchNames": [
         "No"
       ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/zoomoo.m3u8"
       ],
@@ -4110,6 +4540,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/rongeentv.m3u8"
       ],
@@ -4129,6 +4561,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/minimax.m3u8"
       ],
@@ -4148,6 +4582,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_entertainment/playlist.m3u8"
       ],
@@ -4167,6 +4603,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8"
       ],
@@ -4186,6 +4624,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonysab_hd/playlist.m3u8"
       ],
@@ -4205,6 +4645,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/sonykal.m3u8"
       ],
@@ -4224,6 +4666,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/474.m3u8"
       ],
@@ -4243,6 +4687,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/3088.m3u8"
       ],
@@ -4262,6 +4708,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_tv_hd/playlist.m3u8"
       ],
@@ -4281,6 +4729,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_anmol/playlist.m3u8"
       ],
@@ -4300,6 +4750,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/202.m3u8"
       ],
@@ -4319,6 +4771,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ddnationalhd.m3u8"
       ],
@@ -4338,6 +4792,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/aplus.m3u8"
       ],
@@ -4357,6 +4813,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/aanhd.m3u8"
       ],
@@ -4376,6 +4834,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/geoen.m3u8"
       ],
@@ -4395,6 +4855,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/tarangtv.m3u8"
       ],
@@ -4414,6 +4876,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_tv/playlist.m3u8"
       ],
@@ -4433,6 +4897,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_sitaray/playlist.m3u8"
       ],
@@ -4452,6 +4918,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_masala/playlist.m3u8"
       ],
@@ -4471,6 +4939,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/and_tv_hd/playlist.m3u8"
       ],
@@ -4490,6 +4960,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/zing_sd/playlist.m3u8"
       ],
@@ -4509,6 +4981,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/shemarootv.m3u8"
       ],
@@ -4528,6 +5002,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/dangal.m3u8"
       ],
@@ -4547,6 +5023,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/etvcomedy.m3u8"
       ],
@@ -4566,6 +5044,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sirippolitv.m3u8"
       ],
@@ -4585,6 +5065,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/765.m3u8"
       ],
@@ -4604,6 +5086,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/623.m3u8"
       ],
@@ -4623,6 +5107,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/animal_planet_sd/playlist.m3u8"
       ],
@@ -4642,6 +5128,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8"
       ],
@@ -4661,6 +5149,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_sd/playlist.m3u8"
       ],
@@ -4680,6 +5170,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_hd/playlist.m3u8"
       ],
@@ -4699,6 +5191,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/nationalgeo.m3u8"
       ],
@@ -4718,6 +5212,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/historytv.m3u8"
       ],
@@ -4737,6 +5233,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/discoveryasia.m3u8"
       ],
@@ -4756,6 +5254,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_science/playlist.m3u8"
       ],
@@ -4775,6 +5275,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8"
       ],
@@ -4794,6 +5296,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/discovery_turbo/playlist.m3u8"
       ],
@@ -4813,6 +5317,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/discoverychina.m3u8"
       ],
@@ -4832,6 +5338,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/discoverpakistan.m3u8"
       ],
@@ -4851,6 +5359,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/asharaqdiscovery.m3u8"
       ],
@@ -4870,6 +5380,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8"
       ],
@@ -4889,6 +5401,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/travelxp.m3u8"
       ],
@@ -4908,6 +5422,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/wildearth.m3u8"
       ],
@@ -4927,6 +5443,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/naturetime.m3u8"
       ],
@@ -4946,6 +5464,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/4ktraveltv.m3u8"
       ],
@@ -4965,6 +5485,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/failarmy.m3u8"
       ],
@@ -4984,6 +5506,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8"
       ],
@@ -5003,6 +5527,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://tbd.hossainhridoy.workers.dev/cdn/live/islamic_tv/playlist.m3u8"
       ],
@@ -5022,6 +5548,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/islamchannelbangla.m3u8"
       ],
@@ -5041,6 +5569,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/iqrabanglatv.m3u8"
       ],
@@ -5060,6 +5590,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/deentvbangla.m3u8"
       ],
@@ -5079,6 +5611,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/peacetvbangla.m3u8"
       ],
@@ -5098,6 +5632,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/peacetvenglish.m3u8"
       ],
@@ -5117,6 +5653,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/madanichannel.m3u8"
       ],
@@ -5136,6 +5674,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/madanichannelurdu.m3u8"
       ],
@@ -5155,6 +5695,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/azantv.m3u8"
       ],
@@ -5174,6 +5716,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/emantv.m3u8"
       ],
@@ -5193,6 +5737,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/atnmusic.m3u8"
       ],
@@ -5212,6 +5758,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/banglabeats.m3u8"
       ],
@@ -5231,6 +5779,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://jbd.hossainhridoy.workers.dev/channel16.m3u8"
       ],
@@ -5250,6 +5800,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/musicbangla.m3u8"
       ],
@@ -5269,6 +5821,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
       ],
@@ -5288,6 +5842,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://pro.hridoytv-pro.workers.dev/live/3298.m3u8"
       ],
@@ -5307,6 +5863,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/zodiaktv.m3u8"
       ],
@@ -5326,6 +5884,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ranamusic.m3u8"
       ],
@@ -5345,6 +5905,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/d24.m3u8"
       ],
@@ -5364,6 +5926,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8"
       ],
@@ -5383,6 +5947,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/zoom.m3u8"
       ],
@@ -5402,6 +5968,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/9xm.m3u8"
       ],
@@ -5421,6 +5989,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/9xjalwa.m3u8"
       ],
@@ -5440,6 +6010,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/9xjakaas.m3u8"
       ],
@@ -5459,6 +6031,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/streelbirdmusic.m3u8"
       ],
@@ -5478,6 +6052,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/balleballetv.m3u8"
       ],
@@ -5497,6 +6073,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/pitaara.m3u8"
       ],
@@ -5516,6 +6094,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sanamusic.m3u8"
       ],
@@ -5535,6 +6115,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/ptcmusic.m3u8"
       ],
@@ -5554,6 +6136,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/sungeminimusic.m3u8"
       ],
@@ -5573,6 +6157,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/7smusic.m3u8"
       ],
@@ -5592,6 +6178,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/onlymusic.m3u8"
       ],
@@ -5611,6 +6199,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy2.hridoytvstream.workers.dev/yrfmusic.m3u8"
       ],
@@ -5630,6 +6220,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/villagecooking.m3u8"
       ],
@@ -5649,6 +6241,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
       "streams": [
         "https://proxy.hridoytv.workers.dev/5mincrafts.m3u8"
       ],
