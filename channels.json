@@ -528,27 +528,6 @@
       "order": 12
     },
     {
-      "name": "PTV sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/437739.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/437739.m3u8?expire=357282e3673",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 21
-    },
-    {
       "name": "A sports",
       "type": "custom",
       "wantedSources": [],
@@ -568,90 +547,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 22
-    },
-    {
-      "name": "Star Sports 1 Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441104.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441104.m3u8?expire=357282e3673",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 30
-    },
-    {
-      "name": "Star sports 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441102.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441102.m3u8?expire=357282e3673",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 32
-    },
-    {
-      "name": "Star sports 1 select",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441099.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441099.m3u8?expire=357282e3673",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 37
-    },
-    {
-      "name": "Star sports select 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441097.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441097.m3u8?expire=357282e3673",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/rm1v8S4P/In-Shot-20260813-015624865.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 39
     },
     {
       "name": "Ten cricket",
@@ -2781,27 +2676,6 @@
       "order": 196
     },
     {
-      "name": "Star Jalsa HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441082.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441082.m3u8?expire=357282e3673",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 197
-    },
-    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -2821,29 +2695,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 198
-    },
-    {
-      "name": "Colors Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "comb:: colors bangla, 2"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/1667640.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/1667640.m3u8?expire=357282e3673",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 201
     },
     {
       "name": "Sun Bangla",
@@ -2949,29 +2800,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 206
-    },
-    {
-      "name": "Jalsha Movies",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jalsha movies"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/1667723.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/1667723.m3u8?expire=357282e3673",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 210
     },
     {
       "name": "Zee Bangla Sonar",
@@ -3856,69 +3684,6 @@
       "order": 275
     },
     {
-      "name": "Hungama",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/440385.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/440385.m3u8?expire=357282e3673",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 284
-    },
-    {
-      "name": "Super Hungama",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441060.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441060.m3u8?expire=357282e3673",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/4d9v6Z40/In-Shot-20260729-210416126.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 285
-    },
-    {
-      "name": "Nickelodeon 🔥",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/162232.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/162232.m3u8?expire=357282e3673",
-      "category": "Kids",
-      "logo": "https://iili.io/CpgdfYN.md.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 286
-    },
-    {
       "name": "Sony Yay",
       "type": "custom",
       "wantedSources": [],
@@ -4001,27 +3766,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 293
-    },
-    {
-      "name": "Disney Jr. Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/162229.m3u8?expire=357282e3673"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/162229.m3u8?expire=357282e3673",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 294
     },
     {
       "name": "Discovery Kids",
