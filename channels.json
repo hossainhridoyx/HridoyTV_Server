@@ -64,48 +64,6 @@
       "order": 28
     },
     {
-      "name": "Sony Ten 1 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony ten 1 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/1XWbLBJ0/Resized-Image-2026-08-16-20-04-26-3283-5.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 48
-    },
-    {
-      "name": "Sony Ten 2 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony ten 2 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/C5v9W7mk/Resized-Image-2026-08-16-20-04-24-0224-4.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 50
-    },
-    {
       "name": "Sony ten 3",
       "type": "wanted",
       "wantedSources": [],
@@ -125,69 +83,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 51
-    },
-    {
-      "name": "Sony Ten 3 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony ten 3 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/3NLzP1nB/Resized-Image-2026-08-16-20-04-23-6045-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 52
-    },
-    {
-      "name": "Sony Ten 4 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony ten 4 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/MHsgh5d5/Resized-Image-2026-08-16-20-04-22-7794-2.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 53
-    },
-    {
-      "name": "Sony Ten 5 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony ten 5 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/yxf2wjvn/Resized-Image-2026-08-16-20-04-20-2858-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 56
     },
     {
       "name": "Sports Range",
