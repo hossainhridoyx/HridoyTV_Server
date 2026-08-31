@@ -636,7 +636,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "otv:: ES: nickelodeon"
+        "otv:: Af | DSTV: Nickelodeon HD"
       ],
       "customErrorEnabled": false,
       "customErrorMessage": "",
@@ -717,27 +717,6 @@
     }
   ],
   "customChannels": [
-    {
-      "name": "HridoyTV Test 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://sports.hridoytv.workers.dev/sonic.ts"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev/sonic.ts",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
     {
       "name": "HridoyTV",
       "type": "custom",
