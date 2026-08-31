@@ -43,6 +43,27 @@
       "order": 21
     },
     {
+      "name": "Geo Super HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: PK | Geo Super HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 23
+    },
+    {
       "name": "Willow HD",
       "type": "wanted",
       "wantedSources": [],
