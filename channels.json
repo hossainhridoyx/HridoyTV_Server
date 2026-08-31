@@ -1388,7 +1388,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/13DJd4y6/Hridoy-TV-pro-(55).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 103
@@ -1430,7 +1430,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/HWPZcf6F/Hridoy-TV-pro-(16).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 105
