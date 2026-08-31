@@ -557,11 +557,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://sports.hridoytv.workers.dev/sonic.m3u8"
+        "https://sports.hridoytv.workers.dev/sonic.ts"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev/sonic.m3u8",
+      "url": "https://sports.hridoytv.workers.dev/sonic.ts",
       "category": "Other",
       "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
       "enabled": true,
