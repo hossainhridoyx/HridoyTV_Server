@@ -527,27 +527,6 @@
       "order": 278
     },
     {
-      "name": "Sony Yay HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "temp-play:: sony yay hindi"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/Y0XTJRbQ/Resized-Image-2026-08-16-20-04-27-6589-6.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 288
-    },
-    {
       "name": "Star Plus",
       "type": "wanted",
       "wantedSources": [],
@@ -3830,6 +3809,28 @@
       "isNew": true,
       "newUntil": null,
       "order": 275
+    },
+    {
+      "name": "Nick Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "http://103.165.93.31:8095/nick/index.m3u8",
+        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/nick/index.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 280
     },
     {
       "name": "Sony Yay",
