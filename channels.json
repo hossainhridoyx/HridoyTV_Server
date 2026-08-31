@@ -127,6 +127,48 @@
       "order": 29
     },
     {
+      "name": "Unite8 Sports 1 HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: Unite8 Sports 1 HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 43
+    },
+    {
+      "name": "Super Sports Cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: SuperSport Cricket"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/YCGMWJ0T/In-Shot-20260820-015955950.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 46
+    },
+    {
       "name": "Sony ten 3",
       "type": "wanted",
       "wantedSources": [],
@@ -167,6 +209,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 58
+    },
+    {
+      "name": "TNT sports 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: UK: TNT Sport 1"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 62
     },
     {
       "name": "Sports Range",
@@ -546,6 +609,90 @@
       "isNew": true,
       "newUntil": null,
       "order": 280
+    },
+    {
+      "name": "Hungama",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: Hungama**"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 286
+    },
+    {
+      "name": "Nickelodeon 🔥",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: ES: nickelodeon"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://iili.io/CpgdfYN.md.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 288
+    },
+    {
+      "name": "Disney channel",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | DISNEY HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 294
+    },
+    {
+      "name": "Disney Jr. Hindi",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: Af | DSTV: Disney Junior HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 296
     },
     {
       "name": "Star Plus",
