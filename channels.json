@@ -1692,8 +1692,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "⚠️ একটু অপেক্ষা করুন। প্লে না হলে আবার চেষ্টা করুন। (Please wait a moment. If it doesn’t play, please try again.)",
       "streams": [
         "https://wpu.hridoytv-direct.workers.dev/gtv2.m3u8"
       ],
