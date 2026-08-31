@@ -1800,11 +1800,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/satv.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/satvbd.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/satv.m3u8",
+      "url": "https://wpu.hridoytv-direct.workers.dev/satvbd.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/0Nvgr5r8/Hridoy-TV-new-(1).webp",
       "enabled": true,
@@ -2201,11 +2201,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/banglatv.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/banglatvbd.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/banglatv.m3u8",
+      "url": "https://wpu.hridoytv-direct.workers.dev/banglatvbd.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/C1LPT6Q0/Hridoy-TV-Bangla-channel-(10).webp",
       "enabled": true,
