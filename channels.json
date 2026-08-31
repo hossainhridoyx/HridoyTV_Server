@@ -3587,11 +3587,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/jtvbangla.m3u8"
+        "https://csockets.hellohridoy.workers.dev/jtvbangla.ts"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/jtvbangla.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/jtvbangla.ts",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/44jS6q6s/Hridoy-TV-(2).jpg",
       "enabled": true,
@@ -3608,11 +3608,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/jtvclassic.m3u8"
+        "https://csockets.hellohridoy.workers.dev/jtvclassic.ts"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/jtvclassic.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/jtvclassic.ts",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/zD4cC6Cq/Hridoy-TV-(3).jpg",
       "enabled": true,
@@ -3629,11 +3629,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/jtvbakti.m3u8"
+        "https://csockets.hellohridoy.workers.dev/jtvbakti.ts"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/jtvbakti.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/jtvbakti.ts",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/XNtzfmfV/Hridoy-TV-(4).jpg",
       "enabled": true,
@@ -3650,11 +3650,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/jaanbtv.m3u8"
+        "https://csockets.hellohridoy.workers.dev/jaanbtv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/jaanbtv.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/jaanbtv.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/J7S2NvNh/Hridoy-TV-(1).jpg",
       "enabled": true,
