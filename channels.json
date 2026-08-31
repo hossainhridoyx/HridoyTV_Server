@@ -5248,6 +5248,27 @@
       "order": 372
     },
     {
+      "name": "Discovery Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/disbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/disbangla.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 373
+    },
+    {
       "name": "National Geographic HD",
       "type": "custom",
       "wantedSources": [],
