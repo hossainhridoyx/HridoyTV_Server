@@ -597,7 +597,7 @@
       "customErrorMessage": "",
       "streams": [],
       "backupStreams": [
-        "http://103.165.93.31:8095/sonic/index.m3u8",
+        "https://csockets.hellohridoy.workers.dev/sonicbangla.m3u8",
         "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
       ],
       "wantedSource": "",
@@ -2999,11 +2999,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "http://103.165.93.31:8095/colorsBangla/index.m3u8"
+        "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/zhkTsLS4/7f957017da8c.jpg",
       "enabled": true,
@@ -3125,11 +3125,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8"
+        "https://csockets.hellohridoy.workers.dev/colorsbanglaci.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/colorsbanglaci.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/mkT9LQHW/Resized-Image-2026-07-01-14-41-46-8204-1.webp",
       "enabled": true,
@@ -3146,11 +3146,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "http://103.165.93.31:8095/jalshaMovies/index.m3u8"
+        "https://csockets.hellohridoy.workers.dev/jalshamovies.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/jalshaMovies/index.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/jalshamovies.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
       "enabled": true,
@@ -4042,6 +4042,27 @@
       "order": 277
     },
     {
+      "name": "Duranta TV 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/durontotv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/durontotv.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 279
+    },
+    {
       "name": "Nick Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -4049,12 +4070,12 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "http://103.165.93.31:8095/nick/index.m3u8",
+        "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
         "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/nick/index.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
       "category": "Kids",
       "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
       "enabled": true,
@@ -5759,12 +5780,12 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
+        "https://csockets.hellohridoy.workers.dev/sangeet bangla.m3u8",
         "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/sangeet bangla.m3u8",
       "category": "Other",
       "logo": "https://i.postimg.cc/jdctrmjG/Resized-Image-2026-06-25-11-01-25-8950-3.webp",
       "enabled": true,
