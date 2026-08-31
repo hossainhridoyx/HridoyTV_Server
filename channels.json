@@ -505,6 +505,28 @@
       "order": 276
     },
     {
+      "name": "Sonic Bangla",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [
+        "http://103.165.93.31:8095/sonic/index.m3u8",
+        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
+      ],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 278
+    },
+    {
       "name": "Sony Yay HD",
       "type": "wanted",
       "wantedSources": [],
@@ -2760,6 +2782,27 @@
       "order": 198
     },
     {
+      "name": "Colors Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "http://103.165.93.31:8095/colorsBangla/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/zhkTsLS4/7f957017da8c.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 200
+    },
+    {
       "name": "Sun Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -2863,6 +2906,48 @@
       "isNew": false,
       "newUntil": null,
       "order": 206
+    },
+    {
+      "name": "Color Bangla Cinema",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/mkT9LQHW/Resized-Image-2026-07-01-14-41-46-8204-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 208
+    },
+    {
+      "name": "Jalsha Movies",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "http://103.165.93.31:8095/jalshaMovies/index.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://103.165.93.31:8095/jalshaMovies/index.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 210
     },
     {
       "name": "Zee Bangla Sonar",
@@ -5442,11 +5527,12 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
+        "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
         "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8",
+      "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "category": "Other",
       "logo": "https://i.postimg.cc/jdctrmjG/Resized-Image-2026-06-25-11-01-25-8950-3.webp",
       "enabled": true,
