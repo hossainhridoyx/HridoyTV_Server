@@ -550,18 +550,18 @@
   ],
   "customChannels": [
     {
-      "name": "HridoyTV Test",
+      "name": "HridoyTV Test 2",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://sports.hridoytv.workers.dev"
+        "https://sports.hridoytv.workers.dev/sonic.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev",
+      "url": "https://sports.hridoytv.workers.dev/sonic.m3u8",
       "category": "Other",
       "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
       "enabled": true,
