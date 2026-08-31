@@ -22,6 +22,27 @@
       "order": 3
     },
     {
+      "name": "PTV sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp:: ptv sports"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 21
+    },
+    {
       "name": "Willow HD",
       "type": "wanted",
       "wantedSources": [],
@@ -64,6 +85,27 @@
       "order": 28
     },
     {
+      "name": "Star sports 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp::star sports 1 hindi"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKqDbqKD/Hridoy-TV-pro-(63).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 29
+    },
+    {
       "name": "Sony ten 3",
       "type": "wanted",
       "wantedSources": [],
@@ -83,6 +125,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 51
+    },
+    {
+      "name": "Sky sports cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp:: sky sports cricket"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/XvBR9K4B/Resized-Image-2026-07-24-20-10-46-5697-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 58
     },
     {
       "name": "Sports Range",
