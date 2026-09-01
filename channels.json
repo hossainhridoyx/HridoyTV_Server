@@ -1308,6 +1308,27 @@
       "order": 82
     },
     {
+      "name": "Star News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/starnews2.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/starnews2.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 85
+    },
+    {
       "name": "Ekattor TV",
       "type": "custom",
       "wantedSources": [],
@@ -3062,11 +3083,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1669.m3u8"
+        "https://csockets.hellohridoy.workers.dev/sunbangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1669.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/sunbangla.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/sx3WjphR/Resized-Image-2026-07-01-14-41-47-6748-2.webp",
       "enabled": true,
@@ -3125,11 +3146,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/3005.m3u8"
+        "https://proxy.hridoytv.workers.dev/ruposhibangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/3005.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/ruposhibangla.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/CKszWc3g/Resized-Image-2026-06-24-03-14-55-7919-1.webp",
       "enabled": true,
