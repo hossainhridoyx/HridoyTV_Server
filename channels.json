@@ -64,6 +64,27 @@
       "order": 23
     },
     {
+      "name": "Cricbuzz",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | Astro Cricket HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 24
+    },
+    {
       "name": "Willow HD",
       "type": "wanted",
       "wantedSources": [],
