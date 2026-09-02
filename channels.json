@@ -127,6 +127,90 @@
       "order": 29
     },
     {
+      "name": "Star Sports 1 Hindi",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN: STAR SPORTS 1 Hindi"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 30
+    },
+    {
+      "name": "Star sports 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: Star Sports 2 (4K)"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 32
+    },
+    {
+      "name": "Star Sports 2 Hindi",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IND: Star Sports 2 Hindi HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 34
+    },
+    {
+      "name": "Star Sports 3",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | Star Sports 3 HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/7PX2ygnb/In-Shot-20260820-115233215.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 35
+    },
+    {
       "name": "Unite8 Sports 1 HD",
       "type": "wanted",
       "wantedSources": [],
@@ -146,6 +230,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 43
+    },
+    {
+      "name": "Fox Cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: AU: FOX CRICKET 501"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 45
     },
     {
       "name": "Super Sports Cricket",
@@ -589,6 +694,27 @@
       "order": 199
     },
     {
+      "name": "Colors Cineplex",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv::  IN: COLORS CINEPLEX (4K)"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 239
+    },
+    {
       "name": "Duranta TV 🔥",
       "type": "wanted",
       "wantedSources": [],
@@ -716,6 +842,27 @@
       "order": 302
     },
     {
+      "name": "Colors HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | Colors HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 334
+    },
+    {
       "name": "Star Plus",
       "type": "wanted",
       "wantedSources": [],
@@ -800,6 +947,29 @@
       "isNew": false,
       "newUntil": null,
       "order": 22
+    },
+    {
+      "name": "Star sports 1 select",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: IN | STAR SPORTS SELECT 1"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441099.m3u8?expire=357282e3673"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2/441099.m3u8?expire=357282e3673",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 37
     },
     {
       "name": "Ten cricket",
