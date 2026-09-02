@@ -3083,11 +3083,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/sunbangla.m3u8"
+        "https://csockets.hellohridoy.workers.dev/sunbanglain.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/sunbangla.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/sunbanglain.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/sx3WjphR/Resized-Image-2026-07-01-14-41-47-6748-2.webp",
       "enabled": true,
