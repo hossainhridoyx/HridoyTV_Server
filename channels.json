@@ -762,7 +762,7 @@
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "otv:: Af | DSTV: Disney Junior HD"
+        "otv:: IN: Disney Junior"
       ],
       "customErrorEnabled": false,
       "customErrorMessage": "",
