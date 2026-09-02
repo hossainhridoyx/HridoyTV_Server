@@ -379,48 +379,6 @@
       "order": 73
     },
     {
-      "name": "Somoy TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: somoy tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 84
-    },
-    {
-      "name": "Jamuna TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: jamuna tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 86
-    },
-    {
       "name": "Independent TV",
       "type": "wanted",
       "wantedSources": [],
@@ -461,27 +419,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 92
-    },
-    {
-      "name": "DBC News",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: dbc news hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 94
     },
     {
       "name": "Channel 24",
@@ -587,27 +524,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 137
-    },
-    {
-      "name": "Channel I",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: channel i hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/qRMbVZZS/Hridoy-TV-Bangla-channel-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 142
     },
     {
       "name": "USB 24 News",
@@ -1499,6 +1415,27 @@
       "order": 82
     },
     {
+      "name": "Somoy TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://tbd.hossainhridoy.workers.dev/cdn/live/somoy_tv/playlist.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/somoy_tv/playlist.m3u8",
+      "category": "News",
+      "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 84
+    },
+    {
       "name": "Star News",
       "type": "custom",
       "wantedSources": [],
@@ -1518,6 +1455,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 85
+    },
+    {
+      "name": "Jamuna TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/jamunatv2.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/jamunatv2.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 86
     },
     {
       "name": "Ekattor TV",
@@ -1625,6 +1583,27 @@
       "isNew": true,
       "newUntil": null,
       "order": 93
+    },
+    {
+      "name": "DBC News",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/dbcnews2.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/dbcnews2.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/LhCqzJ9Y/fffb2c26748a.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 94
     },
     {
       "name": "BTV (India)",
@@ -2445,6 +2424,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 141
+    },
+    {
+      "name": "Channel I",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/channeli3.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/channeli3.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/qRMbVZZS/Hridoy-TV-Bangla-channel-(3).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 142
     },
     {
       "name": "Mohona TV",
