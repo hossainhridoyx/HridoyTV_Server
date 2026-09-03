@@ -379,27 +379,6 @@
       "order": 72
     },
     {
-      "name": "BTV Sangsad",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: BTV Shangshad"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Hkw2RpJH/In-Shot-20260720-204450298.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 119
-    },
-    {
       "name": "NTV",
       "type": "wanted",
       "wantedSources": [],
@@ -2003,6 +1982,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 118
+    },
+    {
+      "name": "BTV Sangsad",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://btv.hridoytv-channel.workers.dev/sangsad.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://btv.hridoytv-channel.workers.dev/sangsad.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Hkw2RpJH/In-Shot-20260720-204450298.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 119
     },
     {
       "name": "Nagorik TV",
