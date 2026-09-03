@@ -3624,69 +3624,6 @@
       "order": 224
     },
     {
-      "name": "Rana cable TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ranatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ranatv.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/SQw08f1s/Rana-cable-on-Hridoy-TV-(1).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 225
-    },
-    {
-      "name": "Rana cable Movie",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ranamovie.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ranamovie.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/1RLx6r74/Rana-cable-on-Hridoy-TV-(4).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 226
-    },
-    {
-      "name": "Rana cable Bhakti Sagar",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ranabaktisagar.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/dQzMdjN3/Rana-cable-on-Hridoy-TV-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 227
-    },
-    {
       "name": "Riddhi Network",
       "type": "custom",
       "wantedSources": [],
@@ -3729,27 +3666,6 @@
       "order": 229
     },
     {
-      "name": "Alo TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/alotv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/alotv.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/9ffxqjWw/hridoytv-channels-(1).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 230
-    },
-    {
       "name": "Rai Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3769,27 +3685,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 231
-    },
-    {
-      "name": "Upohar Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/upoharbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/upoharbangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/MHdyJZXg/In-Shot-20260811-131056861.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 232
     },
     {
       "name": "JTV Bangla",
@@ -3939,27 +3834,6 @@
       "order": 239
     },
     {
-      "name": "R News in",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/rnewsin.ts"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/rnewsin.ts",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/wj63M1yj/Resized-Image-2026-09-03-01-41-17-9347-3.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 240
-    },
-    {
       "name": "B Prime Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3967,11 +3841,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/bprimebangla.m3u8"
+        "https://proxy.hridoytv.workers.dev/bprimebangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/bprimebangla.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/bprimebangla.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/nh1cFzSf/Resized-Image-2026-09-03-18-21-08-9832-1.webp",
       "enabled": true,
