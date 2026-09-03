@@ -379,69 +379,6 @@
       "order": 72
     },
     {
-      "name": "Independent TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: independent tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 87
-    },
-    {
-      "name": "Channel 1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: channel 1"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/V0nDHSjL/16715780bf44.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 91
-    },
-    {
-      "name": "Channel 24",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: channel 24 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 94
-    },
-    {
       "name": "BTV Sangsad",
       "type": "wanted",
       "wantedSources": [],
@@ -463,27 +400,6 @@
       "order": 119
     },
     {
-      "name": "Maasranga TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: Maasranga TV"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 122
-    },
-    {
       "name": "NTV",
       "type": "wanted",
       "wantedSources": [],
@@ -503,27 +419,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 129
-    },
-    {
-      "name": "Channel 9",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: channel 9 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 136
     },
     {
       "name": "USB 24 News",
@@ -1501,6 +1396,27 @@
       "order": 86
     },
     {
+      "name": "Independent TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/independenttv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/independenttv.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 87
+    },
+    {
       "name": "Ekhon TV",
       "type": "custom",
       "wantedSources": [],
@@ -1564,6 +1480,27 @@
       "order": 90
     },
     {
+      "name": "Channel 1",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/channelone.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/channelone.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/V0nDHSjL/16715780bf44.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 91
+    },
+    {
       "name": "News24",
       "type": "custom",
       "wantedSources": [],
@@ -1604,6 +1541,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 93
+    },
+    {
+      "name": "Channel 24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/channel24.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/channel24.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 94
     },
     {
       "name": "BTV (India)",
@@ -2089,6 +2047,27 @@
       "order": 121
     },
     {
+      "name": "Maasranga TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/maasrangatv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/maasrangatv.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 122
+    },
+    {
       "name": "Deepto TV",
       "type": "custom",
       "wantedSources": [],
@@ -2340,6 +2319,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 135
+    },
+    {
+      "name": "Channel 9",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/channel9.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/channel9.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 136
     },
     {
       "name": "My TV",
