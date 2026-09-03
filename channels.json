@@ -85,6 +85,48 @@
       "order": 24
     },
     {
+      "name": "Willow Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp:: willow sports"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 25
+    },
+    {
+      "name": "Willow",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp::willow"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/KYC7nc0V/In-Shot-20260809-032306616.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 26
+    },
+    {
       "name": "Willow HD",
       "type": "wanted",
       "wantedSources": [],
