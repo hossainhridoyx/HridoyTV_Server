@@ -2700,27 +2700,6 @@
       "order": 153
     },
     {
-      "name": "Matribhumi TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/matribhumi.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/matribhumi.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/8P2b1GgX/In-Shot-20260820-012700583.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 154
-    },
-    {
       "name": "Milinium TV",
       "type": "custom",
       "wantedSources": [],
@@ -2805,27 +2784,6 @@
       "order": 162
     },
     {
-      "name": "DTV USA",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/dtvusa.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/dtvusa.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/0jdcdt2V/In-Shot-20260809-120606005.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 163
-    },
-    {
       "name": "Enter TV",
       "type": "custom",
       "wantedSources": [],
@@ -2845,27 +2803,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 164
-    },
-    {
-      "name": "Toroni24 TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/toroni24tv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/toroni24tv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/fbs4kWkT/Hridoy-TV-new-(3).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 165
     },
     {
       "name": "Ion TV UK",
@@ -2889,27 +2826,6 @@
       "order": 166
     },
     {
-      "name": "Banglar Konta 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/banglarkontho24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/banglarkontho24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 167
-    },
-    {
       "name": "Biswa Bangla 24",
       "type": "custom",
       "wantedSources": [],
@@ -2929,69 +2845,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 168
-    },
-    {
-      "name": "Bortoman TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/bortomantv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/bortomantv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/0NHV1xSg/Hridoy-TV-new-channel-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 169
-    },
-    {
-      "name": "Ayna TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/aynatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/aynatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/rpYf2crB/Hridoy-TV-new-channel-(4).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 170
-    },
-    {
-      "name": "Modhupur News 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/modhupurnews24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/modhupurnews24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/pThq27f1/Hridoy-TV-new-channel-(6).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 171
     },
     {
       "name": "Ruposhi Bangla TV",
@@ -3099,27 +2952,6 @@
       "order": 176
     },
     {
-      "name": "Channel 52",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/channel52.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/channel52.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/MHDzCtcq/hridoytvgate-(15).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 177
-    },
-    {
       "name": "Deshe Bideahe TV",
       "type": "custom",
       "wantedSources": [],
@@ -3162,48 +2994,6 @@
       "order": 179
     },
     {
-      "name": "Galaxy TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/galaxytv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/galaxytv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/fW6RbTV4/Hridoy-TV-bangla-(16).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 180
-    },
-    {
-      "name": "Thikana TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/thikanatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/thikanatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/tRL4gCYf/Hridoy-TV-bangla-(13).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 181
-    },
-    {
       "name": "CBN TV",
       "type": "custom",
       "wantedSources": [],
@@ -3223,111 +3013,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 182
-    },
-    {
-      "name": "Citizen TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/citizentv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/citizentv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/T2Z3PYK6/Hridoy-TV-bangla-(18).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 183
-    },
-    {
-      "name": "US BD TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/usbdtv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/usbdtv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/667QwG5j/Hridoy-TV-bangla-(4).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 184
-    },
-    {
-      "name": "NRB TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/nrbtv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/nrbtv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/PfLqh8r6/Hridoy-TV-bangla-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 185
-    },
-    {
-      "name": "Ja TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/jatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/jatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/zDLf5RX2/Hridoy-TV-bangla-(2).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 186
-    },
-    {
-      "name": "EP TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/eptv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/eptv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/9XvQfFD2/Hridoy-TV-bangla-(19).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 187
     },
     {
       "name": "Jhankar TV",
@@ -3351,27 +3036,6 @@
       "order": 188
     },
     {
-      "name": "Alpona TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/alponatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/alponatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/wxSjBT18/Hridoy-TV-bangla-(17).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 189
-    },
-    {
       "name": "TIME TV",
       "type": "custom",
       "wantedSources": [],
@@ -3391,48 +3055,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 190
-    },
-    {
-      "name": "Bangla One",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/banglaone.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/banglaone.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/zD9GfXV2/Hridoy-TV-bangla-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 191
-    },
-    {
-      "name": "Unmochon TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/unmochontv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/unmochontv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/HWfkLsVf/Hridoy-TV-bangla-(14).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 192
     },
     {
       "name": "News 21",
