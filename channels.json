@@ -442,6 +442,27 @@
       "order": 72
     },
     {
+      "name": "Banglavission",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "att::Bangla Vision"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 125
+    },
+    {
       "name": "NTV",
       "type": "wanted",
       "wantedSources": [],
@@ -2076,6 +2097,7 @@
       "customErrorEnabled": true,
       "customErrorMessage": "⚠️ একটু অপেক্ষা করুন। প্লে না হলে আবার চেষ্টা করুন। (Please wait a moment. If it doesn’t play, please try again.)",
       "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/gtv2.m3u8",
         "https://wpu.hridoytv-direct.workers.dev/gtv2.m3u8"
       ],
       "backupStreams": [],
@@ -2151,27 +2173,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 124
-    },
-    {
-      "name": "Banglavission",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/banglavision.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/banglavision.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/GvnLQr2Q/6bf3cbbdd636.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 125
     },
     {
       "name": "Boishakhi TV",
