@@ -2076,11 +2076,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/maasrangatv.m3u8"
+        "https://proxy.hridoytv.workers.dev/maasrangatv2.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/maasrangatv.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/maasrangatv2.m3u8",
       "category": "Bangla",
       "logo": "https://i.ibb.co/nNwn22hW/392fa4f22dd4.jpg",
       "enabled": true,
