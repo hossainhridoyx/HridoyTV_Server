@@ -442,27 +442,6 @@
       "order": 125
     },
     {
-      "name": "NTV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: ntv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 129
-    },
-    {
       "name": "USB 24 News",
       "type": "wanted",
       "wantedSources": [],
@@ -2196,6 +2175,27 @@
       "order": 127
     },
     {
+      "name": "NTV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ntv2.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ntv2.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 129
+    },
+    {
       "name": "NTV Europe",
       "type": "custom",
       "wantedSources": [],
@@ -2330,11 +2330,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/channel9.m3u8"
+        "https://proxy.hridoytv.workers.dev/channel92.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/channel9.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/channel92.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
       "enabled": true,
@@ -2414,11 +2414,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://jbd.hossainhridoy.workers.dev/ekusheytv.m3u8"
+        "https://proxy.hridoytv.workers.dev/ekusheytv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/ekusheytv.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/ekusheytv.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/50N7dkkh/Hridoy-TV-Bangla-channel-(4).webp",
       "enabled": true,
