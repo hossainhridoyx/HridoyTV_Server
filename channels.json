@@ -1415,27 +1415,6 @@
       "order": 83
     },
     {
-      "name": "Star News",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/starnews2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starnews2.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 84
-    },
-    {
       "name": "Jamuna TV",
       "type": "custom",
       "wantedSources": [],
