@@ -2701,27 +2701,6 @@
       "order": 153
     },
     {
-      "name": "Milinium TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/millenniumtv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/millenniumtv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/SRPRvPgS/In-Shot-20260815-130532076.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 155
-    },
-    {
       "name": "Amar Bangla 24",
       "type": "custom",
       "wantedSources": [],
@@ -2743,27 +2722,6 @@
       "order": 156
     },
     {
-      "name": "Desh Bangla TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/deshbanglatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/deshbanglatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Fs0Qwm1T/Resized-Image-2026-08-09-12-00-05-1963-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 158
-    },
-    {
       "name": "Probashi TV",
       "type": "custom",
       "wantedSources": [],
@@ -2771,11 +2729,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "http://158.69.24.53:8080/probashi_tv/index.m3u8"
+        "https://csockets.hellohridoy.workers.dev/probashitv.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/probashitv.m3u8",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/xdRg07Jq/Hridoy-TV-pro-(73).webp",
       "enabled": true,
@@ -2783,6 +2741,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 162
+    },
+    {
+      "name": "DTV USA",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/dtvusa.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/dtvusa.m3u8",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/0jdcdt2V/In-Shot-20260809-120606005.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 163
     },
     {
       "name": "Enter TV",
@@ -2825,27 +2804,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 166
-    },
-    {
-      "name": "Biswa Bangla 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/biswabangla24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/biswabangla24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/TPHtvGbM/Hridoy-TV-new-channel-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 168
     },
     {
       "name": "Ruposhi Bangla TV",
@@ -3119,27 +3077,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 195
-    },
-    {
-      "name": "Shikhor TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/shikortv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/shikortv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/bYKwvNs4/Hridoy-TV-bangla-(12).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 196
     },
     {
       "name": "Star Jalsa",
