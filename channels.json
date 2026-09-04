@@ -2217,27 +2217,6 @@
       "order": 127
     },
     {
-      "name": "SATV 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/satv2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/satv2.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/wM6FrjPr/In-Shot-20260901-010615328.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 128
-    },
-    {
       "name": "NTV Europe",
       "type": "custom",
       "wantedSources": [],
