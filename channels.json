@@ -760,6 +760,27 @@
   ],
   "customChannels": [
     {
+      "name": "HridoyTV Test 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/756.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/756.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": 1784570399000,
+      "order": 1
+    },
+    {
       "name": "HridoyTV",
       "type": "custom",
       "wantedSources": [],
