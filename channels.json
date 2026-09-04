@@ -3856,6 +3856,27 @@
       "order": 240
     },
     {
+      "name": "R News in",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/rnewsin.ts"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/rnewsin.ts",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/wj63M1yj/Resized-Image-2026-09-03-01-41-17-9347-3.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 241
+    },
+    {
       "name": "B Prime Bangla",
       "type": "custom",
       "wantedSources": [],
