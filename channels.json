@@ -2033,11 +2033,12 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
+        "https://dip.itshridoy.workers.dev/",
         "https://dip.itshridoy.workers.dev/nagoriktv?expire=3xz52891sg9236dh732token25716227"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://dip.itshridoy.workers.dev/nagoriktv?expire=3xz52891sg9236dh732token25716227",
+      "url": "https://dip.itshridoy.workers.dev/",
       "category": "Bangla",
       "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
       "enabled": true,
