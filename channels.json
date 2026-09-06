@@ -4382,27 +4382,6 @@
       "order": 289
     },
     {
-      "name": "Sonic Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/815.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/815.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/tJf2Kx1t/Hridoy-TV-pro-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 291
-    },
-    {
       "name": "Nick Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -4423,69 +4402,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 292
-    },
-    {
-      "name": "Nick Hindi",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/545.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/545.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/yx5vMZJP/Hridoy-TV-pro-(12).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 293
-    },
-    {
-      "name": "Nick HD plus",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/1226.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/1226.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/8c3t26Fm/Hridoy-TV-pro-(11).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 294
-    },
-    {
-      "name": "Nick Jr.",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/544.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/544.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/nr50yDs0/Hridoy-TV-pro-(13).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 295
     },
     {
       "name": "Sony Yay",
