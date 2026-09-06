@@ -4004,6 +4004,28 @@
       "order": 254
     },
     {
+      "name": "Star Movies HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/starmovieshd.m3u8",
+        "https://pro.hridoytv-pro.workers.dev/live/1104.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/starmovieshd.m3u8",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/CL3cJbph/Hridoy-TV-pro-(45).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 256
+    },
+    {
       "name": "Star gold HD",
       "type": "custom",
       "wantedSources": [],
