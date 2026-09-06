@@ -777,27 +777,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 338
-    },
-    {
-      "name": "Star Plus",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jsbd:: starplus tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 346
     }
   ],
   "customChannels": [
@@ -4956,6 +4935,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 335
+    },
+    {
+      "name": "Star Plus",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/starplus.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/starplus.m3u8",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 346
     },
     {
       "name": "Sun Neo",
