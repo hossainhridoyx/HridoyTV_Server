@@ -809,11 +809,12 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
+        "https://hridoytvx.pages.dev/hridoytv-live-video/master.m3u8",
         "https://hridoytvx.pages.dev/HridoyTV%20video%20new/master.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://hridoytvx.pages.dev/HridoyTV%20video%20new/master.m3u8",
+      "url": "https://hridoytvx.pages.dev/hridoytv-live-video/master.m3u8",
       "category": "Other",
       "logo": "https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg",
       "enabled": true,
