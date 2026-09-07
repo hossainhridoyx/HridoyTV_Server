@@ -5251,27 +5251,6 @@
       "order": 360
     },
     {
-      "name": "PBS Kids",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/pbskids.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/pbskids.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/RFhzhrWv/Hridoy-TV-cartoon-(1).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 362
-    },
-    {
       "name": "Iunior TV",
       "type": "custom",
       "wantedSources": [],
@@ -5335,27 +5314,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 366
-    },
-    {
-      "name": "Rongeen TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/rongeentv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/rongeentv.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/26tNBHWD/Hridoy-TV-cartoon-(5).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 371
     },
     {
       "name": "Minimax",
