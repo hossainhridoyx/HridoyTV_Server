@@ -5757,27 +5757,6 @@
       "order": 410
     },
     {
-      "name": "Shemaroo TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/shemarootv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/shemarootv.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/fLtBwF7t/Hridoy-TV-new-channel-(19).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 411
-    },
-    {
       "name": "Dangal",
       "type": "custom",
       "wantedSources": [],
