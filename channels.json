@@ -996,48 +996,6 @@
       "order": 62
     },
     {
-      "name": "Dazn 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/dazn2.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/dazn2.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/WzTBK9Cb/Hridoy-TV-new-channels-(40).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 64
-    },
-    {
-      "name": "Dazn 3",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/dazn3.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/dazn3.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/MHqC4sNz/Hridoy-TV-new-channels-(36).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 65
-    },
-    {
       "name": "TSN",
       "type": "custom",
       "wantedSources": [],
@@ -1078,69 +1036,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 71
-    },
-    {
-      "name": "Bein Sports HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/beinsportsnew.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/beinsportsnew.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/PJjC98PR/Resized-Image-2026-07-20-21-35-17-1030-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 73
-    },
-    {
-      "name": "Sporty Tv",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/sportytv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sportytv.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/0jPT3tFQ/Hridoy-TV-new-channels-(41).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 74
-    },
-    {
-      "name": "Sports 1",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/sports1.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/sports1.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/nrpy5dgV/Hridoy-TV-new-channels-(38).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 75
     },
     {
       "name": "Red Bull TV",
