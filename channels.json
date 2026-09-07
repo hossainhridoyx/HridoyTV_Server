@@ -142,7 +142,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/ZqXPrYwQ/In-Shot-20260809-032524015.jpg",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 35
@@ -188,27 +188,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 37
-    },
-    {
-      "name": "Star Sports 1 Hindi",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: IN: STAR SPORTS 1 Hindi"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 38
     },
     {
       "name": "Star sports 2",
@@ -1536,7 +1515,7 @@
       "category": "News",
       "logo": "https://i.ibb.co/BVnjzXXx/35c72fd64c70.jpg",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 103
@@ -1727,13 +1706,13 @@
       "category": "News",
       "logo": "https://i.postimg.cc/MT7k9kP8/Hridoy-TV-new-channels-(25).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": true,
       "newUntil": null,
       "order": 114
     },
     {
-      "name": "Republic Bangla",
+      "name": "Republic",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
@@ -1748,7 +1727,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/3RXMtMLs/Hridoy-TV-new-channels-(23).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": true,
       "newUntil": null,
       "order": 115
@@ -1916,7 +1895,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/fyKMG53y/hridoytvgate-(18).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 123
