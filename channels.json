@@ -4636,27 +4636,6 @@
       "order": 306
     },
     {
-      "name": "Goldmines Movies",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/goldminesmovie.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/goldminesmovie.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/3R4nK6jk/Hridoy-TV-new-channel-(18).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 309
-    },
-    {
       "name": "KungFu Plus",
       "type": "custom",
       "wantedSources": [],
@@ -4741,27 +4720,6 @@
       "order": 315
     },
     {
-      "name": "Studio One",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/studio1.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/studio1.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/Hxkzj2Xy/Hridoy-TV-pro-(81).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 316
-    },
-    {
       "name": "Raj Digital Plus",
       "type": "custom",
       "wantedSources": [],
@@ -4823,27 +4781,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 322
-    },
-    {
-      "name": "Cowboy Movie Channel",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/cowboymovie.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/cowboymovie.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/wMgCPWZg/Hridoy-TV-new-channels-(34).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 323
     },
     {
       "name": "Sony Yay",
