@@ -610,49 +610,6 @@
       "order": 275
     },
     {
-      "name": "Duranta TV 🔥",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jsbd:: duranta tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 324
-    },
-    {
-      "name": "Sonic Bangla",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [
-        "https://csockets.hellohridoy.workers.dev/sonicbangla.m3u8",
-        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 326
-    },
-    {
       "name": "Hungama",
       "type": "wanted",
       "wantedSources": [],
@@ -3689,27 +3646,6 @@
       "order": 228
     },
     {
-      "name": "Star Jalsha Fast 🚀",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/starjalsha.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/starjalsha.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/m2y53376/In-Shot-20260902-020835973.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 230
-    },
-    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3731,27 +3667,6 @@
       "order": 232
     },
     {
-      "name": "Zee Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/zeebangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/zeebangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/4NP9BV6r/Resized-Image-2026-08-10-11-47-58-7157-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 233
-    },
-    {
       "name": "Colors Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3771,27 +3686,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 234
-    },
-    {
-      "name": "Colors Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 235
     },
     {
       "name": "Sun Bangla",
@@ -3855,48 +3749,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 240
-    },
-    {
-      "name": "Color Bangla Cinema",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/colorsbanglaci.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/colorsbanglaci.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/mkT9LQHW/Resized-Image-2026-07-01-14-41-46-8204-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 242
-    },
-    {
-      "name": "Jalsha Movies",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/jalshamovies.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/jalshamovies.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 244
     },
     {
       "name": "Zee Bangla Sonar",
@@ -5118,49 +4970,6 @@
       "isNew": true,
       "newUntil": null,
       "order": 323
-    },
-    {
-      "name": "Duranta TV 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/durontotv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/durontotv.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 325
-    },
-    {
-      "name": "Nick Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
-        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 328
     },
     {
       "name": "Sony Yay",
@@ -6408,27 +6217,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 421
-    },
-    {
-      "name": "Discovery Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/disbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/disbangla.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 422
     },
     {
       "name": "National Geographic HD",
