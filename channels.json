@@ -781,6 +781,28 @@
   ],
   "customChannels": [
     {
+      "name": "HridoyTV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://hridoytvx.pages.dev/hridoytv-live-video/master.m3u8",
+        "https://hridoytvx.pages.dev/HridoyTV%20video%20new/master.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://hridoytvx.pages.dev/hridoytv-live-video/master.m3u8",
+      "category": "Other",
+      "logo": "https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 10
+    },
+    {
       "name": "T sports",
       "type": "custom",
       "wantedSources": [],
