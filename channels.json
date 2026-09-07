@@ -3122,27 +3122,6 @@
       "order": 200
     },
     {
-      "name": "Star Jalsha (New)",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/317.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/317.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/T2m6h6gC/In-Shot-20260907-113420452.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 201
-    },
-    {
       "name": "Zee Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3192,11 +3171,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8"
+        "https://pro.hridoytv-pro.workers.dev/live/756.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/756.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/zhkTsLS4/7f957017da8c.jpg",
       "enabled": true,
@@ -3213,11 +3192,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/756.m3u8"
+        "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/756.m3u8",
+      "url": "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
       "enabled": true,
