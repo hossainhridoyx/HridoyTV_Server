@@ -1,27 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "HridoyTV Sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: fox cricket"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/ncYJ6Zd4/Hridoy-TV-sports.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 11
-    },
-    {
       "name": "PTV sports",
       "type": "wanted",
       "wantedSources": [],
@@ -104,48 +83,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 33
-    },
-    {
-      "name": "Willow",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp::willow"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/KYC7nc0V/In-Shot-20260809-032306616.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 34
-    },
-    {
-      "name": "Willow HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: willow hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/ZqXPrYwQ/In-Shot-20260809-032524015.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 35
     },
     {
       "name": "Willow 2",
@@ -316,27 +253,6 @@
       "order": 53
     },
     {
-      "name": "Sony ten 3",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: sony sports ten 3 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 58
-    },
-    {
       "name": "Sky sports cricket",
       "type": "wanted",
       "wantedSources": [],
@@ -358,48 +274,6 @@
       "order": 68
     },
     {
-      "name": "TNT sports 1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: UK: TNT Sport 1"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 72
-    },
-    {
-      "name": "Sports Range",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "ag:: sports range"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/NFVp3Hyj/Hridoy-TV-pro-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 86
-    },
-    {
       "name": "ATN News",
       "type": "wanted",
       "wantedSources": [],
@@ -419,27 +293,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 108
-    },
-    {
-      "name": "Channel 24",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "att:: channel 24"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 113
     },
     {
       "name": "Banglavission",
@@ -1016,27 +869,6 @@
       "order": 77
     },
     {
-      "name": "Sports TV 5",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "http://94.130.32.19:8080/sporttv5/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://94.130.32.19:8080/sporttv5/index.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/VNR4YTry/Hridoy-TV-pro-(70).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 78
-    },
-    {
       "name": "A Spor",
       "type": "custom",
       "wantedSources": [],
@@ -1098,27 +930,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 81
-    },
-    {
-      "name": "Sports Fishing",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/sportsfishing.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sportsfishing.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/mDgjhwCd/Hridoy-TV-pro-(83).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 82
     },
     {
       "name": "Telemundo",
@@ -1287,27 +1098,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 93
-    },
-    {
-      "name": "Sports Grid",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/sportsgird.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sportsgird.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/fyFBG93L/Hridoy-TV-pro-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 94
     },
     {
       "name": "Motor Vision",
