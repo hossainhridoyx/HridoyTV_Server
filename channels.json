@@ -1769,7 +1769,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/255HBfzq/hridoytv-channels-(2).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 117
@@ -1853,7 +1853,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/66L646MC/hridoytvgate-(21).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 121
@@ -2126,7 +2126,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/DZrVxVCC/Hridoy-TV-new-channels-(16).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": true,
       "newUntil": null,
       "order": 134
@@ -2168,7 +2168,7 @@
       "category": "News",
       "logo": "https://i.postimg.cc/nhmWFRfr/Hridoy-TV-international-(1).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
       "order": 136
