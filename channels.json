@@ -253,6 +253,27 @@
       "order": 53
     },
     {
+      "name": "Sky sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz:: sky sports main event"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/7LJFS1wC/Resized-Image-2026-07-24-20-10-48-7868-4.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 67
+    },
+    {
       "name": "Sky sports cricket",
       "type": "wanted",
       "wantedSources": [],
@@ -272,6 +293,48 @@
       "isNew": false,
       "newUntil": null,
       "order": 68
+    },
+    {
+      "name": "Sky sports f1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz::sky sports f1"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/1zVkD0s8/Resized-Image-2026-07-24-20-10-45-8462-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 69
+    },
+    {
+      "name": "ESPN",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "cz:: ESPN 2"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/Dz491Qnm/Resized-Image-2026-07-24-20-10-47-9307-3.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 70
     },
     {
       "name": "ATN News",
