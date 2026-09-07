@@ -6534,48 +6534,6 @@
       "order": 456
     },
     {
-      "name": "Eman TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/emantv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/emantv.m3u8",
-      "category": "Religious",
-      "logo": "https://i.postimg.cc/nzSkmDG5/Hridoy-TV-pro-(94).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 458
-    },
-    {
-      "name": "ATN Music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/atnmusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/atnmusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/5NgbMT0W/Resized-Image-2026-06-25-11-01-24-2768-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 459
-    },
-    {
       "name": "Bengali Beats",
       "type": "custom",
       "wantedSources": [],
@@ -6637,28 +6595,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 462
-    },
-    {
-      "name": "Sangeet Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/sangeet bangla.m3u8",
-        "https://proxy.hridoytv.workers.dev/sangeetbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/sangeet bangla.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/jdctrmjG/Resized-Image-2026-06-25-11-01-25-8950-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 463
     },
     {
       "name": "Moon TV",
@@ -6743,27 +6679,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 468
-    },
-    {
-      "name": "B4U music",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/b4umusic.m3u8",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/L5RHQG8x/hridoytvgate-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 469
     },
     {
       "name": "Zoom",
