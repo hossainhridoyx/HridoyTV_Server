@@ -3835,69 +3835,6 @@
       "order": 248
     },
     {
-      "name": "Khushboo Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/khushboobangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/khushboobangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/Kckb55g4/6b5faf74bc3e.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 249
-    },
-    {
-      "name": "ZB cinema",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/zbcinema.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/zbcinema.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/3rCr0rtB/hridoytvgate-(23).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 250
-    },
-    {
-      "name": "Tara TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/taratv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/taratv.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/W4nS2KFh/Hridoy-TV-pro-(74).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 251
-    },
-    {
       "name": "KTV Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3959,27 +3896,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 254
-    },
-    {
-      "name": "DD Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/ddbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/ddbangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/pv7XdDBw/ba525ccde969.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 256
     },
     {
       "name": "Rana cable TV",
