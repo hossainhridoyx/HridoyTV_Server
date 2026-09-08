@@ -629,6 +629,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 373
+    },
+    {
+      "name": "MTV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "rz:: mtv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/yd44h6Tj/Hridoy-TV-new-channels-(6).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 481
     }
   ],
   "customChannels": [
@@ -6555,6 +6576,48 @@
       "order": 461
     },
     {
+      "name": "Joo Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/joomusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/joomusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/W3LLmp79/Hridoy-TV-new-channels-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 462
+    },
+    {
+      "name": "Punjabi Hits",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/punjabihits.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/punjabihits.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/xCvr6rxn/Hridoy-TV-new-channels-(28).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 463
+    },
+    {
       "name": "Zoom",
       "type": "custom",
       "wantedSources": [],
@@ -6786,6 +6849,27 @@
       "order": 476
     },
     {
+      "name": "7x Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/7xmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/7xmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/bJxXmXCh/Hridoy-TV-new-channels-(26).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 477
+    },
+    {
       "name": "Only Music",
       "type": "custom",
       "wantedSources": [],
@@ -6826,6 +6910,69 @@
       "isNew": false,
       "newUntil": null,
       "order": 479
+    },
+    {
+      "name": "Fon music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/fonmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/fonmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/nzbbKV13/Hridoy-TV-new-channels-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 480
+    },
+    {
+      "name": "Tarang Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/tarangmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/tarangmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/63rsMsjw/Hridoy-TV-new-channels-(27).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 482
+    },
+    {
+      "name": "Epic Music",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/epicmusic.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/epicmusic.m3u8",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/k433NMyN/Hridoy-TV-new-channels-(1).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 483
     },
     {
       "name": "Village Cooking Channel",
