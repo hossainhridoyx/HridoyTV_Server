@@ -6492,7 +6492,7 @@
       "order": 455
     },
     {
-      "name": "Moon TV",
+      "name": "Moon TV Bangla",
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
@@ -6505,7 +6505,7 @@
       "wantedSource": "",
       "url": "https://pro.hridoytv-pro.workers.dev/live/3298.m3u8",
       "category": "Other",
-      "logo": "https://i.postimg.cc/YCQbPjtt/Hridoy-TV-pro-(50).webp",
+      "logo": "https://i.postimg.cc/qv9SXCZv/Resized-Image-2026-09-08-15-17-05-8516-1.jpg",
       "enabled": true,
       "pinned": true,
       "isNew": false,
