@@ -526,48 +526,6 @@
       "order": 267
     },
     {
-      "name": "AXN",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: EX-YU: AXN"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Movies",
-      "logo": "https://iili.io/n3bHanI.md.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 300
-    },
-    {
-      "name": "AXN Black",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv::BG: AXN Black"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Movies",
-      "logo": "https://iili.io/n3bHcGt.md.jpg",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 301
-    },
-    {
       "name": "Sonic Bangla",
       "type": "wanted",
       "wantedSources": [],
@@ -4805,27 +4763,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 298
-    },
-    {
-      "name": "HBO",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/hbo.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/hbo.m3u8",
-      "category": "Movies",
-      "logo": "https://iili.io/n3bHl6X.md.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 299
     },
     {
       "name": "KungFu Plus",
