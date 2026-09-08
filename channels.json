@@ -5969,6 +5969,27 @@
       "order": 413
     },
     {
+      "name": "Discovery Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 415
+    },
+    {
       "name": "National Geographic HD",
       "type": "custom",
       "wantedSources": [],
