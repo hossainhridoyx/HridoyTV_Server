@@ -1628,27 +1628,6 @@
       "order": 106
     },
     {
-      "name": "Republic",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/republicbn.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/republicbn.m3u8",
-      "category": "News",
-      "logo": "https://i.postimg.cc/3RXMtMLs/Hridoy-TV-new-channels-(23).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": true,
-      "newUntil": null,
-      "order": 107
-    },
-    {
       "name": "Zee 24 Ghonta",
       "type": "custom",
       "wantedSources": [],
@@ -1667,7 +1646,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 108
+      "order": 107
     },
     {
       "name": "BTV (India)",
@@ -1688,7 +1667,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 109
+      "order": 108
     },
     {
       "name": "RC news",
@@ -1709,7 +1688,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 110
+      "order": 109
     },
     {
       "name": "Kolkata TV",
@@ -1730,7 +1709,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 111
+      "order": 110
     },
     {
       "name": "Zillar Barta",
@@ -1751,7 +1730,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 112
+      "order": 111
     },
     {
       "name": "Tv 9 Bangla",
@@ -1772,28 +1751,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 113
-    },
-    {
-      "name": "News 18 Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy2.hridoytvstream.workers.dev/news18bangla.m3u8",
-      "category": "News",
-      "logo": "https://i.postimg.cc/gcqcLcg8/hridoytvgate-(20).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 114
+      "order": 112
     },
     {
       "name": "Republic Bangla",
@@ -1814,7 +1772,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 115
+      "order": 114
     },
     {
       "name": "Abp Ananda",
@@ -1835,7 +1793,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 116
+      "order": 115
     },
     {
       "name": "News 18 Bangla",
@@ -1856,7 +1814,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 117
+      "order": 116
     },
     {
       "name": "News Live Bangla",
@@ -1877,7 +1835,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 118
+      "order": 117
     },
     {
       "name": "Raatdin Bangla",
@@ -1898,7 +1856,7 @@
       "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 119
+      "order": 118
     },
     {
       "name": "Zee Bharat",
@@ -1919,7 +1877,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 120
+      "order": 119
     },
     {
       "name": "Zee News",
@@ -1940,7 +1898,7 @@
       "pinned": true,
       "isNew": true,
       "newUntil": null,
-      "order": 121
+      "order": 120
     },
     {
       "name": "Culcutta News",
@@ -1961,7 +1919,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 122
+      "order": 121
     },
     {
       "name": "Taza TV",
@@ -1982,7 +1940,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 123
+      "order": 122
     },
     {
       "name": "KNews India",
@@ -2003,7 +1961,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 124
+      "order": 123
     },
     {
       "name": "NDTV India",
@@ -2024,7 +1982,7 @@
       "pinned": false,
       "isNew": true,
       "newUntil": null,
-      "order": 125
+      "order": 124
     },
     {
       "name": "India TV",
@@ -2041,6 +1999,27 @@
       "url": "https://proxy.hridoytv.workers.dev/indiatv.m3u8",
       "category": "News",
       "logo": "https://i.postimg.cc/DZrVxVCC/Hridoy-TV-new-channels-(16).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 125
+    },
+    {
+      "name": "Republic",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/republicbn.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/republicbn.m3u8",
+      "category": "News",
+      "logo": "https://i.postimg.cc/3RXMtMLs/Hridoy-TV-new-channels-(23).webp",
       "enabled": true,
       "pinned": false,
       "isNew": true,
