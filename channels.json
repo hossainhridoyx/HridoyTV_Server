@@ -1586,6 +1586,27 @@
       "order": 104
     },
     {
+      "name": "Channel 24",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/channel24new.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/channel24new.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/8LKZPTzC/4b70d611f5b6.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 105
+    },
+    {
       "name": "Somoyer Kolkata",
       "type": "custom",
       "wantedSources": [],
