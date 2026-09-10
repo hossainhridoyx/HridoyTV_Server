@@ -253,29 +253,6 @@
       "order": 45
     },
     {
-      "name": "Sony ten 3",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: sony sports ten 3 hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [
-        "https://wpu.hridoytv-direct.workers.dev/sonyten3.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 50
-    },
-    {
       "name": "Sky sports cricket",
       "type": "wanted",
       "wantedSources": [],
@@ -870,6 +847,29 @@
       "isNew": false,
       "newUntil": null,
       "order": 48
+    },
+    {
+      "name": "Sony ten 3",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp:: sony sports ten 3 hd"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/sonyten3.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://wpu.hridoytv-direct.workers.dev/sonyten3.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 50
     },
     {
       "name": "Sony Ten 5",
