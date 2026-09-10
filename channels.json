@@ -253,25 +253,27 @@
       "order": 45
     },
     {
-      "name": "Sky sports",
+      "name": "Sony ten 3",
       "type": "wanted",
       "wantedSources": [],
       "customMatchNames": [
-        "cz:: sky sports main event"
+        "sp:: sony sports ten 3 hd"
       ],
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [],
-      "backupStreams": [],
+      "backupStreams": [
+        "https://wpu.hridoytv-direct.workers.dev/sonyten3.m3u8"
+      ],
       "wantedSource": "",
       "url": "",
       "category": "Sports",
-      "logo": "https://i.postimg.cc/7LJFS1wC/Resized-Image-2026-07-24-20-10-48-7868-4.webp",
+      "logo": "https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp",
       "enabled": true,
-      "pinned": true,
+      "pinned": false,
       "isNew": false,
       "newUntil": null,
-      "order": 59
+      "order": 50
     },
     {
       "name": "Sky sports cricket",
@@ -293,48 +295,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 60
-    },
-    {
-      "name": "Sky sports f1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz::sky sports f1"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/1zVkD0s8/Resized-Image-2026-07-24-20-10-45-8462-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 61
-    },
-    {
-      "name": "ESPN",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "cz:: ESPN 2"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/Dz491Qnm/Resized-Image-2026-07-24-20-10-47-9307-3.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 62
     },
     {
       "name": "ATN News",
