@@ -190,6 +190,27 @@
       "order": 35
     },
     {
+      "name": "Ten Sports",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "sp::ten sports"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 40
+    },
+    {
       "name": "Unite8 Sports 1 HD",
       "type": "wanted",
       "wantedSources": [],
@@ -761,29 +782,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 39
-    },
-    {
-      "name": "Ten Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp::ten sports"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "http://66.102.126.10:8000/play/a018/index.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "http://66.102.126.10:8000/play/a018/index.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 40
     },
     {
       "name": "Pk sports",
