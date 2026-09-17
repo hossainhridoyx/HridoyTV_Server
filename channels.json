@@ -3796,6 +3796,27 @@
       "order": 246
     },
     {
+      "name": "DD Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ddbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ddbangla.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/pv7XdDBw/ba525ccde969.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 248
+    },
+    {
       "name": "Rana cable TV",
       "type": "custom",
       "wantedSources": [],
