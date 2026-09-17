@@ -684,8 +684,7 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/tsports.m3u8",
-        "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
+        "https://wpu.hridoytv-direct.workers.dev/tsports.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
