@@ -684,11 +684,12 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
+        "https://wpu.hridoytv-direct.workers.dev/tsports.m3u8",
         "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/tsports6.m3u8",
+      "url": "https://wpu.hridoytv-direct.workers.dev/tsports.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp",
       "enabled": true,
@@ -767,7 +768,7 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [
-        "cz::ten sports"
+        "sp::ten sports"
       ],
       "customErrorEnabled": false,
       "customErrorMessage": "",
