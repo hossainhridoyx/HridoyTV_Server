@@ -295,6 +295,27 @@
       "order": 60
     },
     {
+      "name": "TNT sports 1",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "otv:: UK: TNT Sport 1"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 64
+    },
+    {
       "name": "ATN News",
       "type": "wanted",
       "wantedSources": [],
@@ -908,6 +929,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 63
+    },
+    {
+      "name": "Sports 1",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/sports1.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/sports1.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/nrpy5dgV/Hridoy-TV-new-channels-(38).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": true,
+      "newUntil": null,
+      "order": 67
     },
     {
       "name": "Red Bull TV",
