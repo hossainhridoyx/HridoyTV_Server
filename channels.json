@@ -5754,6 +5754,48 @@
       "order": 417
     },
     {
+      "name": "Discovery Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/disbangla.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/disbangla.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 418
+    },
+    {
+      "name": "Discovery Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 419
+    },
+    {
       "name": "National Geographic HD",
       "type": "custom",
       "wantedSources": [],
