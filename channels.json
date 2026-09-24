@@ -1,48 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "PTV sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: FIFA: PTV SPORTS"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 21
-    },
-    {
-      "name": "Geo Super HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: PK | Geo Super HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 23
-    },
-    {
       "name": "Cricbuzz",
       "type": "wanted",
       "wantedSources": [],
@@ -85,48 +43,6 @@
       "order": 28
     },
     {
-      "name": "Star sports 1",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp::star sports 1 hindi"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKqDbqKD/Hridoy-TV-pro-(63).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 29
-    },
-    {
-      "name": "Star sports 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: Star Sports 2 (4K)"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 32
-    },
-    {
       "name": "Star Sports 2 Hindi",
       "type": "wanted",
       "wantedSources": [],
@@ -142,7 +58,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": false,
       "newUntil": null,
       "order": 34
@@ -209,27 +125,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 40
-    },
-    {
-      "name": "Unite8 Sports 1 HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: Unite8 Sports 1 HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 42
     },
     {
       "name": "Fox Cricket",
@@ -356,27 +251,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 60
-    },
-    {
-      "name": "Eurosport",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Eurosport hd"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/SQdX8tkD/In-Shot-20260820-160203891.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 63
     },
     {
       "name": "TNT sports 1",
@@ -1641,27 +1515,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 22
-    },
-    {
-      "name": "Willow Sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://warm-caverns-48629-92fab798385f.herokuapp.com/Willow_TV540p.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/Willow_TV540p.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 25
     },
     {
       "name": "Star sports 1 select",
