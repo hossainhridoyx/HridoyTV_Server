@@ -190,6 +190,27 @@
       "order": 35
     },
     {
+      "name": "Ten cricket",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony ten cricket"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/bv8mBxR3/In-Shot-20260820-121805068.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 39
+    },
+    {
       "name": "Ten Sports",
       "type": "wanted",
       "wantedSources": [],
@@ -484,6 +505,132 @@
       "order": 221
     },
     {
+      "name": "Zee Bangla",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd:: zee bangla"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 224
+    },
+    {
+      "name": "Sony Aath",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony aath"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/twLtCSLS/1026986f1669.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 232
+    },
+    {
+      "name": "Zee Bangla Sonar HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::zee Bangla cinema"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Indian Bangla",
+      "logo": "https://iili.io/Cgg8ACl.md.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 238
+    },
+    {
+      "name": "Sony Max HD",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony max hd"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 272
+    },
+    {
+      "name": "Sony Max 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony max 2"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 274
+    },
+    {
+      "name": "Sony Pix",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony pix hd"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/523JKrft/Hridoy-TV-channel-(1).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 277
+    },
+    {
       "name": "AXN Black",
       "type": "wanted",
       "wantedSources": [],
@@ -718,27 +865,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 37
-    },
-    {
-      "name": "Ten cricket",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/ten_cricket/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/ten_cricket/playlist.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/bv8mBxR3/In-Shot-20260820-121805068.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 39
     },
     {
       "name": "Pk sports",
@@ -3455,27 +3581,6 @@
       "order": 220
     },
     {
-      "name": "Zee Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bangla/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bangla/playlist.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 224
-    },
-    {
       "name": "Enter 10 Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -3497,27 +3602,6 @@
       "order": 229
     },
     {
-      "name": "Sony Aath",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyaath/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonyaath/playlist.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/twLtCSLS/1026986f1669.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 232
-    },
-    {
       "name": "Zee Bangla Sonar",
       "type": "custom",
       "wantedSources": [],
@@ -3537,27 +3621,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 237
-    },
-    {
-      "name": "Zee Bangla Sonar HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bangla_cinema/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zee_bangla_cinema/playlist.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://iili.io/Cgg8ACl.md.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 238
     },
     {
       "name": "Amar Bangla TV",
@@ -4043,48 +4106,6 @@
       "order": 265
     },
     {
-      "name": "Sony Max HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_max_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sony_max_hd/playlist.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 272
-    },
-    {
-      "name": "Sony Max 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonymax_2/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonymax_2/playlist.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 274
-    },
-    {
       "name": "Sony Movies",
       "type": "custom",
       "wantedSources": [],
@@ -4125,27 +4146,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 276
-    },
-    {
-      "name": "Sony Pix",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonypix_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonypix_hd/playlist.m3u8",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/523JKrft/Hridoy-TV-channel-(1).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 277
     },
     {
       "name": "Sony Wah",
