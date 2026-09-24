@@ -64,27 +64,6 @@
       "order": 24
     },
     {
-      "name": "Willow Sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: willow sports"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 25
-    },
-    {
       "name": "Willow 2",
       "type": "wanted",
       "wantedSources": [],
@@ -1662,6 +1641,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 22
+    },
+    {
+      "name": "Willow Sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/willow.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/willow.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 25
     },
     {
       "name": "Star sports 1 select",
