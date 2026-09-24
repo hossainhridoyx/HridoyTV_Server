@@ -1,6 +1,27 @@
 {
   "wantedChannels": [
     {
+      "name": "HridoyTV Test 2",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd:: somoy tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Other",
+      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": 1784570399000,
+      "order": 1
+    },
+    {
       "name": "PTV sports",
       "type": "wanted",
       "wantedSources": [],
@@ -632,27 +653,6 @@
     }
   ],
   "customChannels": [
-    {
-      "name": "HridoyTV Test 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/1080/1080.m3u8?hdntl=Expires=1790329156~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=AZR2wJq1eCF1Rr23k0OPMS5uUaU5QAeqqZhtRmulfRaT8l2NzjzOejJSjktcPFyeKCKqQiUJOuVYldAZF3DDErQ3XloI"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/1080/1080.m3u8?hdntl=Expires=1790329156~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=AZR2wJq1eCF1Rr23k0OPMS5uUaU5QAeqqZhtRmulfRaT8l2NzjzOejJSjktcPFyeKCKqQiUJOuVYldAZF3DDErQ3XloI",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
     {
       "name": "HridoyTV",
       "type": "custom",
