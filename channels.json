@@ -1072,6 +1072,28 @@
       "order": 301
     },
     {
+      "name": "Sonic Bangla",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [
+        "https://csockets.hellohridoy.workers.dev/sonicbangla.m3u8",
+        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
+      ],
+      "wantedSource": "",
+      "url": "",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 321
+    },
+    {
       "name": "Hungama",
       "type": "wanted",
       "wantedSources": [],
@@ -1577,27 +1599,6 @@
     }
   ],
   "customChannels": [
-    {
-      "name": "HridoyTV Test 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://sports.hridoytv.workers.dev/"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://sports.hridoytv.workers.dev/",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
     {
       "name": "HridoyTV",
       "type": "custom",
@@ -4862,6 +4863,49 @@
       "order": 317
     },
     {
+      "name": "Duranta TV 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/durontotv.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/durontotv.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 320
+    },
+    {
+      "name": "Nick Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
+        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 323
+    },
+    {
       "name": "Disney Channel 2",
       "type": "custom",
       "wantedSources": [],
@@ -5767,27 +5811,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 418
-    },
-    {
-      "name": "Discovery Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://pro.hridoytv-pro.workers.dev/live/3428.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/8kRTLdSV/Resized-Image-2026-08-13-12-49-57-4666-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 419
     },
     {
       "name": "National Geographic HD",
