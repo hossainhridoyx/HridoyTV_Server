@@ -1,27 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "HridoyTV Test 2",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd:: somoy tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Other",
-      "logo": "https://i.postimg.cc/28n1m3C9/Resized-Image-2026-07-20-21-25-14-2754-1.webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": 1784570399000,
-      "order": 1
-    },
-    {
       "name": "PTV sports",
       "type": "wanted",
       "wantedSources": [],
@@ -683,11 +662,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/tsports.m3u8"
+        "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/tsports.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/tsports6.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp",
       "enabled": true,
