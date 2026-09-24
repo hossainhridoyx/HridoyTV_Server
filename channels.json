@@ -421,6 +421,111 @@
       "order": 64
     },
     {
+      "name": "Somoy TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Somoy TV"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 94
+    },
+    {
+      "name": "Jamuna TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd:: jamuna TV"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 96
+    },
+    {
+      "name": "Ekattor TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Ekattor tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 97
+    },
+    {
+      "name": "Independent TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Independent TV"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 98
+    },
+    {
+      "name": "Ekhon TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Ekhon TV"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "News",
+      "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 99
+    },
+    {
       "name": "ATN News",
       "type": "wanted",
       "wantedSources": [],
@@ -461,6 +566,153 @@
       "isNew": false,
       "newUntil": null,
       "order": 146
+    },
+    {
+      "name": "Movie Bangla TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Movie bangla"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/LzR4jSNT/1a05a5b0caa0.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 154
+    },
+    {
+      "name": "Bijoy TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Bijoy TV"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Pxr3sFRj/Hridoy-TV-Bangla-channel-(9).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 156
+    },
+    {
+      "name": "Desh TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Desh tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/DZyjkYMV/Hridoy-TV-Bangla-channel-(6).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 159
+    },
+    {
+      "name": "Rajdhani TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Rajdhani tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/LX6CK0b6/Hridoy-TV-Bangla-channel-(16).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 164
+    },
+    {
+      "name": "Nexus TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Nexus tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/gJkSFBTc/Hridoy-TV-Bangla-channel-(15).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 167
+    },
+    {
+      "name": "Amanda TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Ananda tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Jn46Vd2M/Hridoy-TV-Bangla-channel-(11).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 169
+    },
+    {
+      "name": "Global TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::global tv"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/1t5ChYjP/Hridoy-TV-Bangla-channel-(12).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 170
     },
     {
       "name": "S Bangla TV",
@@ -1833,27 +2085,6 @@
       "order": 93
     },
     {
-      "name": "Somoy TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/somoy_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/somoy_tv/playlist.m3u8",
-      "category": "News",
-      "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 94
-    },
-    {
       "name": "Star News",
       "type": "custom",
       "wantedSources": [],
@@ -1873,92 +2104,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 95
-    },
-    {
-      "name": "Jamuna TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/jamuna_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/jamuna_tv/playlist.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 96
-    },
-    {
-      "name": "Ekattor TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/ekattor_tv/playlist.m3u8",
-        "https://jbd.hossainhridoy.workers.dev/ekattortv.m3u8",
-        "https://proxy.hridoytv.workers.dev/ekattortv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/ekattor_tv/playlist.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 97
-    },
-    {
-      "name": "Independent TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/independent_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/independent_tv/playlist.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 98
-    },
-    {
-      "name": "Ekhon TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/ekhon_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/ekhon_tv/playlist.m3u8",
-      "category": "News",
-      "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 99
     },
     {
       "name": "JagoNews24",
@@ -2972,27 +3117,6 @@
       "order": 153
     },
     {
-      "name": "Movie Bangla TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/movie_bangla/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/movie_bangla/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.ibb.co/LzR4jSNT/1a05a5b0caa0.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 154
-    },
-    {
       "name": "SRK TV",
       "type": "custom",
       "wantedSources": [],
@@ -3012,27 +3136,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 155
-    },
-    {
-      "name": "Bijoy TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/bijoytv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/bijoytv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Pxr3sFRj/Hridoy-TV-Bangla-channel-(9).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 156
     },
     {
       "name": "Channel 9",
@@ -3075,27 +3178,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 158
-    },
-    {
-      "name": "Desh TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/desh_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/desh_tv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/DZyjkYMV/Hridoy-TV-Bangla-channel-(6).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 159
     },
     {
       "name": "RTV",
@@ -3182,27 +3264,6 @@
       "order": 163
     },
     {
-      "name": "Rajdhani TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/LX6CK0b6/Hridoy-TV-Bangla-channel-(16).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 164
-    },
-    {
       "name": "Channel S",
       "type": "custom",
       "wantedSources": [],
@@ -3245,27 +3306,6 @@
       "order": 166
     },
     {
-      "name": "Nexus TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/nexus_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/nexus_tv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/gJkSFBTc/Hridoy-TV-Bangla-channel-(15).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 167
-    },
-    {
       "name": "Green TV",
       "type": "custom",
       "wantedSources": [],
@@ -3285,48 +3325,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 168
-    },
-    {
-      "name": "Amanda TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/anandatv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/anandatv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Jn46Vd2M/Hridoy-TV-Bangla-channel-(11).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 169
-    },
-    {
-      "name": "Global TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/globaltv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/globaltv/playlist.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/1t5ChYjP/Hridoy-TV-Bangla-channel-(12).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 170
     },
     {
       "name": "Bangla TV",
