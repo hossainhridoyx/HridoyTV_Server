@@ -1650,11 +1650,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/willow.m3u8"
+        "https://warm-caverns-48629-92fab798385f.herokuapp.com/Willow_TV540p.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/willow.m3u8",
+      "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/Willow_TV540p.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg",
       "enabled": true,
