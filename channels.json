@@ -3328,48 +3328,6 @@
       "order": 177
     },
     {
-      "name": "Amar Bangla 24",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/amarbangla24.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/amarbangla24.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/CLbV9Ydr/Resized-Image-2026-08-09-12-00-06-6081-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 179
-    },
-    {
-      "name": "Desh Bangla TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://jbd.hossainhridoy.workers.dev/deshbanglatv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://jbd.hossainhridoy.workers.dev/deshbanglatv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/Fs0Qwm1T/Resized-Image-2026-08-09-12-00-05-1963-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 181
-    },
-    {
       "name": "Probashi TV",
       "type": "custom",
       "wantedSources": [],
@@ -3683,27 +3641,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 205
-    },
-    {
-      "name": "US BD TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/usbdtv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/usbdtv.m3u8",
-      "category": "Bangla",
-      "logo": "https://i.postimg.cc/667QwG5j/Hridoy-TV-bangla-(4).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 207
     },
     {
       "name": "NRB TV",
