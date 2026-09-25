@@ -3020,11 +3020,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/channel92.m3u8"
+        "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/channel92.m3u8",
+      "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
       "enabled": true,
