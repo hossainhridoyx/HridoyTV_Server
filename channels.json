@@ -1622,6 +1622,27 @@
       "order": 2
     },
     {
+      "name": "T sports (best)",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://csockets.hellohridoy.workers.dev/tsports.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csockets.hellohridoy.workers.dev/tsports.m3u8",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/VLBFsKdb/Resized-Image-2026-08-13-01-27-56-3665-1.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 11
+    },
+    {
       "name": "T sports",
       "type": "custom",
       "wantedSources": [],
