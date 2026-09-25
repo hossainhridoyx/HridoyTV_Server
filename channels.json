@@ -1262,6 +1262,111 @@
       "order": 393
     },
     {
+      "name": "Hum TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::hum"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/vmZBVjVK/Hridoy-TV-entertainment-channel-(2).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 402
+    },
+    {
+      "name": "Hum Sitary",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Hum sitaray"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/hGZGbrLM/Hridoy-TV-entertainment-channel-(3).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 403
+    },
+    {
+      "name": "Hum Masala",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Hum masala"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 404
+    },
+    {
+      "name": "And TV",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::&TV HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/hGZGbrL2/Hridoy-TV-entertainment-channel-(5).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 405
+    },
+    {
+      "name": "Zing",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Zing"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Entertainment",
+      "logo": "https://i.postimg.cc/KYpYrNPW/Hridoy-TV-entertainment-channel-(9).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 406
+    },
+    {
       "name": "Animal Planet",
       "type": "wanted",
       "wantedSources": [],
@@ -1407,6 +1512,48 @@
       "isNew": false,
       "newUntil": null,
       "order": 426
+    },
+    {
+      "name": "Sony BBC Earth",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony BBC earth HD"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 431
+    },
+    {
+      "name": "TLC",
+      "type": "wanted",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::tlc"
+      ],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "",
+      "category": "Lifestyle/Doc",
+      "logo": "https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 439
     },
     {
       "name": "Islamic TV",
@@ -5477,111 +5624,6 @@
       "order": 401
     },
     {
-      "name": "Hum TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_tv/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_tv/playlist.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/vmZBVjVK/Hridoy-TV-entertainment-channel-(2).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 402
-    },
-    {
-      "name": "Hum Sitary",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_sitaray/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_sitaray/playlist.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/hGZGbrLM/Hridoy-TV-entertainment-channel-(3).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 403
-    },
-    {
-      "name": "Hum Masala",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_masala/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/hum_masala/playlist.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 404
-    },
-    {
-      "name": "And TV",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/and_tv_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/and_tv_hd/playlist.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/hGZGbrL2/Hridoy-TV-entertainment-channel-(5).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 405
-    },
-    {
-      "name": "Zing",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/zing_sd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/zing_sd/playlist.m3u8",
-      "category": "Entertainment",
-      "logo": "https://i.postimg.cc/KYpYrNPW/Hridoy-TV-entertainment-channel-(9).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 406
-    },
-    {
       "name": "Dangal",
       "type": "custom",
       "wantedSources": [],
@@ -5813,27 +5855,6 @@
       "order": 429
     },
     {
-      "name": "Sony BBC Earth",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 431
-    },
-    {
       "name": "Travel Xp",
       "type": "custom",
       "wantedSources": [],
@@ -5916,27 +5937,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 437
-    },
-    {
-      "name": "TLC",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://tbd.hossainhridoy.workers.dev/cdn/live/tlc_sd/playlist.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp",
-      "enabled": true,
-      "pinned": false,
-      "isNew": false,
-      "newUntil": null,
-      "order": 439
     },
     {
       "name": "CGTN document",
