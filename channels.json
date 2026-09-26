@@ -925,28 +925,6 @@
       "order": 301
     },
     {
-      "name": "Sonic Bangla",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [
-        "https://csockets.hellohridoy.workers.dev/sonicbangla.m3u8",
-        "https://pro.hridoytv-pro.workers.dev/live/1345.m3u8"
-      ],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 321
-    },
-    {
       "name": "Hungama",
       "type": "wanted",
       "wantedSources": [],
@@ -1620,27 +1598,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 2
-    },
-    {
-      "name": "T sports (best)",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/tsports.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/tsports.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/VLBFsKdb/Resized-Image-2026-08-13-01-27-56-3665-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 11
     },
     {
       "name": "T sports",
@@ -4021,69 +3978,6 @@
       "order": 220
     },
     {
-      "name": "Star Jalsha Fast 🚀",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/starjalsha.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/starjalsha.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/m2y53376/In-Shot-20260902-020835973.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 222
-    },
-    {
-      "name": "Zee Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/zeebangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/zeebangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/4NP9BV6r/Resized-Image-2026-08-10-11-47-58-7157-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 225
-    },
-    {
-      "name": "Colors Bangla HD",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/colorsbangla.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 227
-    },
-    {
       "name": "Enter 10 Bangla",
       "type": "custom",
       "wantedSources": [],
@@ -4103,48 +3997,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 229
-    },
-    {
-      "name": "Color Bangla Cinema",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/colorsbanglaci.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/colorsbanglaci.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/mkT9LQHW/Resized-Image-2026-07-01-14-41-46-8204-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 234
-    },
-    {
-      "name": "Jalsha Movies",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/jalshamovies.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/jalshamovies.m3u8",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 236
     },
     {
       "name": "Zee Bangla Sonar",
@@ -4924,49 +4776,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 317
-    },
-    {
-      "name": "Duranta TV 2",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/durontotv.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/durontotv.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/G3jqQKPN/In-Shot-20260808-124540267.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 320
-    },
-    {
-      "name": "Nick Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
-        "https://pro.hridoytv-pro.workers.dev/live/1341.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/nickbangla.m3u8",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 323
     },
     {
       "name": "Disney Channel 2",
@@ -5750,27 +5559,6 @@
       "order": 412
     },
     {
-      "name": "Discovery Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/disbangla.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/disbangla.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/WpGs0mvL/Resized-Image-2026-08-13-12-50-00-6767-3.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 418
-    },
-    {
       "name": "National Geographic HD",
       "type": "custom",
       "wantedSources": [],
@@ -5790,27 +5578,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 420
-    },
-    {
-      "name": "National Geographic Bangla",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://csockets.hellohridoy.workers.dev/nationalgeobangal.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/nationalgeobangal.m3u8",
-      "category": "Lifestyle/Doc",
-      "logo": "https://i.postimg.cc/qqV0C8FP/In-Shot-20260925-111631647.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": true,
-      "newUntil": null,
-      "order": 421
     },
     {
       "name": "History TV",
