@@ -1607,12 +1607,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://temp-play.hridoytv-channel.workers.dev",
         "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://temp-play.hridoytv-channel.workers.dev",
+      "url": "https://proxy.hridoytv.workers.dev/tsports6.m3u8",
       "category": "Sports",
       "logo": "https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp",
       "enabled": true,
