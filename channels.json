@@ -274,90 +274,6 @@
       "order": 64
     },
     {
-      "name": "Somoy TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Somoy TV"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 94
-    },
-    {
-      "name": "Jamuna TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd:: jamuna TV"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 96
-    },
-    {
-      "name": "Ekattor TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Ekattor tv"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 97
-    },
-    {
-      "name": "Independent TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Independent TV"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 98
-    },
-    {
       "name": "ATN News",
       "type": "wanted",
       "wantedSources": [],
@@ -673,27 +589,6 @@
       "order": 221
     },
     {
-      "name": "Sony Aath",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Sony aath"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co/twLtCSLS/1026986f1669.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 232
-    },
-    {
       "name": "Zee Bangla Sonar HD",
       "type": "wanted",
       "wantedSources": [],
@@ -923,27 +818,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 329
-    },
-    {
-      "name": "Sony Yay",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Sony yay"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/KzWhg9TZ/Hridoy-TV-cartoon-(8).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 330
     },
     {
       "name": "Cartoon Network",
@@ -2022,6 +1896,27 @@
       "order": 93
     },
     {
+      "name": "Somoy TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/somoytv5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/somoytv5.m3u8",
+      "category": "News",
+      "logo": "https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 94
+    },
+    {
       "name": "Star News",
       "type": "custom",
       "wantedSources": [],
@@ -2041,6 +1936,69 @@
       "isNew": false,
       "newUntil": null,
       "order": 95
+    },
+    {
+      "name": "Jamuna TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/jamunatv5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/jamunatv5.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 96
+    },
+    {
+      "name": "Ekattor TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ekattortv5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ekattortv5.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 97
+    },
+    {
+      "name": "Independent TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/independenttv5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/independenttv5.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 98
     },
     {
       "name": "Ekhon TV",
@@ -3978,6 +3936,48 @@
       "order": 229
     },
     {
+      "name": "Sony Aath",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sonyaath5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sonyaath5.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/twLtCSLS/1026986f1669.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 232
+    },
+    {
+      "name": "Jalsha Movies",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 236
+    },
+    {
       "name": "Zee Bangla Sonar",
       "type": "custom",
       "wantedSources": [],
@@ -4755,6 +4755,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 317
+    },
+    {
+      "name": "Sony Yay",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/sonyyay5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/sonyyay5.m3u8",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/KzWhg9TZ/Hridoy-TV-cartoon-(8).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 330
     },
     {
       "name": "Disney Channel 2",
