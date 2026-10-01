@@ -358,27 +358,6 @@
       "order": 98
     },
     {
-      "name": "Ekhon TV",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Ekhon TV"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "News",
-      "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 99
-    },
-    {
       "name": "ATN News",
       "type": "wanted",
       "wantedSources": [],
@@ -2062,6 +2041,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 95
+    },
+    {
+      "name": "Ekhon TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://proxy.hridoytv.workers.dev/ekhontv5.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://proxy.hridoytv.workers.dev/ekhontv5.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 99
     },
     {
       "name": "JagoNews24",
