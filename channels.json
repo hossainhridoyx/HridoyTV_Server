@@ -694,27 +694,6 @@
       "order": 221
     },
     {
-      "name": "Zee Bangla",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd:: zee bangla"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 224
-    },
-    {
       "name": "Sony Aath",
       "type": "wanted",
       "wantedSources": [],
@@ -1598,27 +1577,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 2
-    },
-    {
-      "name": "T sports",
-      "type": "custom",
-      "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [
-        "https://proxy.hridoytv.workers.dev/tsports6.m3u8"
-      ],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/tsports6.m3u8",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 12
     },
     {
       "name": "A sports",
@@ -3976,6 +3934,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 220
+    },
+    {
+      "name": "Zee Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 224
     },
     {
       "name": "Enter 10 Bangla",
