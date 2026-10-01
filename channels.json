@@ -5272,11 +5272,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://csockets.hellohridoy.workers.dev/starplus.m3u8"
+        "https://proxy.hridoytv.workers.dev/starplus5.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://csockets.hellohridoy.workers.dev/starplus.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/starplus5.m3u8",
       "category": "Entertainment",
       "logo": "https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp",
       "enabled": true,
