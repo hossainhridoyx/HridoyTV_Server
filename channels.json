@@ -3898,8 +3898,8 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি পেইড চ্যানেল। 50 টাকায় 7 দিন স্টার জলসা দেখুন। কিনতে Whatsapp করুন: 01953-561473",
       "streams": [
         "https://www.profitableratecpmnetwork.com/k22qafx6xt?key=543ba9df4b6e320a9b72f016314d6d5c"
       ],
