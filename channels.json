@@ -547,27 +547,6 @@
       "order": 184
     },
     {
-      "name": "Star Jalsa HD",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: IND-Bangla: Star Jalsa HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Indian Bangla",
-      "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 221
-    },
-    {
       "name": "Zee Bangla Sonar HD",
       "type": "wanted",
       "wantedSources": [],
@@ -3892,6 +3871,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 220
+    },
+    {
+      "name": "Star Jalsha HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": false,
+      "customErrorMessage": "",
+      "streams": [
+        "https://skym3u-play.hridoytvx.workers.dev"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://skym3u-play.hridoytvx.workers.dev",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 221
     },
     {
       "name": "Zee Bangla",
