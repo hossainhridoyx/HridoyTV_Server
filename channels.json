@@ -3880,11 +3880,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://skym3u-play.hridoytvx.workers.dev/?url=https%3A%2F%2Fflussonic.defineatoz.com%2FStarjalshaHD%2Fplaylist.m3u8"
+        "https://skym3u-play.hridoytvx.workers.dev"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://skym3u-play.hridoytvx.workers.dev/?url=https%3A%2F%2Fflussonic.defineatoz.com%2FStarjalshaHD%2Fplaylist.m3u8",
+      "url": "https://skym3u-play.hridoytvx.workers.dev",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
       "enabled": true,
