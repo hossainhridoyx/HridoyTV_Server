@@ -1,27 +1,6 @@
 {
   "wantedChannels": [
     {
-      "name": "Cricbuzz",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: IN | Astro Cricket HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 24
-    },
-    {
       "name": "Willow 2",
       "type": "wanted",
       "wantedSources": [],
@@ -43,27 +22,6 @@
       "order": 28
     },
     {
-      "name": "Star Sports 2 Hindi",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: IND: Star Sports 2 Hindi HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 34
-    },
-    {
       "name": "Star Sports 3",
       "type": "wanted",
       "wantedSources": [],
@@ -83,69 +41,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 35
-    },
-    {
-      "name": "Ten cricket",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Sony ten cricket"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/bv8mBxR3/In-Shot-20260820-121805068.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 39
-    },
-    {
-      "name": "Ten Sports",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp::ten sports"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/htwShsL8/ten-sports-Hridoy-TV.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 40
-    },
-    {
-      "name": "Fox Cricket",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: AU: FOX CRICKET 501"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 44
     },
     {
       "name": "Super Sports Cricket",
@@ -230,27 +125,6 @@
       "isNew": false,
       "newUntil": null,
       "order": 54
-    },
-    {
-      "name": "Sky sports cricket",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "sp:: sky sports cricket"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Sports",
-      "logo": "https://i.postimg.cc/XvBR9K4B/Resized-Image-2026-07-24-20-10-46-5697-2.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 60
     },
     {
       "name": "TNT sports 1",
@@ -1449,7 +1323,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/9Q6VtJqM/In-Shot-20260820-020047815.jpg",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": false,
       "newUntil": null,
       "order": 41
@@ -1470,7 +1344,7 @@
       "category": "Sports",
       "logo": "https://i.postimg.cc/KzpNTMDn/Hridoy-TV-pro-(86).webp",
       "enabled": true,
-      "pinned": false,
+      "pinned": true,
       "isNew": false,
       "newUntil": null,
       "order": 68
@@ -1903,11 +1777,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/jamunatv5.m3u8"
+        "https://proxy.hridoytv.workers.dev/jamunatv2.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/jamunatv5.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/jamunatv2.m3u8",
       "category": "News",
       "logo": "https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg",
       "enabled": true,
