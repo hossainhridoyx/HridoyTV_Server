@@ -1368,6 +1368,27 @@
   ],
   "customChannels": [
     {
+      "name": "Star Jalsa Paid",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি পেইড চ্যানেল। 50 টাকায় 7 দিন স্টার জলসা দেখুন। কিনতে Whatsapp করুন: 01953-561473",
+      "streams": [
+        "https://buy.workers.dev/starj.m3u8"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://buy.workers.dev/starj.m3u8",
+      "category": "Indian Bangla",
+      "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 0
+    },
+    {
       "name": "HridoyTV",
       "type": "custom",
       "wantedSources": [],
@@ -3856,14 +3877,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি পেইড চ্যানেল। 50 টাকায় 7 দিন স্টার জলসা দেখুন। কিনতে Whatsapp করুন: 01953-561473",
       "streams": [
-        "https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8"
+        "https://buy.workers.dev/starj.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8",
+      "url": "https://buy.workers.dev/starj.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/v4j2n2rb/daf4f35fe617.jpg",
       "enabled": true,
@@ -3880,11 +3901,11 @@
       "customErrorEnabled": false,
       "customErrorMessage": "",
       "streams": [
-        "https://skym3u-play.hridoytvx.workers.dev"
+        "https://www.profitableratecpmnetwork.com/k22qafx6xt?key=543ba9df4b6e320a9b72f016314d6d5c"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://skym3u-play.hridoytvx.workers.dev",
+      "url": "https://www.profitableratecpmnetwork.com/k22qafx6xt?key=543ba9df4b6e320a9b72f016314d6d5c",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp",
       "enabled": true,
