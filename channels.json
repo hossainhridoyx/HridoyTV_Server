@@ -3793,14 +3793,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি পেইড চ্যানেল। 50 টাকায় 7 দিন জী বাংলা দেখুন। কিনতে Whatsapp করুন: 01953-561473",
       "streams": [
-        "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8"
+        "https://hridoytv.paid.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8",
+      "url": "https://hridoytv.paid.m3u8",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg",
       "enabled": true,
