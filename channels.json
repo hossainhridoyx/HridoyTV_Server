@@ -3810,6 +3810,27 @@
       "order": 225
     },
     {
+      "name": "Zee Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি পেইড চ্যানেল। 50 টাকায় 7 দিন জী বাংলা দেখুন। কিনতে Whatsapp করুন: 01953-561473",
+      "streams": [
+        "https://paid.hridoytv"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://paid.hridoytv",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/4NP9BV6r/Resized-Image-2026-08-10-11-47-58-7157-2.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": true,
+      "newUntil": null,
+      "order": 226
+    },
+    {
       "name": "Enter 10 Bangla",
       "type": "custom",
       "wantedSources": [],
