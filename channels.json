@@ -616,8 +616,8 @@
       "customMatchNames": [
         "otv:: IN: Hungama**"
       ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "মাত্র 50 টাকা দিয়ে সকল প্রো চ্যানেল দেখুন। WhatsApp: 01953561473",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -3855,14 +3855,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "মাত্র 50 টাকায় জলসা মুভিসহ সকল প্রো চ্যানেল দেখুন। WhatsApp: 01953561473",
       "streams": [
-        "http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8"
+        "Https://pro.hridoytv"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8",
+      "url": "Https://pro.hridoytv",
       "category": "Indian Bangla",
       "logo": "https://i.postimg.cc/brqnyQ24/Resized-Image-2026-07-01-14-41-48-1300-3.webp",
       "enabled": true,
