@@ -5226,14 +5226,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি চ্যানেলটি প্রো চ্যানেল। মাত্র 50 টাকায় দেখুন সকল প্রো চ্যানেল।",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/starplus5.m3u8"
+        "https://proxy.hridoytv.workers.dev/starplus5555.m3u8"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/starplus5.m3u8",
+      "url": "https://proxy.hridoytv.workers.dev/starplus5555.m3u8",
       "category": "Entertainment",
       "logo": "https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp",
       "enabled": true,
