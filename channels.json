@@ -631,27 +631,6 @@
       "order": 328
     },
     {
-      "name": "Nickelodeon 🔥",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: Af | DSTV: Nickelodeon HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://iili.io/CpgdfYN.md.webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 330
-    },
-    {
       "name": "Cartoon Network",
       "type": "wanted",
       "wantedSources": [],
@@ -3807,6 +3786,27 @@
       "isNew": true,
       "newUntil": null,
       "order": 226
+    },
+    {
+      "name": "Colors Bangla HD",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "কালার্স বাংলাসহ সকল প্রো চ্যানেল দেখুন মাত্র 50 টাকা থেকে। WhatsApp: 01953561473",
+      "streams": [
+        "https://csocket.hridoytv.pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://csocket.hridoytv.pro",
+      "category": "Indian Bangla",
+      "logo": "https://i.postimg.cc/KvfMJBPC/Resized-Image-2026-08-10-11-47-59-3904-3.webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 228
     },
     {
       "name": "Enter 10 Bangla",
