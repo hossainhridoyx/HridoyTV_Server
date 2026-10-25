@@ -3897,14 +3897,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি pro চ্যানেল। 50 টাকায় সকল চ্যানেল দেখুন।",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/sonyaath5.m3u8"
+        "https://proxysonyaath5"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sonyaath5.m3u8",
+      "url": "https://proxysonyaath5",
       "category": "Indian Bangla",
       "logo": "https://i.ibb.co/twLtCSLS/1026986f1669.jpg",
       "enabled": true,
