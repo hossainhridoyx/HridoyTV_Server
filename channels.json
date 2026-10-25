@@ -4439,6 +4439,27 @@
       "order": 266
     },
     {
+      "name": "Colors Cineplex",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "মাত্র 50 টাকায় সকল প্রো চ্যানেল উপভোগ করুন। WhatsApp: 01953561473",
+      "streams": [
+        "Https://pro.tabtv"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "Https://pro.tabtv",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 268
+    },
+    {
       "name": "Sony Movies",
       "type": "custom",
       "wantedSources": [],
