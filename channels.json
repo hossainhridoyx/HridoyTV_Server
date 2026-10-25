@@ -1306,6 +1306,27 @@
       "order": 22
     },
     {
+      "name": "Willow",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। কিনতে যোগাযোগ করুন।",
+      "streams": [
+        "Https://pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "Https://pro",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/KYC7nc0V/In-Shot-20260809-032306616.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 26
+    },
+    {
       "name": "Star sports 1 select",
       "type": "custom",
       "wantedSources": [],
