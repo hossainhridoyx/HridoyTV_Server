@@ -2952,14 +2952,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। মাত্র 50 টাকা। কন্টাক্ট করুন কেনার জন্য।",
       "streams": [
-        "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts"
+        "http://premiumtvs"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts",
+      "url": "http://premiumtvs",
       "category": "Bangla",
       "logo": "https://i.postimg.cc/MTKP2rFJ/Hridoy-TV-Bangla-channel-(8).webp",
       "enabled": true,
