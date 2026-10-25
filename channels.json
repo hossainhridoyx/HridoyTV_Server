@@ -2631,6 +2631,27 @@
       "order": 140
     },
     {
+      "name": "Nagorik TV",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "প্রো চ্যানেল। সকল প্রো চ্যানেল কিনুন মাত্র 50 টাকা থেকে।",
+      "streams": [
+        "https://dip.itshridoy"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://dip.itshridoy",
+      "category": "Bangla",
+      "logo": "https://i.ibb.co/jPYGdxxX/0a6b9db45240.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 141
+    },
+    {
       "name": "GTV",
       "type": "custom",
       "wantedSources": [],
