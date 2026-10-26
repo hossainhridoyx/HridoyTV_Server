@@ -673,27 +673,6 @@
       "order": 335
     },
     {
-      "name": "Disney channel",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "otv:: IN | DISNEY HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 336
-    },
-    {
       "name": "Disney Jr. Hindi",
       "type": "wanted",
       "wantedSources": [],
@@ -4800,25 +4779,27 @@
       "order": 331
     },
     {
-      "name": "Disney Channel 2",
+      "name": "Disney channel",
       "type": "custom",
       "wantedSources": [],
-      "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customMatchNames": [
+        "otv:: IN | DISNEY HD"
+      ],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল,, মাত্র 50 টাকায় সকল চ্যানেল পান।",
       "streams": [
-        "http://202.70.146.135:8000/play/a01q/index.m3u8"
+        "Https://pro"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "http://202.70.146.135:8000/play/a01q/index.m3u8",
+      "url": "Https://pro",
       "category": "Kids",
-      "logo": "https://i.postimg.cc/5t5q8t6P/In-Shot-20260825-203230085.jpg",
+      "logo": "https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp",
       "enabled": true,
       "pinned": true,
       "isNew": false,
       "newUntil": null,
-      "order": 337
+      "order": 336
     },
     {
       "name": "ZB Cartoon",
