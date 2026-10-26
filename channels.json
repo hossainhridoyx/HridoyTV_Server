@@ -505,27 +505,6 @@
       "order": 278
     },
     {
-      "name": "Zee Cinema",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Zee cinema HD"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Movies",
-      "logo": "https://i.postimg.cc/2SwY9tCL/Hridoy-TV-channel-(6).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 293
-    },
-    {
       "name": "Zee Bollywood",
       "type": "wanted",
       "wantedSources": [],
@@ -4565,6 +4544,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 279
+    },
+    {
+      "name": "Zee Cinema",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। সকল প্রো চ্যানেল কিনুন মাত্র 50 টাকায়",
+      "streams": [
+        "Https://pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "Https://pro",
+      "category": "Movies",
+      "logo": "https://i.postimg.cc/2SwY9tCL/Hridoy-TV-channel-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 293
     },
     {
       "name": "ZEE Action",
