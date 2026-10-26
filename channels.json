@@ -700,8 +700,8 @@
       "customMatchNames": [
         "tbd::Pogo"
       ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। কিনতে কন্টাক্ট করুন।",
       "streams": [],
       "backupStreams": [],
       "wantedSource": "",
@@ -2891,14 +2891,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "It's pro TV channel. Contact for watch",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/srktv.m3u8"
+        "https://proxy.hrido"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/srktv.m3u8",
+      "url": "https://proxy.hrido",
       "category": "Bangla",
       "logo": "https://i.ibb.co/QjrPw1s1/7a733e74ad4c.jpg",
       "enabled": true,
