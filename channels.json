@@ -1350,6 +1350,29 @@
       "order": 37
     },
     {
+      "name": "Ten cricket",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [
+        "tbd::Sony ten cricket"
+      ],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এই চ্যানেলটি প্রো চ্যানেল। মাত্র 50 টাকায় সকল প্রো চ্যানেল দেখুন।",
+      "streams": [
+        "Https://fh"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "Https://fh",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/bv8mBxR3/In-Shot-20260820-121805068.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 39
+    },
+    {
       "name": "Pk sports",
       "type": "custom",
       "wantedSources": [],
