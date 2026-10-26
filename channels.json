@@ -4760,14 +4760,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। কিনতে যোগাযোগ করুন: WhatsApp: 01953561473",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/sonyyay5.m3u8"
+        "https://proxy"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/sonyyay5.m3u8",
+      "url": "https://proxy",
       "category": "Kids",
       "logo": "https://i.postimg.cc/KzWhg9TZ/Hridoy-TV-cartoon-(8).webp",
       "enabled": true,
