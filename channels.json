@@ -2659,14 +2659,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "It's pro TV channel. Contact us",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/deeptotv.m3u8"
+        "https://proxy.hri"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/deeptotv.m3u8",
+      "url": "https://proxy.hri",
       "category": "Bangla",
       "logo": "https://i.ibb.co/BHV4kWFx/ffe2fcb27c15.jpg",
       "enabled": true,
@@ -2680,14 +2680,14 @@
       "type": "custom",
       "wantedSources": [],
       "customMatchNames": [],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। মাত্র 50 টাকায় সকল প্রো চ্যানেল দেখুন।",
       "streams": [
-        "https://proxy.hridoytv.workers.dev/asiantv2.m3u8"
+        "https://proxy.hrido"
       ],
       "backupStreams": [],
       "wantedSource": "",
-      "url": "https://proxy.hridoytv.workers.dev/asiantv2.m3u8",
+      "url": "https://proxy.hrido",
       "category": "Bangla",
       "logo": "https://i.ibb.co/QFZRjVkC/cb928a1f3b49.jpg",
       "enabled": true,
