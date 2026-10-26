@@ -631,27 +631,6 @@
       "order": 328
     },
     {
-      "name": "Cartoon Network",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Cartoon Network"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 334
-    },
-    {
       "name": "Cartoon Network HD+",
       "type": "wanted",
       "wantedSources": [],
@@ -4756,6 +4735,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 331
+    },
+    {
+      "name": "Cartoon Network",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। কিনতে কন্টাক্ট করুন প্লিজ।",
+      "streams": [
+        "Https://pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "Https://pro",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 334
     },
     {
       "name": "Disney channel",
