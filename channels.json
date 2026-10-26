@@ -694,27 +694,6 @@
       "order": 338
     },
     {
-      "name": "Discovery Kids",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "tbd::Discovery kids"
-      ],
-      "customErrorEnabled": false,
-      "customErrorMessage": "",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/76RrTBzZ/Hridoy-TV-cartoon-(9).webp",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 339
-    },
-    {
       "name": "Pogo",
       "type": "wanted",
       "wantedSources": [],
@@ -4800,6 +4779,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 336
+    },
+    {
+      "name": "Discovery Kids",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল,, সকল চ্যানেল দেখতে কন্টাক্ট করুন।",
+      "streams": [
+        "Https://pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "Https://pro",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/76RrTBzZ/Hridoy-TV-cartoon-(9).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 339
     },
     {
       "name": "ZB Cartoon",
