@@ -589,27 +589,6 @@
       "order": 302
     },
     {
-      "name": "Duranta TV 🔥",
-      "type": "wanted",
-      "wantedSources": [],
-      "customMatchNames": [
-        "jsbd:: duranta tv"
-      ],
-      "customErrorEnabled": true,
-      "customErrorMessage": "মাত্র 50 টাকায় দুরন্ত টিভিসহ সকল চ্যানেল দেখুন। WhatsApp: 01953561473",
-      "streams": [],
-      "backupStreams": [],
-      "wantedSource": "",
-      "url": "",
-      "category": "Kids",
-      "logo": "https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg",
-      "enabled": true,
-      "pinned": true,
-      "isNew": false,
-      "newUntil": null,
-      "order": 320
-    },
-    {
       "name": "Hungama",
       "type": "wanted",
       "wantedSources": [],
@@ -4714,6 +4693,27 @@
       "isNew": false,
       "newUntil": null,
       "order": 318
+    },
+    {
+      "name": "Nick Bangla",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। মাত্র 50 টাকায় সকল চ্যানেল কিনুন।",
+      "streams": [
+        "https://pro.hridoytv-p"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro.hridoytv-p",
+      "category": "Kids",
+      "logo": "https://i.postimg.cc/C5tm3qZq/Hridoy-TV-pro-(6).webp",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 324
     },
     {
       "name": "Sony Yay",
