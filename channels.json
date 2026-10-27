@@ -1243,6 +1243,27 @@
       "order": 26
     },
     {
+      "name": "Star sports 2",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "It's pro tv channel. Buy now: 01953561473 Whatsapp",
+      "streams": [
+        "https://pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp",
+      "enabled": true,
+      "pinned": false,
+      "isNew": false,
+      "newUntil": null,
+      "order": 32
+    },
+    {
       "name": "Star sports 1 select",
       "type": "custom",
       "wantedSources": [],
