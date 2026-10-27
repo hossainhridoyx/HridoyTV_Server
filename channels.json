@@ -1180,6 +1180,27 @@
       "order": 12
     },
     {
+      "name": "PTV sports",
+      "type": "custom",
+      "wantedSources": [],
+      "customMatchNames": [],
+      "customErrorEnabled": true,
+      "customErrorMessage": "এটি প্রো চ্যানেল। দেখতে কন্টাক্ট করুন: Whatsapp: 01953561473",
+      "streams": [
+        "https://pro"
+      ],
+      "backupStreams": [],
+      "wantedSource": "",
+      "url": "https://pro",
+      "category": "Sports",
+      "logo": "https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg",
+      "enabled": true,
+      "pinned": true,
+      "isNew": false,
+      "newUntil": null,
+      "order": 21
+    },
+    {
       "name": "A sports",
       "type": "custom",
       "wantedSources": [],
